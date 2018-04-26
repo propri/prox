@@ -60,6 +60,7 @@ Proxies
 4 Song of the Dryads
 4 Strionic Resonator
 4 Sun Titan
+4 Swords to Plowshares
 4 Tempt with Discovery
 4 Thran Dynamo
 4 Timestream Navigator
@@ -207,6 +208,7 @@ prio
 4 Ramunap Excavator
 4 Ravenous Chupacabra
 4 Regrowth
+4 Splendid Reclamation
 4 Stinkweed Imp
 
 Saffi Eriksdotter
