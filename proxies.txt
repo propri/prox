@@ -1,0 +1,280 @@
+mtgpress.net
+Chrom(e/ium)
+104% / 105%, cut lines
+horizontally, 8/page
+
+
+Proxies
+
+4 Amulet of Vigor
+4 Anguished Unmaking
+4 Aven Mindcensor 
+4 Azor, the Lawbringer
+4 Azusa, Lost but Seeking
+4 Boros Charm
+4 Boundless Realms
+4 Cathars' Crusade
+4 Coat of Arms
+4 Cultivate
+4 Duplicant
+4 Eldrazi Displacer
+4 Elemental Bond
+4 Elemental Mastery
+4 Elvish Piper
+4 Empress Galina
+4 Farsight Mask
+4 Fractured Identity
+4 Frost Titan
+4 Garruk's Packleader
+4 Genesis
+4 Ghostway
+4 Gisela, Blade of Goldnight
+4 Harmonize
+4 Heroic Intervention (X)
+4 Isochron Scepter
+4 Kindred Boon
+4 Kindred Charge
+4 Kindred Discovery (X)
+4 Kindred Dominance
+4 Kindred Summons 
+4 Kodama's Reach
+4 Krosan Grip
+4 Lotus Cobra
+4 Lurking Predators
+4 Olivia, Mobilized for War
+4 Oracle of Mul Daya
+4 Perilous Vault
+4 Primal Vigor
+4 Regal Force
+4 Rhystic Study
+4 Rishkar's Expertise
+4 Scavenging Ooze
+4 Seer's Sundial
+4 Selfless Spirit
+4 Sensei's Divining Top (X)
+4 Shamanic Revelation
+4 Song of the Dryads
+4 Strionic Resonator
+4 Sun Titan
+4 Tempt with Discovery
+4 Timestream Navigator
+4 Tireless Tracker
+4 Traverse the Outlands
+4 Vandalblast
+4 Vanquisher's Banner
+4 Vedalken Orrery
+4 Wayward Swordtooth
+4 World Breaker
+4 Zendikar Resurgent
+
+
+
+Lands
+
+4 Adarkar Wastes
+4 Arcane Lighthouse (X)
+4 Battlefield Forge
+4 Blood Crypt
+4 Buried Ruin
+4 Canopy Vista
+4 Caves of Koilos
+4 Command Tower
+4 Dragonskull Summit
+4 Drowned Catacomb
+4 Drownyard Temple
+4 Exotic Orchard
+4 Forbidden Orchard
+4 Fortified Village
+4 Ghost Town
+4 Glacial Fortress
+4 Grand Coliseum
+4 Graven Cairns
+4 Hallowed Fountain
+4 High Market
+4 Homeward Path
+4 Irrigated Farmland
+4 Llanowar Wastes 
+4 Myriad Landscape
+4 Nykthos, Shrine to Nyx
+4 Opal Palace
+4 Overgrown Tomb
+4 Path of Ancestry
+4 Port Town
+4 Reliquary Tower
+4 Scavenger Grounds
+4 Spire of Industry
+4 Springjack Pasture
+4 Steam Vents
+4 Sunpetal Grove
+4 Temple Garden
+4 Temple of Abandon
+4 Temple of Enlightenment
+4 Temple of Plenty
+4 Temple of Triumph
+4 Terrain Generator
+4 Unclaimed Territory
+4 Warped Landscape
+4 Watery Grave
+4 Yavimaya Coast
+
+
+language
+--------
+
+Amulet of Vigor
+Ankle Shanker
+Archetype of Courage
+Chainer, Dementia Master
+Cloudhoof Kirin
+Crypt of Agadeem
+Cryptic Gateway
+Deepfathom Skulker
+Discombobulate
+Dissipate
+Eldrazi Monument
+Empress Galina
+Familiar's Ruse
+Foil
+Frazzle
+Grotesque Hybrid
+Ground Seal
+Hand of the Praetors
+Heliod, God of the Sun
+Hindering Touch
+Horribly Awry
+Humble Defector
+Inferno Titan
+Invisibility
+Ivy Lane Denizen
+Knotvine Mystic
+Laquatus's Disdain
+Mana Leak
+Memnarch
+Metallic Rebuke
+Monk Realist
+Moonsilver Spear
+Murderous Redcap
+Narset, Enlightened Master
+Necrotic Ooze
+Oracle of Mul Daya
+Overwhelming Intellect
+Progenitor Mimic
+Prophet of Kruphix
+Proteus Staff
+Render Silent
+Rewind
+Roil Elemental
+Rootwater Matriarch
+Sage's Dousing
+Savage Beating
+Scattering Stroke
+Shadowborn Demon
+Sidisi, Brood Tyrant
+Spectra Ward
+Spell Rupture
+Strionic Resonator
+Tainted Peak
+Thermopod
+Titanic Ultimatum
+Toshiro Umezawa
+Tromokratis
+Turn Aside
+Vandalblast
+Warstorm Surge
+Wild Ricochet
+Wingmate Roc
+Xathrid Gorgon
+
+
+prio
+
+4 Sol Ring
+4 Buried Alive
+4 Disciple of Bolas
+4 Ghastly Conscription
+4 Greenwarden of Murasa
+4 Eternal Witness
+4 Living Death
+4 Nekratal
+4 Primal Command
+4 Ramunap Excavator
+4 Ravenous Chupacabra
+4 Regrowth
+4 Stinkweed Imp
+
+Saffi Eriksdotter
+Karador, Ghost Chieftain
+World at War
+Worldspine Wurm
+
+
+Tokens
+
+4 Elemental (G, 2/2)
+8 Plant (0/1)
+
+
+
+
+############################################################################
+
+gedruckt
+
+############################################################################
+
+
+4 Anger
+4 Avacyn, Angel of Hope
+4 Avenger of Zendikar
+4 Cinder Glade
+4 Clever Impersonator
+4 Clifftop Retreat
+4 Curse of the Swine
+4 Cyclonic Rift
+4 Game Trail
+4 Ghostly Prison
+4 Godless Shrine
+4 Hunter's Insight
+4 Karplusan Forest
+4 Lightning Greaves
+4 Mirror Entity
+4 Momentous Fall
+4 Panharmonicon
+4 Propaganda
+4 Reflecting Pool
+4 Rootborn Defenses
+4 Sacred Foundry
+4 Soul of New Phyrexia
+
+(language proxies)
+------------------
+
+1 Inferno
+1 Arcbound Overseer
+1 Mossbridge Troll
+1 Hateflayer
+1 Apocalypse Hydra
+1 Soul of Zendikar
+1 Engulfing Slagwurm
+1 Wrexial, the Risen Deep
+1 Furyborn Hellkite
+1 Balefire Dragon
+1 Essence of the Wild
+1 Beguiler of Wills
+1 Malignus
+1 Conjurer's Closet
+1 Worldspine Wurm
+1 Master of Cruelties
+1 Xenagos, God of Revels
+1 Hydra Omnivore
+1 See the Unwritten
+1 Dragonlord Atarka
+1 Anafenza, Kin-Tree Spirit
+1 Berserkers' Onslaught
+1 Necroskitter
+1 Mind's Dilation
+1 Kalonian Hydra
+1 Stonehoof Chieftain
+1 Savage Beating
+1 Seize the Day
+
