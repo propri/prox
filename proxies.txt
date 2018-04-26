@@ -21,6 +21,7 @@ Proxies
 4 Cultivate
 4 Duplicant
 4 Eldrazi Displacer
+4 Eldrazi Monument
 4 Elemental Bond
 4 Elemental Mastery
 4 Elvish Piper
@@ -44,13 +45,19 @@ Proxies
 4 Krosan Grip
 4 Lotus Cobra
 4 Lurking Predators
+4 Marsh of Souls
+4 Martial Coup
+4 Mass Calcify
 4 Olivia, Mobilized for War
 4 Oracle of Mul Daya
 4 Perilous Vault
+4 Praetor's Counsel
 4 Primal Vigor
 4 Regal Force
 4 Rhystic Study
 4 Rishkar's Expertise
+4 Rite of Replication
+4 Rout
 4 Scavenging Ooze
 4 Seer's Sundial
 4 Selfless Spirit
@@ -58,6 +65,7 @@ Proxies
 4 Serum Visions
 4 Shamanic Revelation
 4 Song of the Dryads
+4 Staff of Nin
 4 Strionic Resonator
 4 Sun Titan
 4 Swords to Plowshares
@@ -95,6 +103,7 @@ Lands
 4 Glacial Fortress
 4 Grand Coliseum
 4 Graven Cairns
+4 Growing Rites of Itlimoc / Itlimoc, Cradle of the Sun 
 4 Hallowed Fountain
 4 High Market
 4 Homeward Path
