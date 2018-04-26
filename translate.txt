@@ -1,0 +1,259 @@
+language
+--------
+
+Amulet of Vigor
+Ankle Shanker
+Archetype of Courage
+Chainer, Dementia Master
+Cloudhoof Kirin
+Crypt of Agadeem
+Cryptic Gateway
+Deepfathom Skulker
+Discombobulate
+Dissipate
+Eldrazi Monument
+Empress Galina
+Familiar's Ruse
+Foil
+Frazzle
+Grotesque Hybrid
+Ground Seal
+Hand of the Praetors
+Heliod, God of the Sun
+Hindering Touch
+Horribly Awry
+Humble Defector
+Inferno Titan
+Invisibility
+Ivy Lane Denizen
+Knotvine Mystic
+Laquatus's Disdain
+Mana Leak
+Memnarch
+Metallic Rebuke
+Monk Realist
+Moonsilver Spear
+Murderous Redcap
+Narset, Enlightened Master
+Necrotic Ooze
+Oracle of Mul Daya
+Overwhelming Intellect
+Progenitor Mimic
+Prophet of Kruphix
+Proteus Staff
+Render Silent
+Rewind
+Roil Elemental
+Rootwater Matriarch
+Sage's Dousing
+Savage Beating
+Scattering Stroke
+Shadowborn Demon
+Sidisi, Brood Tyrant
+Spectra Ward
+Spell Rupture
+Strionic Resonator
+Tainted Peak
+Thermopod
+Titanic Ultimatum
+Toshiro Umezawa
+Tromokratis
+Turn Aside
+Vandalblast
+Warstorm Surge
+Wild Ricochet
+Wingmate Roc
+Xathrid Gorgon
+
+Hermit Druid
+Psychotrope Thallid
+Smoldering Marsh
+Serum Visions
+Three Dreams
+Bear Umbra
+Spirit Mantle
+Uril, the Miststalker
+Grave Pact
+Capsize
+Serum Visions
+Dimir Charm
+Mystic Remora
+Junktroller
+Teysa, Orzhov Scion
+Golgari Grave-Troll
+Butcher of Malakir
+Medomai the Ageless
+Illusionist's Bracers
+Yavimaya Elder
+Herald of Leshrac
+Serra Avatar
+Shattergang Brothers
+Sphinx of the Steel Wind
+Thraximundar
+Game Trail
+Apocalypse Hydra
+Furyborn Hellkite
+Balefire Dragon
+Beguiler of Wills
+Worldspine Wurm
+Cyclonic Rift
+Master of Cruelties
+Kruphix, God of Horizons
+Hydra Omnivore
+Dragonlord Atarka
+Anafenza, Kin-Tree Spirit
+Necroskitter
+Mind's Dilation
+Avatar of Woe
+Brutal Hordechief
+Kalonian Hydra
+Stonehoof Chieftain
+Inferno
+Thassa, God of the Sea
+Dominating Licid
+Cloak of Mists
+Arcbound Overseer
+Mossbridge Troll
+Farhaven Elf
+Hateflayer
+Soul of Ravnica
+Soul of Zendikar
+Engulfing Slagwurm
+Wrexial, the Risen Deep
+Essence of the Wild
+Malignus
+Conjurer's Closet
+Curse of the Swine
+Mirror Entity
+King Macar, the Gold-Cursed
+See the Unwritten
+Narset, Enlightened Master
+Sidisi, Brood Tyrant
+Berserkers' Onslaught
+Soul of New Phyrexia
+Faerie Artisans
+Anger
+Llanowar Wastes
+Footsteps of the Goryo
+Leyline of Lifeforce
+Godless Shrine
+Jhoira of the Ghitu
+Primal Command
+Murderous Redcap
+Leyline of Vitality
+Protean Hydra
+Nim Deathmantle
+Praetor's Counsel
+Mirran Crusader
+Life's Finale
+Buried Alive
+Parallel Lives
+Kessig Wolf Run
+Cathars' Crusade
+Angelic Skirmisher
+Thespian's Stage
+Wall of Reverence
+Sudden Demise
+Dictate of Erebos
+Soul of Theros
+Soul of Innistrad
+Anafenza, the Foremost
+Yavimaya Coast
+Kozilek, the Great Distortion
+Tree of Perdition
+Nahiri's Wrath
+Monk Realist
+Grotesque Hybrid
+Tainted Peak
+Savage Beating
+Toshiro Umezawa
+Rootwater Matriarch
+Murderous Redcap
+Roil Elemental
+World at War
+Momentous Fall
+Necrotic Ooze
+Warstorm Surge
+Wild Ricochet
+Prophet of Kruphix
+Archetype of Courage
+Spectra Ward
+Humble Defector
+Wingmate Roc
+Narset, Enlightened Master
+Chainer, Dementia Master
+Sidisi, Brood Tyrant
+Ankle Shanker
+Ankle Shanker
+Cloudhoof Kirin
+Reflecting Pool
+Soul of Theros
+Helm of Possession
+Clever Impersonator
+Sigarda, Heron's Grace
+Growing Rites of Itlimoc / Itlimoc, Cradle of the Sun
+Profane Procession // Tomb of the Dusk Rose
+Seize the Day
+Memnarch
+Karador, Ghost Chieftain (Version 1)
+Clifftop Retreat
+Crypt of Agadeem
+Shadowborn Demon
+Cryptic Gateway
+Saffi Eriksdotter
+Anger
+Eldrazi Monument
+Progenitor Mimic
+Moonsilver Spear
+Xathrid Gorgon
+Empress Galina
+Render Silent
+Oracle of Mul Daya
+Amulet of Vigor
+Strionic Resonator
+Familiar's Ruse
+Dissipate
+Laquatus's Disdain
+Hindering Touch
+Tromokratis
+Rewind
+Overwhelming Intellect
+Mana Leak
+Frazzle
+Thermopod
+Discombobulate
+Scattering Stroke
+Sage's Dousing
+Titanic Ultimatum
+Knotvine Mystic
+Turn Aside
+Hunter's Insight
+Spell Rupture
+Ivy Lane Denizen
+Invisibility
+Horribly Awry
+Deepfathom Skulker
+Metallic Rebuke
+Vedalken Orrery
+Rhystic Study
+Flash Counter
+Foil
+Rootborn Defenses
+Sol Ring
+Frost Titan
+Vandalblast
+Heliod, God of the Sun
+Erebos, God of the Dead
+Purphoros, God of the Forge
+Nylea, God of the Hunt
+Ephara, God of the Polis
+Karametra, God of Harvests
+Phenax, God of Deception
+Xenagos, God of Revels
+Pharika, God of Affliction
+Proteus Staff
+Hand of the Praetors
+Inferno Titan
+Ground Seal
+
+

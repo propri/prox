@@ -19,6 +19,7 @@ Proxies
 4 Cathars' Crusade
 4 Coat of Arms
 4 Cultivate
+4 Cyclonic Rift
 4 Duplicant
 4 Eldrazi Displacer
 4 Eldrazi Monument
@@ -133,73 +134,6 @@ Lands
 4 Watery Grave
 4 Yavimaya Coast
 
-
-language
---------
-
-Amulet of Vigor
-Ankle Shanker
-Archetype of Courage
-Chainer, Dementia Master
-Cloudhoof Kirin
-Crypt of Agadeem
-Cryptic Gateway
-Deepfathom Skulker
-Discombobulate
-Dissipate
-Eldrazi Monument
-Empress Galina
-Familiar's Ruse
-Foil
-Frazzle
-Grotesque Hybrid
-Ground Seal
-Hand of the Praetors
-Heliod, God of the Sun
-Hindering Touch
-Horribly Awry
-Humble Defector
-Inferno Titan
-Invisibility
-Ivy Lane Denizen
-Knotvine Mystic
-Laquatus's Disdain
-Mana Leak
-Memnarch
-Metallic Rebuke
-Monk Realist
-Moonsilver Spear
-Murderous Redcap
-Narset, Enlightened Master
-Necrotic Ooze
-Oracle of Mul Daya
-Overwhelming Intellect
-Progenitor Mimic
-Prophet of Kruphix
-Proteus Staff
-Render Silent
-Rewind
-Roil Elemental
-Rootwater Matriarch
-Sage's Dousing
-Savage Beating
-Scattering Stroke
-Shadowborn Demon
-Sidisi, Brood Tyrant
-Spectra Ward
-Spell Rupture
-Strionic Resonator
-Tainted Peak
-Thermopod
-Titanic Ultimatum
-Toshiro Umezawa
-Tromokratis
-Turn Aside
-Vandalblast
-Warstorm Surge
-Wild Ricochet
-Wingmate Roc
-Xathrid Gorgon
 
 
 prio
