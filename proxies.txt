@@ -6,11 +6,14 @@ horizontally, 8/page
 
 Proxies
 
+4 Altar of Dementia
 4 Amulet of Vigor
 4 Anguished Unmaking
+4 Animate Dead
 4 Aven Mindcensor 
 4 Azor, the Lawbringer
 4 Azusa, Lost but Seeking
+4 Blood Artist
 4 Boros Charm
 4 Boundless Realms
 4 Cathars' Crusade
@@ -52,11 +55,13 @@ Proxies
 4 Seer's Sundial
 4 Selfless Spirit
 4 Sensei's Divining Top (X)
+4 Serum Visions
 4 Shamanic Revelation
 4 Song of the Dryads
 4 Strionic Resonator
 4 Sun Titan
 4 Tempt with Discovery
+4 Thran Dynamo
 4 Timestream Navigator
 4 Tireless Tracker
 4 Traverse the Outlands
@@ -188,12 +193,14 @@ Xathrid Gorgon
 
 prio
 
+4 Altar of Dementia
 4 Sol Ring
 4 Buried Alive
 4 Disciple of Bolas
 4 Ghastly Conscription
 4 Greenwarden of Murasa
 4 Eternal Witness
+4 Kodama's Reach
 4 Living Death
 4 Nekratal
 4 Primal Command
@@ -215,66 +222,4 @@ Tokens
 
 
 
-
-############################################################################
-
-gedruckt
-
-############################################################################
-
-
-4 Anger
-4 Avacyn, Angel of Hope
-4 Avenger of Zendikar
-4 Cinder Glade
-4 Clever Impersonator
-4 Clifftop Retreat
-4 Curse of the Swine
-4 Cyclonic Rift
-4 Game Trail
-4 Ghostly Prison
-4 Godless Shrine
-4 Hunter's Insight
-4 Karplusan Forest
-4 Lightning Greaves
-4 Mirror Entity
-4 Momentous Fall
-4 Panharmonicon
-4 Propaganda
-4 Reflecting Pool
-4 Rootborn Defenses
-4 Sacred Foundry
-4 Soul of New Phyrexia
-
-(language proxies)
-------------------
-
-1 Inferno
-1 Arcbound Overseer
-1 Mossbridge Troll
-1 Hateflayer
-1 Apocalypse Hydra
-1 Soul of Zendikar
-1 Engulfing Slagwurm
-1 Wrexial, the Risen Deep
-1 Furyborn Hellkite
-1 Balefire Dragon
-1 Essence of the Wild
-1 Beguiler of Wills
-1 Malignus
-1 Conjurer's Closet
-1 Worldspine Wurm
-1 Master of Cruelties
-1 Xenagos, God of Revels
-1 Hydra Omnivore
-1 See the Unwritten
-1 Dragonlord Atarka
-1 Anafenza, Kin-Tree Spirit
-1 Berserkers' Onslaught
-1 Necroskitter
-1 Mind's Dilation
-1 Kalonian Hydra
-1 Stonehoof Chieftain
-1 Savage Beating
-1 Seize the Day
 
