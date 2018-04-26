@@ -195,8 +195,8 @@ Xathrid Gorgon
 prio
 
 4 Altar of Dementia
-4 Sol Ring
 4 Buried Alive
+4 Chromatic Lantern
 4 Disciple of Bolas
 4 Ghastly Conscription
 4 Greenwarden of Murasa
@@ -209,6 +209,7 @@ prio
 4 Ramunap Excavator
 4 Ravenous Chupacabra
 4 Regrowth
+4 Sol Ring
 4 Splendid Reclamation
 4 Stinkweed Imp
 
