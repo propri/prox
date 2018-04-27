@@ -32,32 +32,32 @@ gedruckt
 (language proxies)
 ------------------
 
-1 Inferno
-1 Arcbound Overseer
-1 Mossbridge Troll
-1 Hateflayer
-1 Apocalypse Hydra
-1 Soul of Zendikar
-1 Engulfing Slagwurm
-1 Wrexial, the Risen Deep
-1 Furyborn Hellkite
-1 Balefire Dragon
-1 Essence of the Wild
-1 Beguiler of Wills
-1 Malignus
-1 Conjurer's Closet
-1 Worldspine Wurm
-1 Master of Cruelties
-1 Xenagos, God of Revels
-1 Hydra Omnivore
-1 See the Unwritten
-1 Dragonlord Atarka
 1 Anafenza, Kin-Tree Spirit
+1 Apocalypse Hydra
+1 Arcbound Overseer
+1 Balefire Dragon
+1 Beguiler of Wills
 1 Berserkers' Onslaught
-1 Necroskitter
-1 Mind's Dilation
+1 Conjurer's Closet
+1 Dragonlord Atarka
+1 Engulfing Slagwurm
+1 Essence of the Wild
+1 Furyborn Hellkite
+1 Hateflayer
+1 Hydra Omnivore
+1 Inferno
 1 Kalonian Hydra
-1 Stonehoof Chieftain
+1 Malignus
+1 Master of Cruelties
+1 Mind's Dilation
+1 Mossbridge Troll
+1 Necroskitter
 1 Savage Beating
+1 See the Unwritten
 1 Seize the Day
+1 Soul of Zendikar
+1 Stonehoof Chieftain
+1 Worldspine Wurm
+1 Wrexial, the Risen Deep
+1 Xenagos, God of Revels
 

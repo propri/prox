@@ -136,32 +136,6 @@ Lands
 
 
 
-prio
-
-4 Altar of Dementia
-4 Buried Alive
-4 Chromatic Lantern
-4 Disciple of Bolas
-4 Ghastly Conscription
-4 Greenwarden of Murasa
-4 Eternal Witness
-4 Evolutionary Leap
-4 Kodama's Reach
-4 Living Death
-4 Nekratal
-4 Primal Command
-4 Ramunap Excavator
-4 Ravenous Chupacabra
-4 Regrowth
-4 Sol Ring
-4 Splendid Reclamation
-4 Stinkweed Imp
-
-Saffi Eriksdotter
-Karador, Ghost Chieftain
-World at War
-Worldspine Wurm
-
 
 Tokens
 

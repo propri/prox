@@ -1,0 +1,73 @@
+prio
+
+4 Altar of Dementia
+4 Buried Alive
+4 Chromatic Lantern
+4 Clifftop Retreat
+4 Conjurer's Closet
+4 Cyclonic Rift
+4 Dictate of Erebos
+4 Disciple of Bolas
+4 Eldrazi Monument
+4 Ghastly Conscription
+4 Grave Pact
+4 Greenwarden of Murasa
+4 Eternal Witness
+4 Evolutionary Leap
+4 Illusionist's Bracers
+4 Kodama's Reach
+4 Llanowar Wastes
+4 Living Death
+4 Momentous Fall
+4 Mystic Remora
+4 Nekratal
+4 Praetor's Counsel
+4 Primal Command
+4 Ramunap Excavator
+4 Ravenous Chupacabra
+4 Regrowth
+4 Rhystic Study
+4 Smoldering Marsh
+8 Sol Ring
+4 Spirit Mantle
+4 Splendid Reclamation
+4 Stinkweed Imp
+4 Tainted Peak
+4 Vandalblast
+4 Vedalken Orrery
+4 Yavimaya Coast
+
+Anafenza, the Foremost
+Arcbound Overseer
+Clever Impersonator
+Empress Galina
+Faerie Artisans
+Footsteps of the Goryo
+Golgari Grave-Troll
+Grotesque Hybrid
+Growing Rites of Itlimoc / Itlimoc, Cradle of the Sun
+Herald of Leshrac
+Hermit Druid
+Invisibility
+Iroas, God of Victory
+Karador, Ghost Chieftain
+Kessig Wolf Run
+Medomai the Ageless
+Memnarch
+Mind's Dilation
+Murderous Redcap
+Nim Deathmantle
+Oracle of Mul Daya
+Parallel Lives
+Progenitor Mimic
+Psychotrope Thallid
+Saffi Eriksdotter
+Spectra Ward
+Tree of Perdition
+Uril, the Miststalker
+Wall of Reverence
+Warstorm Surge
+Wild Ricochet
+World at War
+Worldspine Wurm
+
