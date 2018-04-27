@@ -29,6 +29,7 @@ prio
 4 Rhystic Study
 4 Smoldering Marsh
 8 Sol Ring
+4 Solemn Simulacrum
 4 Spirit Mantle
 4 Splendid Reclamation
 4 Stinkweed Imp
