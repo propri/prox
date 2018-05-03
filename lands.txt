@@ -1,45 +1,66 @@
-4 Adarkar Wastes
-4 Aether Hub
-4 Battlefield Forge
-4 Blood Crypt
-4 Canopy Vista
-4 Cascading Cataracts
-4 Caves of Koilos
-4 Clifftop Retreat
-4 Dragonskull Summit
-4 Foreboding Ruins
-4 Fortified Village
-4 Glacial Fortress
-4 Graven Cairns
-4 Hallowed Fountain
-4 Homeward Path
-4 Irrigated Farmland
-4 Isolated Chapel
+8 Adarkar Wastes
+8 Aether Hub
+8 Battlefield Forge
+8 Blood Crypt
+8 Canopy Vista
+8 Cascading Cataracts
+8 Caves of Koilos
+4 Cinder Glade
+8 Clifftop Retreat
+8 Command Beacon
+8 Command Tower
+8 Dragonskull Summit
+8 Foreboding Ruins
+8 Fortified Village
+4 Game Trail
+8 Glacial Fortress
+8 Graven Cairns
+8 Hallowed Fountain
+8 Homeward Path
+8 Irrigated Farmland
+8 Isolated Chapel
+4 Karplusan Forest
 4 Kessig Wolf Run 
-4 Llanowar Wastes 
-4 Nimbus Maze
-4 Nomad Outpost
-4 Overgrown Tomb
-4 Port Town
-4 Rootbound Crag
-4 Sandsteppe Citadel
-4 Scattered Groves
-4 Seaside Citadel
-4 Shadowblood Ridge
+4 Llanowar Reborn
+8 Llanowar Wastes 
+4 Mistveil Plains
+4 Mosswort Bridge
+8 Myriad Landscape
+8 Nimbus Maze
+8 Nomad Outpost
+4 Opal Palace
+4 Oran-Rief, the Vastwood
+8 Overgrown Tomb
+8 Path of Ancestry
+8 Port Town
+4 Reflecting Pool
+8 Reliquary Tower
+8 Rootbound Crag
+4 Sacred Foundry
+8 Sandsteppe Citadel
+8 Scattered Groves
+8 Seaside Citadel
+8 Shadowblood Ridge
+8 Sheltered Thicket
 4 Skarrg, the Rage Pits
-4 Sungrass Prairie
-4 Sunpetal Grove
-4 Tainted Field
-4 Tainted Peak
-4 Tainted Wood
-4 Temple Garden
-4 Temple of Abandon
-4 Temple of Malady
-4 Temple of Plenty
-4 Temple of Triumph
-4 Thespian's Stage
-4 Unclaimed Territory
-4 Urza's Mine
-4 Urza's Power Plant
-4 Urza's Tower
-4 Yavimaya Coast
+8 Sungrass Prairie
+8 Sunpetal Grove
+8 Tainted Field
+8 Tainted Peak
+8 Tainted Wood
+8 Temple Garden
+8 Temple of Abandon
+8 Temple of Malady
+8 Temple of Plenty
+8 Temple of Triumph
+8 Thespian's Stage
+8 Unclaimed Territory
+8 Urza's Mine
+8 Urza's Power Plant
+8 Urza's Tower
+8 Yavimaya Coast
+
+8 Growing Rites of Itlimoc / Itlimoc, Cradle of the Sun 
+8 Itlimoc, Cradle of the Sun 
+4 Journey to Eternity // Atzal, Cave of Eternity
+4 Atzal, Cave of Eternity

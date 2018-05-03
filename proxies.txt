@@ -6,82 +6,220 @@ horizontally, 8/page
 
 Proxies
 
-4 Altar of Dementia
+4 Berserkers' Onslaught
+4 Conjurer's Closet
+4 Anafenza, Kin-Tree Spirit
+4 Apocalypse Hydra
+4 Dragonlord Atarka
+4 Essence of the Wild
+4 Furyborn Hellkite
+4 Hateflayer
+4 Hydra Omnivore
+
+4 Aetherize
+4 Akroma's Vengeance
+8 Altar of Dementia
 4 Amulet of Vigor
+4 Anafenza, the Foremost
 4 Anguished Unmaking
-4 Animate Dead
+8 Animate Dead
+4 Arachnogenesis
+4 Archon of Justice
+8 Arcane Denial
+4 Argothian Elder
+4 Avacyn, Angel of Hope
+8 Avacyn, Guardian Angel
 4 Aven Mindcensor 
 4 Azor, the Lawbringer
 4 Azusa, Lost but Seeking
-4 Blood Artist
-4 Boros Charm
-4 Boundless Realms
-4 Cathars' Crusade
+4 Balefire Dragon
+4 Bane of Progress
+4 Basalt Monolith
+4 Beastmaster Ascension
+4 Biomantic Mastery
+4 Bident of Thassa
+8 Blasphemous Act
+8 Blood Artist
+8 Blue Sun's Zenith
+8 Boros Charm
+8 Boundless Realms
+4 Braid of Fire
+4 Breaking Point
+4 Broodbirth Viper
+4 Burnished Hart
+4 Cadaver Imp
+4 Caller of the Pack
+4 Carrion Feeder
+8 Cathars' Crusade
+4 Cathartic Reunion
+8 Chain Reaction
+4 Charmbreaker Devils
+4 Chimeric Coils
 4 Coat of Arms
-4 Cultivate
+8 Commander's Sphere
+8 Cultivate
 4 Cyclonic Rift
+4 Dark Prophecy
+8 Day of Judgement
+4 Day of the Dragons
+4 Deathreap Ritual
+4 Deep-Sea Kraken
+4 Decree of Pain
+4 Desolation Giant
+8 Dictate of Erebos
+4 Disaster Radius
+4 Dissipation Field
+4 Disciple of Bolas
+4 Dross Scorpion
 4 Duplicant
 4 Eldrazi Displacer
 4 Eldrazi Monument
 4 Elemental Bond
 4 Elemental Mastery
 4 Elvish Piper
+8 Eternal Witness
 4 Empress Galina
+4 End Hostilities
+8 Evacuation
+4 Extinguish All Hope
+4 Ezuri's Predation
 4 Farsight Mask
+8 Fell the Mighty
+4 Fellwar Stone
+4 Flameblast Dragon
+8 Fireball
 4 Fractured Identity
 4 Frost Titan
+8 Fumigate
 4 Garruk's Packleader
 4 Genesis
 4 Ghostway
 4 Gisela, Blade of Goldnight
+8 Grave Pact
 4 Harmonize
-4 Heroic Intervention (X)
+4 Heartstone
+4 Hellkite Charger
+8 Herald's Horn
+8 Heroic Intervention
+8 Hour of Revelation
+8 In Garruk's Wake
+4 Inferno
+4 Inquisitor Exarch
+4 Inundate
+4 Iroas, God of Victory
 4 Isochron Scepter
+4 Kaijin of the Vanishing Touch
+4 Keen Sense
+4 Keep Watch
 4 Kindred Boon
 4 Kindred Charge
 4 Kindred Discovery (X)
-4 Kindred Dominance
+8 Kindred Dominance
 4 Kindred Summons 
-4 Kodama's Reach
-4 Krosan Grip
+8 Kirtar's Wrath
+8 Kodama's Reach
+8 Krosan Grip
+4 Languish
+4 Life's Finale
+8 Lightning Greaves
+8 Living Death
 4 Lotus Cobra
 4 Lurking Predators
+4 Make a Stand
 4 Marsh of Souls
-4 Martial Coup
-4 Mass Calcify
+8 Martial Coup
+8 Mass Calcify
+8 Merciless Eviction
+8 Mentor of the Meek
+4 Mirran Crusader
+4 Mirror Match
+8 Mortify
+8 Mulldrifter
+8 Nature's Lore
+8 Necromantic Selection
+8 Nevinyrral's Disk
+4 Obliterate
 4 Olivia, Mobilized for War
 4 Oracle of Mul Daya
+4 Overrun
 4 Perilous Vault
+4 Pestilence
+8 Phyrexian Rebirth
+8 Plague Wind
+8 Planar Cleansing
 4 Praetor's Counsel
 4 Primal Vigor
+8 Putrefy
+4 Pyrohemia
+4 Qasali Pridemage
+4 Rapid Hybridization
 4 Regal Force
-4 Rhystic Study
-4 Rishkar's Expertise
+8 Retaliate
+4 Returned Reveler
+8 Rhystic Study
+4 River's Rebuke
+8 Rishkar's Expertise
 4 Rite of Replication
-4 Rout
+8 Rout
+8 Sakura Tribe-Elder
+4 Salvaging Station
+8 Savage Twister
 4 Scavenging Ooze
+4 Seeker of Skybreak
 4 Seer's Sundial
 4 Selfless Spirit
 4 Sensei's Divining Top (X)
-4 Serum Visions
+8 Serum Visions
 4 Shamanic Revelation
+4 Sigarda's Aid
+4 Sigil of the Empty Throne
 4 Skullclamp
-4 Solemn Simulacrum
+4 Skullwinder
+8 Skyshroud Claim
+4 Snakeform
+8 Sol Ring
+8 Solemn Simulacrum
 4 Song of the Dryads
+4 Soul Quake
+4 Soul's Majesty
+4 Splendid Reclamation
 4 Staff of Nin
+8 Starstorm
 4 Strionic Resonator
 4 Sun Titan
+8 Sunblast Angel
+4 Sunforger
+8 Supreme Verdict
+4 Swiftfoot Boots
 4 Swords to Plowshares
+4 Sylvan Safekeeper
+4 Synthetic Destiny
 4 Tempt with Discovery
-4 Thran Dynamo
+8 Terminate
+8 Thought Vessel
+4 Thousand Winds
+8 Thran Dynamo
 4 Timestream Navigator
 4 Tireless Tracker
+8 Toxic Deluge
+4 Toymaker
+8 Tragic Slip
 4 Traverse the Outlands
-4 Vandalblast
+4 Urbis Protector
+8 Vandalblast
 4 Vanquisher's Banner
 4 Vedalken Orrery
+4 Verdant Confluence
+8 Viscera Seer
+4 Wayfarer's Bauble
 4 Wayward Swordtooth
+4 Wash Out
+4 Whelming Wave
+8 White Sun's Zenith
+4 Wild Pair
 4 World Breaker
+8 Worn Powerstone
+8 Wrath of God
 4 Zendikar Resurgent
 
 
@@ -90,13 +228,7 @@ Lands
 
 4 Adarkar Wastes
 4 Arcane Lighthouse (X)
-4 Battlefield Forge
-4 Blood Crypt
 4 Buried Ruin
-4 Canopy Vista
-4 Caves of Koilos
-4 Command Tower
-4 Dragonskull Summit
 4 Drowned Catacomb
 4 Drownyard Temple
 4 Exotic Orchard
@@ -109,9 +241,6 @@ Lands
 4 Growing Rites of Itlimoc / Itlimoc, Cradle of the Sun 
 4 Hallowed Fountain
 4 High Market
-4 Homeward Path
-4 Irrigated Farmland
-4 Llanowar Wastes 
 4 Myriad Landscape
 4 Nykthos, Shrine to Nyx
 4 Opal Palace
@@ -135,13 +264,14 @@ Lands
 4 Watery Grave
 4 Yavimaya Coast
 
-
-
-
 Tokens
 
 4 Elemental (G, 2/2)
 8 Plant (0/1)
+
+1 Prime Speaker Zegana
+
+
 
 
 
