@@ -1,6 +1,7 @@
 8 Adarkar Wastes
 8 Aether Hub
 8 Battlefield Forge
+8 Buried Ruin
 8 Blood Crypt
 8 Botanical Sanctum
 8 Canopy Vista
@@ -15,13 +16,19 @@
 8 Darkwater Catacombs
 8 Dragonskull Summit
 8 Drowned Catacomb
+4 Drownyard Temple
+8 Exotic Orchard
+8 Forbidden Orchard
 8 Foreboding Ruins
 8 Fortified Village
 4 Game Trail
+4 Ghost Town
 8 Glacial Fortress
 8 Godless Shrine
+8 Grand Coliseum
 8 Graven Cairns
 8 Hallowed Fountain
+8 High Market
 8 Hinterland Harbor
 8 Homeward Path
 8 Irrigated Farmland
@@ -38,7 +45,7 @@
 8 Myriad Landscape
 8 Nimbus Maze
 8 Nomad Outpost
-4 Opal Palace
+8 Opal Palace
 4 Oran-Rief, the Vastwood
 8 Overgrown Tomb
 8 Path of Ancestry
@@ -50,12 +57,15 @@
 8 Sandsteppe Citadel
 4 Sapseep Forest
 8 Scattered Groves
+8 Scavenger Grounds
 8 Seaside Citadel
 8 Shadowblood Ridge
 8 Sheltered Thicket
 4 Skarrg, the Rage Pits
 8 Smoldering Marsh
+8 Spire of Industry
 8 Spirebluff Canal
+4 Springjack Pasture
 8 Steam Vents
 8 Sulfur Falls
 8 Sulfurous Springs
@@ -76,16 +86,20 @@
 8 Temple of Plenty
 8 Temple of Silence
 8 Temple of Triumph
+4 Terrain Generator
 8 Thespian's Stage
 8 Unclaimed Territory
 8 Urza's Mine
 8 Urza's Power Plant
 8 Urza's Tower
+8 Warped Landscape
 8 Watery Grave
 8 Woodland Cemetery
 8 Yavimaya Coast
 
-8 Growing Rites of Itlimoc / Itlimoc, Cradle of the Sun 
+4 Profane Procession 
+4 Tomb of the Dusk Rose
+8 Growing Rites of Itlimoc 
 8 Itlimoc, Cradle of the Sun 
-4 Journey to Eternity // Atzal, Cave of Eternity
+4 Journey to Eternity 
 4 Atzal, Cave of Eternity
