@@ -15,7 +15,7 @@ Proxies
 4 Aether Poisoner
 4 Aetherize
 4 Aetherspouts
-4 Ajanai's Presence
+4 Ajani's Presence
 4 Akroma's Vengeance
 8 Altar of Dementia
 8 Altar of the Brood
@@ -116,7 +116,7 @@ Proxies
 4 Daring Thief
 4 Dark Prophecy
 4 Dawntreader Elk
-8 Day of Judgement
+8 Day of Judgedment
 4 Day of the Dragons
 4 Deathreap Ritual
 4 Deep Reconnaissance
@@ -365,7 +365,7 @@ Proxies
 4 Retether
 4 Return to Dust
 4 Returned Reveler
-4 Reveilark
+4 Reveillark
 4 Revel in Riches
 4 Render Silent
 4 Ring of Valkas
@@ -453,7 +453,6 @@ Proxies
 4 The Mimeoplasm
 4 Thermopod
 8 Thopter Squadron
-8 Thormod's Crypt
 4 Thorn Elemental
 8 Thought Vessel
 4 Thousand Winds
@@ -463,6 +462,7 @@ Proxies
 4 Timestream Navigator
 4 Tireless Tracker
 4 Titanic Ultimatum
+8 Tormod's Crypt
 8 Toxic Deluge
 4 Toymaker
 8 Tragic Slip
@@ -521,10 +521,10 @@ Proxies
 4 Azusa, lost but seeking
 2 Narset, Enlightened Master
 2 Karametra, God of Harvests
-2 Karador, Ghost Chieftain (Version 1)
+2 Karador, Ghost Chieftain
 2 Jhoira of the Ghitu
 2 Chainer, Dementia Master
-2 Uril the Miststalker
+2 Uril, the Miststalker
 4 Aurelia, the Warleader
 2 Nemata, Grove Guardian
 4 Mazirek, Kraul Death Priest
