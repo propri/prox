@@ -11,22 +11,45 @@ Proxies
 4 Anafenza, Kin-Tree Spirit
 4 Apocalypse Hydra
 4 Dragonlord Atarka
+4 Engulfing Slagwurm
 4 Essence of the Wild
 4 Furyborn Hellkite
 4 Hateflayer
 4 Hydra Omnivore
+4 Kalonian Hydra
+4 Malignus
+4 Master of Cruelties
+4 Mind's Dilation
+4 Mossbridge Troll
+4 Necroskitter
+4 Savage Beating
+4 See the Unwritten
+4 Seize the Day
+4 Soul of Zendikar
+4 Stonehoof Chieftain
+4 Worldspine Wurm
 
+4 Acquire
+4 Aether Poisoner
 4 Aetherize
+4 Aetherspouts
 4 Akroma's Vengeance
 8 Altar of Dementia
+8 Altar of the Brood
 4 Amulet of Vigor
 4 Anafenza, the Foremost
+4 Angelic Skirmisher
+4 Anger
 4 Anguished Unmaking
 8 Animate Dead
 4 Arachnogenesis
+4 Archfiend of Depravity
 4 Archon of Justice
 8 Arcane Denial
 4 Argothian Elder
+4 Assault Suit
+4 Aura of Silence
+4 Auramancer
 4 Avacyn, Angel of Hope
 8 Avacyn, Guardian Angel
 4 Aven Mindcensor 
@@ -35,43 +58,58 @@ Proxies
 4 Balefire Dragon
 4 Bane of Progress
 4 Basalt Monolith
+4 Bear Umbra
+8 Beast Within
 4 Beastmaster Ascension
+4 Big Game Hunter
 4 Biomantic Mastery
 4 Bident of Thassa
 8 Blasphemous Act
 8 Blood Artist
 8 Blue Sun's Zenith
 8 Boros Charm
+4 Bonehoard
 8 Boundless Realms
 4 Braid of Fire
 4 Breaking Point
+4 Bribery
 4 Broodbirth Viper
-4 Burnished Hart
+8 Burnished Hart
 4 Cadaver Imp
 4 Caller of the Pack
 4 Carrion Feeder
 8 Cathars' Crusade
 4 Cathartic Reunion
 8 Chain Reaction
+8 Chandra's Ignition
+4 Chariot of Victory
 4 Charmbreaker Devils
 4 Chimeric Coils
+4 Clever Impersonator
 4 Coat of Arms
 8 Commander's Sphere
+8 Consecrated Sphinx
+4 Corrupted Conscience
 8 Cultivate
 4 Cyclonic Rift
 4 Dark Prophecy
+4 Dawntreader Elk
 8 Day of Judgement
 4 Day of the Dragons
 4 Deathreap Ritual
 4 Deep-Sea Kraken
 4 Decree of Pain
+4 Desertion
 4 Desolation Giant
 8 Dictate of Erebos
 4 Disaster Radius
 4 Dissipation Field
 4 Disciple of Bolas
+4 Doomed Necromancer
 4 Dross Scorpion
 4 Duplicant
+4 Eidolon of Blossoms
+4 Eidolon of Rhetoric
 4 Eldrazi Displacer
 4 Eldrazi Monument
 4 Elemental Bond
@@ -81,34 +119,46 @@ Proxies
 4 Empress Galina
 4 End Hostilities
 8 Evacuation
+4 Evolutionary Leap
 4 Extinguish All Hope
 4 Ezuri's Predation
+4 Faith's Reward
 4 Farsight Mask
+4 Farhaven Elf
 8 Fell the Mighty
 4 Fellwar Stone
 4 Flameblast Dragon
 8 Fireball
 4 Fractured Identity
+4 Frontline Medic
 4 Frost Titan
 8 Fumigate
+4 Fungal Plots
 4 Garruk's Packleader
 4 Genesis
+8 Ghalta, Primal Hunger
 4 Ghostway
+8 Gilded Lotus
 4 Gisela, Blade of Goldnight
+4 Grafted Exoskeleton
 8 Grave Pact
+8 Gray Merchant of Asphodel
 4 Harmonize
 4 Heartstone
 4 Hellkite Charger
+8 Helm of the Host
 8 Herald's Horn
 8 Heroic Intervention
 8 Hour of Revelation
 8 In Garruk's Wake
+4 Indestructibility
 4 Inferno
 4 Inquisitor Exarch
 4 Inundate
 4 Iroas, God of Victory
 4 Isochron Scepter
 4 Kaijin of the Vanishing Touch
+4 Karmic Guide
 4 Keen Sense
 4 Keep Watch
 4 Kindred Boon
@@ -120,7 +170,8 @@ Proxies
 8 Kodama's Reach
 8 Krosan Grip
 4 Languish
-4 Life's Finale
+8 Life's Finale
+4 Life from the Loam
 8 Lightning Greaves
 8 Living Death
 4 Lotus Cobra
@@ -129,41 +180,65 @@ Proxies
 4 Marsh of Souls
 8 Martial Coup
 8 Mass Calcify
-8 Merciless Eviction
+4 Mayael's Aria
 8 Mentor of the Meek
+8 Merciless Eviction
+4 Mesa Enchantress
 4 Mirran Crusader
 4 Mirror Match
+4 Mistcutter Hydra
 8 Mortify
 8 Mulldrifter
+4 Mystic Speculation
+8 Nature's Claim
 8 Nature's Lore
 8 Necromantic Selection
 8 Nevinyrral's Disk
+4 Nomad Mythmaker
 4 Obliterate
+4 Ogre Battledriver
 4 Olivia, Mobilized for War
+4 Open the Armory
 4 Oracle of Mul Daya
 4 Overrun
+4 Paradox Haze
 4 Perilous Vault
 4 Pestilence
+8 Phyrexian Plaguelord
 8 Phyrexian Rebirth
+4 Pilgrim's Eye
 8 Plague Wind
 8 Planar Cleansing
-4 Praetor's Counsel
+4 Plea for Guidance
+8 Praetor's Counsel
 4 Primal Vigor
+8 Primal Druid
+4 Prophet of Kruphix
 8 Putrefy
 4 Pyrohemia
 4 Qasali Pridemage
+8 Quirion Trailblazer
+4 Rancor
+4 Ranging Raptors
 4 Rapid Hybridization
 4 Regal Force
 8 Retaliate
+4 Retether
+4 Return to Dust
 4 Returned Reveler
+4 Reveilark
+4 Ring of Valkas
 8 Rhystic Study
 4 River's Rebuke
 8 Rishkar's Expertise
 4 Rite of Replication
 8 Rout
-8 Sakura Tribe-Elder
+4 Rune-Scarred Demon
+4 Sage's Reverie
+8 Sakura-Tribe Elder
 4 Salvaging Station
 8 Savage Twister
+2 Saproling Symbiosis
 4 Scavenging Ooze
 4 Seeker of Skybreak
 4 Seer's Sundial
@@ -171,6 +246,9 @@ Proxies
 4 Sensei's Divining Top (X)
 8 Serum Visions
 4 Shamanic Revelation
+8 Sheoldred, Whispering One
+4 Shield of the Oversoul
+4 Silent Gravestone
 4 Sigarda's Aid
 4 Sigil of the Empty Throne
 4 Skullclamp
@@ -180,22 +258,32 @@ Proxies
 8 Sol Ring
 8 Solemn Simulacrum
 4 Song of the Dryads
-4 Soul Quake
+4 Soulquake
 4 Soul's Majesty
+4 Sphere of Safety
+4 Sphinx of the Steel Wind
+4 Spirit Mantle
 4 Splendid Reclamation
+4 Sram, Senior Edificer
 4 Staff of Nin
 8 Starstorm
 4 Strionic Resonator
-4 Sun Titan
+8 Sun Titan
 8 Sunblast Angel
 4 Sunforger
 8 Supreme Verdict
 4 Swiftfoot Boots
-4 Swords to Plowshares
+4 Sword of the Animist
+4 Sword of Vengeance
+8 Swords to Plowshares
+4 Sylvan Ranger
 4 Sylvan Safekeeper
 4 Synthetic Destiny
+4 Tajuru Preserver
+8 Teferi's Protection
 4 Tempt with Discovery
 8 Terminate
+8 Thormod's Crypt
 8 Thought Vessel
 4 Thousand Winds
 8 Thran Dynamo
@@ -205,11 +293,15 @@ Proxies
 4 Toymaker
 8 Tragic Slip
 4 Traverse the Outlands
+4 Treasured Find
+4 Umbra Mystic
+4 Unquestioned Authority
 4 Urbis Protector
 8 Vandalblast
 4 Vanquisher's Banner
 4 Vedalken Orrery
 4 Verdant Confluence
+8 Viridian Emissary
 8 Viscera Seer
 4 Wayfarer's Bauble
 4 Wayward Swordtooth
@@ -217,11 +309,20 @@ Proxies
 4 Whelming Wave
 8 White Sun's Zenith
 4 Wild Pair
+4 Wild Wanderer
+8 Winds of Rath
 4 World Breaker
 8 Worn Powerstone
 8 Wrath of God
+4 Wretched Confluence
+8 Yavimaya Dryad
+8 Yavimaya Granger
 4 Zendikar Resurgent
+4 Zombify
 
+1 Uril the Miststalker
+4 Aurelia, the Warleader
+1 Nemata, Grove Guardian
 
 
 Lands
