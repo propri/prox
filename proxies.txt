@@ -116,7 +116,7 @@ Proxies
 4 Daring Thief
 4 Dark Prophecy
 4 Dawntreader Elk
-8 Day of Judgedment
+8 Day of Judgment
 4 Day of the Dragons
 4 Deathreap Ritual
 4 Deep Reconnaissance
@@ -147,7 +147,7 @@ Proxies
 4 Duplicant
 4 Dutiful Attendant
 4 Duergar Hedge-Mage
-4 Edge of Divinity
+4 Edge of the Divinity
 4 Eidolon of Blossoms
 4 Eidolon of Countless Battles
 4 Eidolon of Rhetoric
