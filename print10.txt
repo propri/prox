@@ -43,6 +43,8 @@
 4 Aurelia, the Warleader
 2 Nemata, Grove Guardian
 4 Mazirek, Kraul Death Priest
-4 Xenagos, God of Revels
+3 Xenagos, God of Revels
+
+1 The Ur-Dragon
 
 
