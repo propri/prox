@@ -5,7 +5,7 @@
 8 Rhystic Study
 4 River's Rebuke
 8 Rishkar's Expertise
-4 Rite of Replication
+8 Rite of Replication
 4 Roil Elemental
 8 Rout
 4 Rootborn Defenses

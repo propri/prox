@@ -57,3 +57,4 @@
 8 Mystic Remora
 4 Mystic Speculation
 4 Nahiri's Wrath
+4 Whip of Erebos

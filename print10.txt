@@ -43,8 +43,6 @@
 4 Aurelia, the Warleader
 2 Nemata, Grove Guardian
 4 Mazirek, Kraul Death Priest
-2 Teysa, Orzhov Scion
 4 Xenagos, God of Revels
 
-4 Whip of Erebos
 
