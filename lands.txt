@@ -27,7 +27,7 @@
 8 Irrigated Farmland
 8 Isolated Chapel
 4 Karplusan Forest
-4 Kessig Wolf Run 
+8 Kessig Wolf Run 
 8 Krosan Verge
 4 Llanowar Reborn
 8 Llanowar Wastes 
