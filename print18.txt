@@ -1,0 +1,81 @@
+4 Deep Freeze
+4 Cabal Paladin
+2 Voltaic Servant
+4 Unwind
+4 Time of Ice
+4 The Flame of Keld
+4 Yargle, Glutton of Urborg
+4 Urgoros, the Empty One
+4 Adeliz, the Cinder Wind
+4 Rona, Disciple of Gix
+4 Evra, Halcyon Witness
+4 Slinn Voda, the Rising Deep
+4 Tetsuko Umezawa, Fugitive
+4 Naban, Dean of Iteration
+2 Oath of Teferi
+2 Primevals' Glorious Rebirth
+2 Llanowar Scout
+2 Skirk Prospector
+4 Knight of Grace
+4 Windgrace Acolyte
+6 Settle the Score
+8 Cast Down
+4 Dub
+4 Skittering Surveyor
+4 Opt
+4 Goblin Warchief
+4 Cloudreader Sphinx
+2 Omnath, Locus of Rage
+4 Rocky Tar Pit
+4 Flood Plain
+4 Mountain Valley
+8 Arcane Lighthouse
+4 Bad River
+4 Soaring Seacliff
+4 Whitemane Lion
+4 Venser, the Sojourner
+2 Galepowder Mage
+8 Path to Exile
+4 Safe PAssage
+4 Vanish into Memory
+4 Preordain
+8 Revoke Existence
+4 Steel of the Godhead
+4 Aether Membrane 
+4 Downhill Charge
+4 Armillary Sphere
+4 Sejiri Steppe
+4 Treetop Village
+4 Knight of the Reliquary
+4 Juniper Order Ranger
+4 Mordant Dragon
+4 Dragon Fodder
+2 Claws of Valakut
+2 Jade Mage
+4 Naya Charm
+2 Griffin Guide
+2 Ajani Vengeant
+4 Profane Command
+4 Slave of Bolas
+8 Icy Manipulator
+4 Daru Encampment
+4 Angel of Salvation
+4 Celestial Crusader
+4 Abolish
+4 Raise the Alarm
+4 Crusade
+4 Elspeth, Knight-Errant
+4 Darksteel Citadel
+4 Ancient Den
+4 Great Furnace
+4 Seat of the Synod
+4 Tree of Tales
+4 Vault of Whispers
+4 Stalking Stones
+4 Pentavus
+4 Thirst for Knowledge
+2 Thoughtcast
+2 Contagion Clasp
+4 Tezzeret the Seeker
+
+

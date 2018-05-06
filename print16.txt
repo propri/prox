@@ -1,0 +1,60 @@
+4 Argentum Armor
+2 Behemoth Sledge
+2 Bloodforged Battle-Axe
+2 Grappling Hook
+2 Hammer of Nazahn
+2 Hero's Blade
+4 Loxodon Warhammer
+4 Quietus Spike
+4 Abundance
+8 Blighted Woodland
+4 Grasslands
+4 Vivid Meadow
+4 Vivid Creek
+4 Vivid Marsh
+4 Vivid Crag
+4 Vivid Grove
+4 Stirring Wildwood
+8 Minamo, School at Water's Edge
+8 Shattering Spree
+8 Cruel Edict
+4 Death Cloud
+4 Devour Flesh
+4 Devour in Shadow
+8 Diabolic Edict
+8 Dross Hopper
+4 Eyeblight's Ending
+4 Fireshrieker
+4 Flatten
+8 General's Kabuto
+4 Geth's Verdict
+4 Hero's Demise
+4 Innocent Blood
+4 Mer-Ek Nightblade
+4 Abzan Battle Priest
+4 Abzan Falconer
+4 Ainok Bond-Kin
+4 Murder
+4 Murderous Cut
+4 Doom Blade
+4 Onyx Mage
+4 Rend Flesh
+2 Runechanter's Pike
+4 Soulflayer
+4 To the Slaughter
+4 Tribute to Hunger
+4 Victim of Night
+4 Walk the Plank
+4 Assemble the Legion
+
+
+
+2 Wort, the Raidmother
+2 Nazahn, Revered Bladesmith
+2 Arahbo, Roar of the World
+2 Mathas, Fiend Seeker
+2 Licia, Sanguine Tribune
+2 Edgar Markov
+2 Vela the Night-Clad
+2 Taigam, Sidisi's Hand
+2 Niv-Mizzet, the Firemind

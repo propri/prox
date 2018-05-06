@@ -1,0 +1,62 @@
+4 Barren Moor
+4 Lonely Sandbar
+8 Rupture Spire
+4 Ajani's Pridemate
+4 Divinity of Pride
+4 Myr Battlesphere
+4 Phyrexian Delver
+4 Phyrexian Gargantua
+4 Serene Master
+4 Sharding Sphinx
+4 Tidal Force
+4 Wall of Reverence
+4 Act of Authority
+4 Brilliant Plan
+4 Crawlspace
+8 Greed
+4 Phyrexian Reclamation
+4 Pristine Talisman
+4 Sanguine Bond
+4 Tempt with Immortality
+4 Thopter foundry
+4 Well of Lost Dreams
+4 Faerie Conclave
+4 Saltcrusted Steppe
+4 Calciform Pools
+4 Dreadship Reef
+4 Molten Slagheap
+4 Fungal Reaches
+4 Acidic Slime
+4 Aerie Mystics
+4 Angel of Finality
+4 Azami, Lady of Scrolls
+4 Deceiver Exarch
+4 Djinn of Infinite Deceits
+4 Dungeon Geists
+4 Flickerwisp
+4 Karmic Guide
+4 Lu Xun, Scholar General
+4 Mistmeadow Witch
+4 Murkfiend Liege
+4 Skyward Eye Prophets
+8 Wonder
+8 Filth
+4 Aethermage's Touch
+4 Borrowing 100,000 Arrows
+4 Selesnya Charm
+4 Surveyor's Scope
+4 Tempt with Glory
+4 Thousand-Year Elixir
+4 Thunderstaff
+8 Unexpectedly Absent
+4 Apprentice Necromancer
+4 Archaeomancer
+4 Bloodline Necromancer
+4 Body Double
+4 Corpse Augur
+4 Havengul Lich
+4 Harbinger of the Tides
+4 Galecaster Colossus
+4 Magus of the Abyss
+8 Valor
+4 Magus of the Mind
