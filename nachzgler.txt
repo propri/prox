@@ -2,7 +2,7 @@
 4 Avenger of Zendikar
 8 Chromatic Lantern
 8 Anguished Unmaking
-4 Mirari's Wake
+8 Mirari's Wake
 4 Azorius Signet
 4 Dimir Signet
 4 Rakdos Signet
@@ -67,11 +67,343 @@
 8 Crumbling Necropolis
 8 Jungle Shrine
 8 Arcane Sanctum
+8 Stalking Vengeance
+4 Spinerock Knoll
+4 Windbrisk Heights
+4 Conqueror's Flail
+4 Primeval Protector
+8 Birds of Paradise
+4 Consuming Aberration
+4 Windfall
+4 Past in Flames
+8 Devastation Tide
+4 Worm Harvest
+4 Spelltwine
+8 Volcanic Vision
+4 Treasure Cruise
+4 Army of the Damned
+8 Burgeoning
+4 Waste Not
+4 Boompile
+4 Ancient Excavation
+8 Curtain's Call
+4 Parting Thoughts
+4 Cruel Entertainment
+4 Stingerfling Spider
+4 Trygon Predator
+4 Desert Twister
+4 Verdant Confluence
+4 Scytheclaw
+4 Novijen, Heart of Progress
+8 Zoetic Cavern
+8 Alms Collector
+4 Balan, Wandering Knight
+4 Fleecemane Lion
+4 Leonin Arbiter
+4 Leonin Shikari
+8 Protean Hulk
+4 Contested Cliffs
+4 Drifting Meadow
+4 Forgotten Cave
+4 Khalni Garden
+4 Bant Panorama
+4 Esper Panorama
+4 Grixis Panorama
+4 Jund Panorama
+4 Naya Panorama
+4 New Benalia
+4 Secluded Steppe
+4 Slippery Karst
+4 Smoldering Crater
+4 Temple of the False God
+4 Tranquil Thicket
+4 Vitu-Ghazi, The City-Tree
+4 Baloth Woodcrasher
+4 Drumhunter
+4 Krosan Warchief
+4 Mold Shambler
+8 Aetherflux Reservoir
+8 Spellbreaker Behemoth
+8 Darksteel Mutation
+4 Druidic Satchel
+4 Fires of Yavimaya
+4 Hull Breach
+4 One Duzen Eyes
+4 Rain of Thorns
+4 Slice in Twain
+4 Sol Ring
+4 Sprouting Vines
+4 Tower of Fortunes
+4 Where Ancients Tread
+4 Warstorm Surge
+4 Grim Backwoods
+4 Deathbringer Thoctar
+4 Endless Cockroaches
+4 Goblin Sharpshooter
+2 Hooded Horror
+4 Quagmire Druid
+4 Scarland Thrinax
+4 Stronghold Assassin
+4 Fecundity
+4 Foster
+4 Jar of Eyeballs
+4 Kinjalli's Sunwing
+4 Atzocan Seer
+4 Ripjaw Raptor
+4 Silverclad Ferocidons
+4 Trapjaw Tyrant
+4 Wayward Swordtooth
+4 Polyraptor
+4 Deathgorge Scavenger
+4 Thrashing Brontodon
+8 Homeward Path
+4 Ulvenwwald Tracker
+4 Spine of Ish Sah
+8 Spoils of Victory
+4 Tempt with Vengeance
+8 Bojuka Bog
+4 Augur of Bolas
+4 Baleful Strix
+4 Diviner Spirit
+4 Guard Gomazoa
+4 Guttersnipe
+4 True-Name Nemesis
+4 Dismiss
+4 Opportunity
+4 Vedalken Orrery
+4 Illusionist's Gambit
+4 Temur Sabertooth
+4 Price of Knowledge
+4 Prosperity
+8 Sudden Spoiling
+4 Tempt with Reflections
+4 Vision Skeins
+4 Barren Moor
+4 Lonely Sandbar
+8 Rupture Spire
+4 Ajani's Pridemate
+4 Divinity of Pride
+4 Myr Battlesphere
+4 Phyrexian Delver
+4 Phyrexian Gargantua
+4 Serene Master
+4 Sharding Sphinx
+4 Tidal Force
+4 Wall of Reverence
+4 Act of Authority
+4 Brilliant Plan
+4 Crawlspace
+8 Greed
+4 Phyrexian Reclamation
+4 Pristine Talisman
+4 Sanguine Bond
+4 Tempt with Immortality
+4 Thopter foundry
+4 Well of Lost Dreams
+4 Faerie Conclave
+4 Saltcrusted Steppe
+4 Calciform Pools
+4 Dreadship Reef
+4 Molten Slagheap
+4 Fungal Reaches
+4 Acidic Slime
+4 Aerie Mystics
+4 Angel of Finality
+4 Azami, Lady of Scrolls
+4 Deceiver Exarch
+4 Djinn of Infinite Deceits
+4 Dungeon Geists
+4 Flickerwisp
+4 Karmic Guide
+4 Lu Xun, Scholar General
+4 Mistmeadow Witch
+4 Murkfiend Liege
+4 Skyward Prohets
+4 Wonder
+4 Filth
+4 Aethermage's Touch
+4 Borrowing 1000,000 Arrows
+4 Selesnya Charm
+4 Surveryor's Scope
+4 Tempt with Glory
+4 Thousand-Year Elixir
+4 Thunderstaff
+8 Unexpectedly Absent
+4 Apprentice Necromancer
+4 Archaeomancer
+4 Bloodline Necromancer
+4 Body Double
+4 Corpse Augur
+4 Havengul Lich
+4 Harbinger of the Tides
+4 Galecaster Colossus
+4 Magus of the Abyss
+4 Magus of the Mind
+4 Mercurial Chemister
+4 Yahenni, Undying Partisan
+4 Portal Mage
+4 Puppeteer Clique
+4 Serendib Sorcerer
+4 Sea Gate Oracle
+4 Vindictive Lich
+4 Clone
+4 Clone Legion
+8 Comet Storm
+8 Go for the Throat
+4 Into the Roil
+4 Memory Plunder
+4 Polymorphist's Jest
+4 Silumgar's Command
+4 Darksteel Ingot
+4 Mirror of the Forebears
+4 Shifting Shadow
+8 Mystifying Maze
+4 Blood Baron of Vizkopa
+4 Bloodlord of Vaasgoth
+4 Bloodhusk Ritualist
+4 Bloodsworn Steward
+4 Captivating Vampire
+4 Dark Impostor
+4 Drana, Kalastria Bloodchief
+4 Falkenrath Noble
+8 Black Market
+4 Malakir Bloodwitch
+4 Patron of the Vein
+4 Pawn of Ulamog
+4 Rakish Heir
+4 Sangromancer
+4 Stromkirk Captain
+4 Vampire Nighthawk
+4 Vein Drinker
+4 Ambition's Cost
+4 Blood Tribute
+4 Consuming Vapors
+4 Damnable Pact
+4 Disrupt Decorum
+4 Zendikar Resurgent
+4 Fellwar Stone
+4 Read the Bones
+4 Syphon Mind
+8 Crackling Doom
+4 Skeletal Scrying
+4 Blade of the Bloodchief
+4 Door of Destinies
+4 Heirloom Blade
+4 Skullclamp
+4 Underworld Connections
+4 Kabira Crossroads
+4 Taj-Nar Swordsmith
+4 Spirit of the Hearth
+4 Seht's Tiger
+8 Divine Reckoning
+4 Crushing Vines
+4 Relic Crush
+4 Wing Shards
+4 Argentum Armor
+2 Behemoth Sledge
+2 Bloodforged Battle-Axe
+2 Grappling Hook
+2 Hammer of Nazahn
+2 Hero's Blade
+4 Loxodon Warhammer
+4 Quietus Spike
+4 Abundance
+8 Blighted Woodland
+4 Grasslands
+4 Vivid Meadow
+4 Vivid Creek
+4 Vivid Marsh
+4 Vivid Crag
+4 Vivid Grove
+4 Stirring Wildwood
+8 Minamo, School at Water's Edge
+8 Shattering Spree
+8 Cruel Edict
+4 Death Cloud
+4 Devour Flesh
+4 Devour in Shadow
+8 Diabolic Edict
+8 Dross Hopper
+4 Eyeblight's Ending
+4 Fireshrieker
+4 Flatten
+8 General's Kabuto
+4 Geth's Verdict
+4 Hero's Demise
+4 Innocent Blood
+4 Mer-Ek Nightblade
+4 Abzan Battle Priest
+4 Abzan Falconer
+4 Ainok Bond-Kin
+4 Murder
+4 Murderous Cut
+4 Doom Blade
+4 Onyx Mage
+4 Rend Flesh
+2 Runechanter's Pike
+4 Soulflayer
+4 To the Slaughter
+4 Tribute to Hunger
+4 Victim of Night
+4 Walk the Plank
 
 
+
+2 Nazahn, Revereda Bladesmith
+2 Arahbo, Roar of the World
+2 Mathas, Fiend Seeker
+2 Licia, Sanguine Tribune
+2 Edgar Markov
+2 Vela the Night-Clad
+2 Taigam, Sidisi's Hand
+2 Niv-Zizzet, the Firemind
+2 Nin, the Pain Artist
+2 Mairsil, the Pretender
+2 Kess, Dissident Mage
+2 Arcanis the Omnipotent
+2 Inalla, Archmage Ritualist
+2 Rubinia Soulsinger
+2 Roon of the Hidden Realm
+2 Derevi, Empyrial Tactician
+2 Marchesa, the Black Rose
+2 Sydri, Galvanic Genius
+2 Oloro, Ageless Ascetic
+2 Jeleva, Nehpalia's Scourge
+2 Etali, Primal Storm
+2 Zetalpa, Primal Dawn
+2 Gishath, Sun's Avatar
+2 Zacama, Primal Calamity
+2 Wakening Sun's Avatar
+2 Sek'Kuar, Deathkeeper
+2 Hua Tuo, Honored Physician
+2 Endrek Sahr, Master Breeder
+2 Prossh, Skyraider of Kher
+2 Marath, Will of the Wild
+2 Mayael the Anima
+2 Gahiji, Honored One
+2 Mirri, Weatherlight Duelist
+2 Kemba, Kha Regent
+2 Jedit Ojanen of Efrava
+2 Jazal Goldmane
+2 Akiri, Line-Slinger
+2 Kraum, Ludevic's Opus
+2 Kydele, Chosen of Kruphix
+2 Nekusar, the Mindrazer
+2 Ludevic, Necro-Alchemist
+2 Ravos, Soultender
+2 Sidar Kondo of Jamuraa
+2 Tana, the Bloodsower
+2 Thrasios, Triton Hero
+2 Tymna the Weaver
+2 Vial Smasher the Fierce
+4 Mina and Denn, Wildborn
 2 Selvala, Explorer Returned
 2 Edric, Spymaster of Trest
 2 Zedruu the Greathearted
 2 Kazuul, Tyrant of the Cliffs
 2 Rubblehulk
+2 Ravos, Soultender
+2 Nath of the Gilt-Leaf
+2 Kaseto, Orochi Archmage
+2 Prime Speaker Zegana
 
