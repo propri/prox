@@ -1,4 +1,4 @@
-8 Counterspell
+ Counterspell
 4 Avenger of Zendikar
 8 Chromatic Lantern
 8 Anguished Unmaking
@@ -86,7 +86,7 @@
 4 Waste Not
 4 Boompile
 4 Ancient Excavation
-8 Curtain's Call
+8 Curtains' Call
 4 Parting Thoughts
 4 Cruel Entertainment
 4 Stingerfling Spider
@@ -128,7 +128,7 @@
 4 Druidic Satchel
 4 Fires of Yavimaya
 4 Hull Breach
-4 One Duzen Eyes
+4 One Dozen Eyes
 4 Rain of Thorns
 4 Slice in Twain
 4 Sol Ring
@@ -157,7 +157,7 @@
 4 Deathgorge Scavenger
 4 Thrashing Brontodon
 8 Homeward Path
-4 Ulvenwwald Tracker
+4 Ulvenwald Tracker
 4 Spine of Ish Sah
 8 Spoils of Victory
 4 Tempt with Vengeance
@@ -218,13 +218,13 @@
 4 Lu Xun, Scholar General
 4 Mistmeadow Witch
 4 Murkfiend Liege
-4 Skyward Prohets
+4 Skyward Prophets
 4 Wonder
 4 Filth
 4 Aethermage's Touch
-4 Borrowing 1000,000 Arrows
+4 Borrowing 1000.000 Arrows
 4 Selesnya Charm
-4 Surveryor's Scope
+4 Surveyor's Scope
 4 Tempt with Glory
 4 Thousand-Year Elixir
 4 Thunderstaff
@@ -346,17 +346,19 @@
 4 Tribute to Hunger
 4 Victim of Night
 4 Walk the Plank
+4 Assemble the Legion
 
 
 
-2 Nazahn, Revereda Bladesmith
+2 Wort, the Raidmother
+2 Nazahn, Revered Bladesmith
 2 Arahbo, Roar of the World
 2 Mathas, Fiend Seeker
 2 Licia, Sanguine Tribune
 2 Edgar Markov
 2 Vela the Night-Clad
 2 Taigam, Sidisi's Hand
-2 Niv-Zizzet, the Firemind
+2 Niv-Mizzet, the Firemind
 2 Nin, the Pain Artist
 2 Mairsil, the Pretender
 2 Kess, Dissident Mage
@@ -368,7 +370,7 @@
 2 Marchesa, the Black Rose
 2 Sydri, Galvanic Genius
 2 Oloro, Ageless Ascetic
-2 Jeleva, Nehpalia's Scourge
+2 Jeleva, Nephalia's Scourge
 2 Etali, Primal Storm
 2 Zetalpa, Primal Dawn
 2 Gishath, Sun's Avatar
