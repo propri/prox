@@ -1,4 +1,7 @@
 4 Forbid
-4 Spell Burst
+4 Hardened Scales
+4 Mind Games
 4 Sakura-Tribe Scout
+2 Shaman en-Kor
+4 Spell Burst
 
