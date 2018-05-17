@@ -6,4 +6,5 @@
 4 Spell Burst
 8 Deadly Tempest
 4 Hythonia the Cruel
+8 Stitch Together
 
