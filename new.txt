@@ -20,4 +20,76 @@
 4 Lorescale Coatl
 4 Trygon Predator
 4 Budoka Gardener
+4 Halimar Depths
+8 Basilisk Collar
+4 Deglamer
+4 Gorgon Flail
+4 Inspiring Call
+4 Gaea's Revenge
+8 Vexing Shusher
+8 Aura Mutation
+8 Aura Shards
+4 Repopulate
+8 Guttural Response
+4 Shielded by Faith
+4 Duelist's Heritage
+4 Champion of Lambholt
+8 Breeding Pool
+4 Multani, Yavimaya's Avatar
+4 Teshar, Ancestor's Apostle
+8 Anointed Procession
+4 Alchemist's Refuge
+4 Sage of Hours
+8 Malicious Affliction
+8 Prowling Serpopard
+4 Overbeing of of Myth
+4 Thwart
+4 Overmaster
+4 Insist
+4 Gaea's Herald
+4 Meloku the Clouded Mirror
+4 Soratami Seer
+4 Soratami Mindsweeper
+4 Soratami Mirror-Guard
+4 Soratami Rainshaper
+4 Patron of the Moon
+4 Hour of Reckoning
+4 Wreak Havoc
+4 Pestilent Kathari
+4 Gorgon's Head
+4 Zameck Guildmage
+4 Plaguemaw Beast
+4 Stitch Together
+4 Sturmgeist
+8 Creeping Renaissance
+4 Nightshade Peddler
+4 Enter the Infinite
+4 Gyre Sage
+4 Fathom Mage
+8 Savage Summoning
+4 Deathgaze Cockatrice
+8 Hero's Downfall
+4 Uyo, Silent Prophet
+8 Hornet Queen
+4 Satyr Wayfinder
+4 Learn from the Past
+4 Fetid Imp
+4 Retreat to Coralhelm
+4 Vampiric Rites
+8 Deadly Tempest
+8 Stroke of Genius
+4 Altered Ego
+4 Trygon Predator
+4 Ghirapur Orrery
+4 Perpetual Timepiece
+4 Winding Constrictor
+4 Druid's Deliverance
+4 Coiling Oracle
+4 Tishana, Voice of Thunder
+4 Herald of Secret Streams
+4 Bellowing Aegisaur
+4 Hierophant's Chalice
+4 Nezahal, Primal Tide
+4 Lorescale Coatl
+4 Llanowar Scout
 
