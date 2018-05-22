@@ -8,4 +8,16 @@
 4 Hythonia the Cruel
 8 Stitch Together
 8 Duelist's Heritage
+4 Crop Rotation
+4 Walking Atlas
+4 Ulvenwald Hydra
+4 Chasm Skulker
+2 Soratami Savant
+4 Soratami Cloud Chariot
+2 Uyo, silent Prophet
+4 Perpetual Timepiece
+4 Darksteel Colossus
+4 Lorescale Coatl
+4 Trygon Predator
+4 Budoka Gardener
 
