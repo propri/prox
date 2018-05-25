@@ -93,4 +93,5 @@
 4 Lorescale Coatl
 4 Llanowar Scout
 8 Wurmcoil Engine
+8 Scour from Existence
 
