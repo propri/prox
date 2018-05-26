@@ -94,4 +94,6 @@
 4 Llanowar Scout
 8 Wurmcoil Engine
 8 Scour from Existence
+4 Beetleback Chief
+8 Phyrexian Arena
 
