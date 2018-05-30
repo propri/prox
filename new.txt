@@ -97,4 +97,5 @@
 4 Beetleback Chief
 8 Phyrexian Arena
 4 Rashmi, Eternities Crafter
+4 Skyshroud Ranger
 
