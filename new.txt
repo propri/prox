@@ -32,7 +32,6 @@
 4 Repopulate
 8 Guttural Response
 4 Shielded by Faith
-4 Duelist's Heritage
 4 Champion of Lambholt
 8 Breeding Pool
 4 Multani, Yavimaya's Avatar
@@ -96,4 +95,17 @@
 8 Scour from Existence
 4 Beetleback Chief
 8 Phyrexian Arena
+8 Ghost Quarter
+4 Tectonic Edge
+4 Snake Umbra
+4 Lord of Atlantis
+4 Frontier Guide
+4 Nullmage Shepherd
+8 Reverberate
+4 Goblin Matron
+8 Dualcaster Mage
+4 Terra Stomper
+4 Battle Hymn
+4 Mirari
+4 Mirage Mirror
 
