@@ -110,4 +110,6 @@
 4 Mirage Mirror
 4 Rashmi, Eternities Crafter
 4 Skyshroud Ranger
+4 Young Pyromancer
+8 Stomping Ground
 
