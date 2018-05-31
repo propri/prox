@@ -108,4 +108,6 @@
 4 Battle Hymn
 4 Mirari
 4 Mirage Mirror
+4 Rashmi, Eternities Crafter
+4 Skyshroud Ranger
 
