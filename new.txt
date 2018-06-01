@@ -112,4 +112,5 @@
 4 Skyshroud Ranger
 4 Young Pyromancer
 8 Stomping Ground
+8 Courser of Kruphix
 
