@@ -113,4 +113,7 @@
 4 Young Pyromancer
 8 Stomping Ground
 8 Courser of Kruphix
+4 Embodiment of Insight
+4 Embodiment of Fury
+4 Deepglow Skate
 
