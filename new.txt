@@ -10,7 +10,7 @@
 8 Duelist's Heritage
 4 Crop Rotation
 4 Walking Atlas
-4 Ulvenwald Hydra
+8 Ulvenwald Hydra
 4 Chasm Skulker
 2 Soratami Savant
 4 Soratami Cloud Chariot
@@ -116,4 +116,5 @@
 4 Embodiment of Insight
 4 Embodiment of Fury
 4 Deepglow Skate
+8 Overwhelming Stampede
 
