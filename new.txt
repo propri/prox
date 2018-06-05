@@ -1,5 +1,5 @@
 4 Forbid
-4 Hardened Scales
+8 Hardened Scales
 4 Mind Games
 4 Sakura-Tribe Scout
 2 Shaman en-Kor
@@ -18,7 +18,6 @@
 4 Perpetual Timepiece
 4 Darksteel Colossus
 4 Lorescale Coatl
-4 Trygon Predator
 4 Budoka Gardener
 4 Halimar Depths
 8 Basilisk Collar
@@ -115,6 +114,43 @@
 8 Courser of Kruphix
 4 Embodiment of Insight
 4 Embodiment of Fury
-4 Deepglow Skate
+8 Deepglow Skate
 8 Overwhelming Stampede
+4 Skylasher
+8 Urza's Incubator
+2 Kumena, Tyrant of Orazca
+2 Kefnet the Mindful
+4 Blighted Cataract
+4 Bred for the Hunt
+4 Cold-Eyed Selkie
+2 Deeproot Champion
+2 Deeproot Waters
+4 Fellwar Stone
+2 Forerunner of the Heralds
+4 Forgotten Ancient
+2 Great Oak Guardian
+2 Hadana's Climb
+2 Winged Temple of Orazca
+8 Hashep Oasis
+4 Inexorable Tide
+4 Kiora's Follower
+4 Master of the Pearl Trident
+4 Merfolk Mistbinder
+4 Merfolk Sovereign
+4 Merrow Commerce
+4 Merrow Reejerey
+4 Primordial Hydra
+4 Pull from Tomorrow
+4 Reality Shift
+4 Retreat to Kazandu
+4 Riverwise Augur
+4 Sage of Fables
+4 Seafloor Oracle
+4 Seahunter
+4 Shapers of Nature
+4 Tezzeret's Gambit
+4 Tribute to the Wild
+2 Vineshaper Mystic
+4 Vorel of the Hull Clade
+2 Wake Thrasher
 
