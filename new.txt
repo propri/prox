@@ -153,4 +153,5 @@
 2 Vineshaper Mystic
 4 Vorel of the Hull Clade
 2 Wake Thrasher
+8 Hour of Promise
 
