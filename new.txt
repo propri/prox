@@ -154,4 +154,26 @@
 4 Vorel of the Hull Clade
 2 Wake Thrasher
 8 Hour of Promise
+8 Harvest Season
+4 Howl of the Horde
+4 Dragonlair Spider
+4 Approach of the Second Sun
+4 Overwhelming Splendor
+4 Goblin Chieftain
+4 Marionette Master
+4 Reya Dawnbringer
+4 Sunbird's Invocation
+4 Purphoros, God of the Forge
+4 Polyraptor
+4 Nissa, Vastwood Seer
+4 Nissa, Sage Animist
+4 Star of Extinction
+4 Dusk Legion Zealot
+2 Elvish Aberration
+4 Ishkana, Grafwidow
+4 Hordeling Outburst
+4 Needletooth Raptor
+2 Seed Guardian
+4 Silklash Spider
+2 Sporecap Spider
 
