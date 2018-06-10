@@ -176,4 +176,8 @@
 2 Seed Guardian
 4 Silklash Spider
 2 Sporecap Spider
+2 Early Harvest
+4 Manamorphose
+4 Thaumatic Compass
+4 Spires of Orazca
 
