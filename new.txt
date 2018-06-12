@@ -162,7 +162,7 @@
 4 Goblin Chieftain
 4 Marionette Master
 4 Reya Dawnbringer
-4 Sunbird's Invocation
+6 Sunbird's Invocation
 4 Purphoros, God of the Forge
 4 Polyraptor
 4 Nissa, Vastwood Seer
@@ -180,4 +180,16 @@
 4 Manamorphose
 4 Thaumatic Compass
 4 Spires of Orazca
+4 Slaughter the Strong
+4 Empty the Warrens
+4 Bane of Progress
+4 Elemental Bond
+4 Overwhelming Instinct
+2 Whitemane Lion
+4 Thrashing Brontodon
+4 Stormfront Riders
+8 Stuffy Doll
+8 Ripjaw Raptor
+8 Caged Sun
+8 Soul of the Harvest
 
