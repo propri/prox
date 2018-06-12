@@ -199,4 +199,39 @@
 4 Progenitus
 4 Blatant Thievery
 4 It that Betrays
+2 Bubbling Muck
+4 Walk the Aeons
+4 Shared Animosity
+4 Reiterate
+4 Dragonmaster Outcast
+4 Red Elemental Blast
+4 Talisman of Impulse
+4 Talisman of Indulgence
+4 Talisman of Unity
+4 Talisman of Dominance
+2 Sarpadian Empires, Vol. VII
+4 Haze of Rage
+4 Goblin Assault
+4 Infernal Plunge
+4 Increasing Vengeance
+4 Grave Betrayal
+4 Sundering Growth
+4 Goblin Sharpshooter
+4 Rending Volley
+8 Tragic Arrogance
+4 Exquisite Firecraft
+4 Hitchclaw Recluse
+2 Retreat to Coralhelm
+4 Cryptolith Rite
+4 Pyroblast
+4 Primal Amulet
+4 Primal Wellspring
+4 Thaumatic Compass
+4 Spires of Orazca
+4 Atzocan Archer
+4 Needletooth Raptor
+4 Pirate's Pillage
+4 Seething Song
+4 Ohran Viper
+4 Scrap Trawler
 
