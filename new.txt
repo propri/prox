@@ -158,7 +158,7 @@
 4 Howl of the Horde
 4 Dragonlair Spider
 4 Approach of the Second Sun
-4 Overwhelming Splendor
+8 Overwhelming Splendor
 4 Goblin Chieftain
 4 Marionette Master
 4 Reya Dawnbringer
@@ -234,4 +234,67 @@
 4 Seething Song
 4 Ohran Viper
 4 Scrap Trawler
+4 Extraplanar Lens
+8 Boseiju, Who Shelters All
+4 Goblin Chieftain
+8 Overwhelming Stampede
+4 Void Winnower
+4 Summoning Trap
+4 Dowsing Dagger
+4 Lost Vale
+4 Silverclad Ferocidons
+2 Jodah, Archmage Eternal
+4 Tiana, Ship's Caretaker
+8 Pir's Whim
+4 Soulblade Corrupter
+4 Peregrine Drake
+4 Soaring Show-Off
+4 Goblin King
+4 Goblin Shrine
+4 Nature's Wrath
+4 Windreaper Falcon
+4 Summer Bloom
+4 Goblin Warrens
+4 Ertai's Meddling
+4 Flickering Ward
+8 Pyroblast
+4 Fanning the Flames
+4 Goblin Offensive
+4 Multani's Presence
+4 Mogg Alarm
+8 Urza's Rage
+4 Silklash Spider
+4 Brightstone Ritual
+4 Trade Routes
+4 Bringer of the Blue Dawn
+4 Bringer of the Black Dawn
+4 Mana Geyser
+4 Desperate Ritual
+4 Grozoth
+4 Autochthon Wurm
+4 Fury of the Horde
+4 Rite of Flame
+4 Scryb Ranger
+4 Ib Halfheart, Goblin Tactician
+4 Demonfire
+4 Great Sable Stag
+4 Kuldotha Rebirth
+4 Geosurge
+4 Burn at the Stake
+4 Skylasher
+4 Wild Guess
+4 Messenger's Speed
+4 Worst Fears
+4 Skybind
+4 Necropolis Fiend
+4 Goblinslide
+4 Dualcaster Mage
+4 Tormenting Voice
+4 Relic Seeker
+4 Magmatic Insight
+4 Desolation Twin
+4 Fall of the Titans
+4 Thermo-Alchemist
+4 Dragonlair Spider
+4 Insult // Injury
 
