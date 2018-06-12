@@ -192,4 +192,11 @@
 8 Ripjaw Raptor
 8 Caged Sun
 8 Soul of the Harvest
+4 Krenko, Mob Boss
+4 Phyrexian Reclamation
+4 Rampaging Baloths
+4 Beacon of Tomorrows
+4 Progenitus
+4 Blatant Thievery
+4 It that Betrays
 
