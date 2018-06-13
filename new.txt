@@ -303,7 +303,7 @@
 8 Blade of Selves
 2 Damia, Sage of Stone
 8 Ruby Medallion
-2 Reyhan, Last of the Abzan
+4 Reyhan, Last of the Abzan
 2 Skullbriar, the Walking Grave
 2 The Mimeoplasm
 8 Oblivion Stone
@@ -316,10 +316,10 @@
 4 Feldon of the Third Path
 4 Reveilark
 4 Couldron of Souls
-2 Ikra Shidiqi, the Ursurper
+4 Ikra Shidiqi, the Ursurper
 2 Anya, Merciless Angel
 4 Memory Erosion
-2 Ishai, Ojutai Dragonspeaker
+4 Ishai, Ojutai Dragonspeaker
 2 Daretti, Scrap Savant
 4 Rite of Raging Storm
 4 Spell Crumple
