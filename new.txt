@@ -324,4 +324,17 @@
 4 Rite of Raging Storm
 4 Spell Crumple
 4 Master Biomancer
+4 Mortivore
+8 Faithless Looting
+4 Magus of the Wheel
+8 Coldsteel Heart
+4 Ghave, Guru of Spores
+4 Murmuring Bosk
+4 Goblin Welder
+2 Vorosh, the Hunter
+4 Scrap Mastery
+4 Orzhov Advokist
+4 Mind's Aglow
+8 Stitch Together
+4 Sylvan Reclamation
 
