@@ -297,4 +297,5 @@
 4 Thermo-Alchemist
 4 Dragonlair Spider
 4 Insult // Injury
+4 Fire Diamond
 
