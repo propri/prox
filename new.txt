@@ -298,4 +298,30 @@
 4 Dragonlair Spider
 4 Insult // Injury
 4 Fire Diamond
+8 Wurmcoil Engine
+2 Atraxa, Praetor's Voice
+8 Blade of Selves
+2 Damia, Sage of Stone
+8 Ruby Medallion
+2 Reyhan, Last of the Abzan
+2 Skullbriar, the Walking Grave
+2 The Mimeoplasm
+8 Oblivion Stone
+4 Kalonian Hydra
+4 Sewer Nemesis
+4 Crystalline Crawler
+4 Flamekin Village
+4 Buried Alive
+8 Underground River
+4 Feldon of the Third Path
+4 Reveilark
+4 Couldron of Souls
+2 Ikra Shidiqi, the Ursurper
+2 Anya, Merciless Angel
+4 Memory Erosion
+2 Ishai, Ojutai Dragonspeaker
+2 Daretti, Scrap Savant
+4 Rite of Raging Storm
+4 Spell Crumple
+4 Master Biomancer
 
