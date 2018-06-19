@@ -338,4 +338,8 @@
 8 Stitch Together
 4 Sylvan Reclamation
 4 Back to Nature
+8 Luminarch Ascension
+4 Profane Procession
+4 Oboro, Palace in the Clouds
+4 Bishop of Rebirth
 
