@@ -1,5 +1,5 @@
 4 Forbid
-4 Hardened Scales
+8 Hardened Scales
 4 Mind Games
 4 Sakura-Tribe Scout
 2 Shaman en-Kor
@@ -18,7 +18,6 @@
 4 Perpetual Timepiece
 4 Darksteel Colossus
 4 Lorescale Coatl
-4 Trygon Predator
 4 Budoka Gardener
 4 Halimar Depths
 8 Basilisk Collar
@@ -115,7 +114,232 @@
 8 Courser of Kruphix
 4 Embodiment of Insight
 4 Embodiment of Fury
-4 Deepglow Skate
+8 Deepglow Skate
 8 Overwhelming Stampede
+4 Skylasher
+8 Urza's Incubator
+2 Kumena, Tyrant of Orazca
+2 Kefnet the Mindful
+4 Blighted Cataract
+4 Bred for the Hunt
+4 Cold-Eyed Selkie
+2 Deeproot Champion
+2 Deeproot Waters
+4 Fellwar Stone
+2 Forerunner of the Heralds
+4 Forgotten Ancient
+2 Great Oak Guardian
+2 Hadana's Climb
+2 Winged Temple of Orazca
+8 Hashep Oasis
+4 Inexorable Tide
+4 Kiora's Follower
+4 Master of the Pearl Trident
+4 Merfolk Mistbinder
+4 Merfolk Sovereign
+4 Merrow Commerce
+4 Merrow Reejerey
+4 Primordial Hydra
+4 Pull from Tomorrow
+4 Reality Shift
+4 Retreat to Kazandu
+4 Riverwise Augur
+4 Sage of Fables
+4 Seafloor Oracle
+4 Seahunter
+4 Shapers of Nature
+4 Tezzeret's Gambit
+4 Tribute to the Wild
+2 Vineshaper Mystic
+4 Vorel of the Hull Clade
+2 Wake Thrasher
 8 Hour of Promise
+8 Harvest Season
+4 Howl of the Horde
+4 Dragonlair Spider
+4 Approach of the Second Sun
+8 Overwhelming Splendor
+4 Goblin Chieftain
+4 Marionette Master
+4 Reya Dawnbringer
+6 Sunbird's Invocation
+4 Purphoros, God of the Forge
+4 Polyraptor
+4 Nissa, Vastwood Seer
+4 Nissa, Sage Animist
+4 Star of Extinction
+4 Dusk Legion Zealot
+2 Elvish Aberration
+4 Ishkana, Grafwidow
+4 Hordeling Outburst
+4 Needletooth Raptor
+2 Seed Guardian
+4 Silklash Spider
+2 Sporecap Spider
+2 Early Harvest
+4 Manamorphose
+4 Thaumatic Compass
+4 Spires of Orazca
+4 Slaughter the Strong
+4 Empty the Warrens
+4 Bane of Progress
+4 Elemental Bond
+4 Overwhelming Instinct
+2 Whitemane Lion
+4 Thrashing Brontodon
+4 Stormfront Riders
+8 Stuffy Doll
+8 Ripjaw Raptor
+8 Caged Sun
+8 Soul of the Harvest
+4 Krenko, Mob Boss
+4 Phyrexian Reclamation
+4 Rampaging Baloths
+4 Beacon of Tomorrows
+4 Progenitus
+4 Blatant Thievery
+4 It that Betrays
+2 Bubbling Muck
+4 Walk the Aeons
+4 Shared Animosity
+4 Reiterate
+4 Dragonmaster Outcast
+4 Red Elemental Blast
+4 Talisman of Impulse
+4 Talisman of Indulgence
+4 Talisman of Unity
+4 Talisman of Dominance
+2 Sarpadian Empires, Vol. VII
+4 Haze of Rage
+4 Goblin Assault
+4 Infernal Plunge
+4 Increasing Vengeance
+4 Grave Betrayal
+4 Sundering Growth
+4 Goblin Sharpshooter
+4 Rending Volley
+8 Tragic Arrogance
+4 Exquisite Firecraft
+4 Hitchclaw Recluse
+2 Retreat to Coralhelm
+4 Cryptolith Rite
+4 Pyroblast
+4 Primal Amulet
+4 Primal Wellspring
+4 Thaumatic Compass
+4 Spires of Orazca
+4 Atzocan Archer
+4 Needletooth Raptor
+4 Pirate's Pillage
+4 Seething Song
+4 Ohran Viper
+4 Scrap Trawler
+4 Extraplanar Lens
+8 Boseiju, Who Shelters All
+4 Goblin Chieftain
+8 Overwhelming Stampede
+4 Void Winnower
+4 Summoning Trap
+4 Dowsing Dagger
+4 Lost Vale
+4 Silverclad Ferocidons
+2 Jodah, Archmage Eternal
+4 Tiana, Ship's Caretaker
+8 Pir's Whim
+4 Soulblade Corrupter
+4 Peregrine Drake
+4 Soaring Show-Off
+4 Goblin King
+4 Goblin Shrine
+4 Nature's Wrath
+4 Windreaper Falcon
+4 Summer Bloom
+4 Goblin Warrens
+4 Ertai's Meddling
+4 Flickering Ward
+8 Pyroblast
+4 Fanning the Flames
+4 Goblin Offensive
+4 Multani's Presence
+4 Mogg Alarm
+8 Urza's Rage
+4 Silklash Spider
+4 Brightstone Ritual
+4 Trade Routes
+4 Bringer of the Blue Dawn
+4 Bringer of the Black Dawn
+4 Mana Geyser
+4 Desperate Ritual
+4 Grozoth
+4 Autochthon Wurm
+4 Fury of the Horde
+4 Rite of Flame
+4 Scryb Ranger
+4 Ib Halfheart, Goblin Tactician
+4 Demonfire
+4 Great Sable Stag
+4 Kuldotha Rebirth
+4 Geosurge
+4 Burn at the Stake
+4 Skylasher
+4 Wild Guess
+4 Messenger's Speed
+4 Worst Fears
+4 Skybind
+4 Necropolis Fiend
+4 Goblinslide
+4 Dualcaster Mage
+4 Tormenting Voice
+4 Relic Seeker
+4 Magmatic Insight
+4 Desolation Twin
+4 Fall of the Titans
+4 Thermo-Alchemist
+4 Dragonlair Spider
+4 Insult // Injury
+4 Fire Diamond
+8 Wurmcoil Engine
+2 Atraxa, Praetor's Voice
+8 Blade of Selves
+2 Damia, Sage of Stone
+8 Ruby Medallion
+4 Reyhan, Last of the Abzan
+2 Skullbriar, the Walking Grave
+2 The Mimeoplasm
+8 Oblivion Stone
+4 Kalonian Hydra
+4 Sewer Nemesis
+4 Crystalline Crawler
+4 Flamekin Village
+4 Buried Alive
+8 Underground River
+4 Feldon of the Third Path
+4 Reveilark
+4 Couldron of Souls
+4 Ikra Shidiqi, the Ursurper
+2 Anya, Merciless Angel
+4 Memory Erosion
+4 Ishai, Ojutai Dragonspeaker
+2 Daretti, Scrap Savant
+4 Rite of Raging Storm
+4 Spell Crumple
+4 Master Biomancer
+4 Mortivore
+8 Faithless Looting
+4 Magus of the Wheel
+8 Coldsteel Heart
+4 Ghave, Guru of Spores
+4 Murmuring Bosk
+4 Goblin Welder
+2 Vorosh, the Hunter
+4 Scrap Mastery
+4 Orzhov Advokist
+4 Mind's Aglow
+8 Stitch Together
+4 Sylvan Reclamation
+4 Back to Nature
+8 Luminarch Ascension
+4 Profane Procession
+4 Oboro, Palace in the Clouds
+4 Bishop of Rebirth
 
