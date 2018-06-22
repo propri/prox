@@ -342,4 +342,30 @@
 4 Profane Procession
 4 Oboro, Palace in the Clouds
 4 Bishop of Rebirth
+4 Vanishing
+4 Sylvan Caryatid
+4 Evil Twin
+4 Assault Formation
+4 Wall of Kelp
+4 Shield Sphere
+8 Retribution of the Meek
+4 Impulse
+4 Crenellated Wall
+8 Pemmin's Aura
+4 Wall of Nets
+4 Wall of Junk
+4 Serra's Blessing
+4 Crackdown
+4 Wave of Reckoning
+4 Jungle Barrier
+4 Meishin, the Mind Cage
+4 War's Toll
+4 Sprouting Phytohydra
+4 Experiment Kraj
+8 Wall of Denial
+4 Wall of Frost
+4 Perimeter Captain
+4 Tree of Redemption
+4 Builder's Blessing
+4 Tower Defense
 
