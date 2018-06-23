@@ -2,7 +2,7 @@
 8 Hardened Scales
 4 Mind Games
 4 Sakura-Tribe Scout
-2 Shaman en-Kor
+4 Shaman en-Kor
 4 Spell Burst
 8 Deadly Tempest
 4 Hythonia the Cruel
@@ -342,4 +342,5 @@
 4 Profane Procession
 4 Oboro, Palace in the Clouds
 4 Bishop of Rebirth
+4 Wall of Omens
 
