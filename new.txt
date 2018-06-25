@@ -2,7 +2,7 @@
 8 Hardened Scales
 4 Mind Games
 4 Sakura-Tribe Scout
-2 Shaman en-Kor
+4 Shaman en-Kor
 4 Spell Burst
 8 Deadly Tempest
 4 Hythonia the Cruel
@@ -342,6 +342,7 @@
 4 Profane Procession
 4 Oboro, Palace in the Clouds
 4 Bishop of Rebirth
+4 Wall of Omens
 4 Vanishing
 4 Sylvan Caryatid
 4 Evil Twin
@@ -368,4 +369,15 @@
 4 Tree of Redemption
 4 Builder's Blessing
 4 Tower Defense
+8 Earthquake
+4 Hand of Emrakul
+4 Niv-Mizzet, the Firemind
+4 Stormtide Leviathan
+4 Trench Gorger
+4 Baleful Force
+4 Magus of the Disk
+4 Unburial Rites
+4 Bad River
+4 Riftstone Portal
+2 Arcades, the Strategist
 
