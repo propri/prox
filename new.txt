@@ -380,4 +380,5 @@
 4 Bad River
 4 Riftstone Portal
 2 Arcades, the Strategist
+8 Vigor
 
