@@ -433,4 +433,5 @@
 2 Grim Guardian
 4 Manglehorn
 4 Victory's Herald
+12 Doubling Season
 
