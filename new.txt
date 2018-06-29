@@ -443,4 +443,6 @@
 4 Traverse the Outlands
 4 Capsize
 4 Tireless Tracker
+4 Radiant Fountain
+4 Words of Wind
 
