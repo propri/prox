@@ -434,4 +434,13 @@
 4 Manglehorn
 4 Victory's Herald
 12 Doubling Season
+4 Hold the Gates
+4 Laboratory Maniac
+8 Kodama's Reach
+8 Eternal Witness
+8 Into the Wilds
+4 Voidslime
+4 Traverse the Outlands
+4 Capsize
+4 Tireless Tracker
 
