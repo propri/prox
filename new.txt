@@ -445,4 +445,10 @@
 4 Tireless Tracker
 4 Radiant Fountain
 4 Words of Wind
+4 River's Rebuke
+8 Bountiful Promenade
+8 Luxury Suite
+8 Morphic Pool
+8 Sea of Clouds
+8 Spire Garden
 
