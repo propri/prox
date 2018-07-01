@@ -15,7 +15,6 @@
 2 Soratami Savant
 4 Soratami Cloud Chariot
 2 Uyo, silent Prophet
-4 Perpetual Timepiece
 4 Darksteel Colossus
 4 Lorescale Coatl
 4 Budoka Gardener
@@ -57,7 +56,6 @@
 4 Gorgon's Head
 4 Zameck Guildmage
 4 Plaguemaw Beast
-4 Stitch Together
 4 Sturmgeist
 8 Creeping Renaissance
 4 Nightshade Peddler
@@ -74,7 +72,6 @@
 4 Fetid Imp
 4 Retreat to Coralhelm
 4 Vampiric Rites
-8 Deadly Tempest
 8 Stroke of Genius
 4 Altered Ego
 4 Trygon Predator
@@ -88,7 +85,6 @@
 4 Bellowing Aegisaur
 4 Hierophant's Chalice
 4 Nezahal, Primal Tide
-4 Lorescale Coatl
 4 Llanowar Scout
 8 Wurmcoil Engine
 8 Scour from Existence
@@ -115,8 +111,6 @@
 4 Embodiment of Insight
 4 Embodiment of Fury
 8 Deepglow Skate
-8 Overwhelming Stampede
-4 Skylasher
 8 Urza's Incubator
 2 Kumena, Tyrant of Orazca
 2 Kefnet the Mindful
@@ -159,7 +153,6 @@
 4 Dragonlair Spider
 4 Approach of the Second Sun
 8 Overwhelming Splendor
-4 Goblin Chieftain
 4 Marionette Master
 4 Reya Dawnbringer
 6 Sunbird's Invocation
@@ -172,14 +165,11 @@
 2 Elvish Aberration
 4 Ishkana, Grafwidow
 4 Hordeling Outburst
-4 Needletooth Raptor
 2 Seed Guardian
 4 Silklash Spider
 2 Sporecap Spider
 2 Early Harvest
 4 Manamorphose
-4 Thaumatic Compass
-4 Spires of Orazca
 4 Slaughter the Strong
 4 Empty the Warrens
 4 Bane of Progress
@@ -221,15 +211,13 @@
 8 Tragic Arrogance
 4 Exquisite Firecraft
 4 Hitchclaw Recluse
-2 Retreat to Coralhelm
 4 Cryptolith Rite
-4 Pyroblast
 4 Primal Amulet
 4 Primal Wellspring
-4 Thaumatic Compass
-4 Spires of Orazca
+8 Thaumatic Compass
+8 Spires of Orazca
 4 Atzocan Archer
-4 Needletooth Raptor
+8 Needletooth Raptor
 4 Pirate's Pillage
 4 Seething Song
 4 Ohran Viper
@@ -263,7 +251,6 @@
 4 Multani's Presence
 4 Mogg Alarm
 8 Urza's Rage
-4 Silklash Spider
 4 Brightstone Ritual
 4 Trade Routes
 4 Bringer of the Blue Dawn
@@ -288,17 +275,14 @@
 4 Skybind
 4 Necropolis Fiend
 4 Goblinslide
-4 Dualcaster Mage
 4 Tormenting Voice
 4 Relic Seeker
 4 Magmatic Insight
 4 Desolation Twin
 4 Fall of the Titans
 4 Thermo-Alchemist
-4 Dragonlair Spider
 4 Insult // Injury
 4 Fire Diamond
-8 Wurmcoil Engine
 2 Atraxa, Praetor's Voice
 8 Blade of Selves
 2 Damia, Sage of Stone
@@ -335,7 +319,6 @@
 4 Scrap Mastery
 4 Orzhov Advokist
 4 Mind's Aglow
-8 Stitch Together
 4 Sylvan Reclamation
 4 Back to Nature
 8 Luminarch Ascension
@@ -387,9 +370,7 @@
 4 Dispersal Shield
 4 Castle
 4 Eternal Warrior
-4 Vanishing
 4 Abjure
-2 Wall of Mulch
 2 Wall of Hope
 2 Dragon Scales
 2 Dragon Breath
@@ -401,7 +382,6 @@
 4 Talisman of Progress
 8 Mirrodin's Core
 4 Ensouled Scimitar
-2 Soratami Seer
 2 Traproot Kami
 4 Freed from the Real
 4 Tidewater Minion
@@ -444,7 +424,6 @@
 4 Capsize
 4 Tireless Tracker
 4 Radiant Fountain
-4 Words of Wind
 4 River's Rebuke
 8 Bountiful Promenade
 8 Luxury Suite
