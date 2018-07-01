@@ -451,4 +451,6 @@
 8 Morphic Pool
 8 Sea of Clouds
 8 Spire Garden
+8 Mind's Eye
+4 Quest for the Goblin Lord
 
