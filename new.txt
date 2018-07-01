@@ -453,4 +453,21 @@
 8 Spire Garden
 8 Mind's Eye
 4 Quest for the Goblin Lord
+4 Land Tax
+2 Enduring Renewal
+2 Sworn Defender
+4 Rebuild
+4 Sunscape Familiar
+4 Words of Wind
+8 Intruder Alarm
+4 Cloud Key
+4 Umbral Mantle
+8 Godsire
+8 Banefire
+4 Chalice of Life
+4 Chalice of Death
+2 Melek, Izzet Paragon
+4 Always Watching
+8 Devastation Tide
+8 Vorinclex, Voice of Hunger
 
