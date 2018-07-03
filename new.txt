@@ -168,7 +168,7 @@
 2 Seed Guardian
 4 Silklash Spider
 2 Sporecap Spider
-2 Early Harvest
+4 Early Harvest
 4 Manamorphose
 4 Slaughter the Strong
 4 Empty the Warrens
@@ -271,7 +271,7 @@
 4 Skylasher
 4 Wild Guess
 4 Messenger's Speed
-4 Worst Fears
+8 Worst Fears
 4 Skybind
 4 Necropolis Fiend
 4 Goblinslide
@@ -340,10 +340,9 @@
 4 Wall of Junk
 4 Serra's Blessing
 4 Crackdown
-4 Wave of Reckoning
+8 Wave of Reckoning
 4 Jungle Barrier
 4 Meishin, the Mind Cage
-4 War's Toll
 4 Sprouting Phytohydra
 4 Experiment Kraj
 8 Wall of Denial
@@ -373,7 +372,6 @@
 4 Abjure
 2 Wall of Hope
 2 Dragon Scales
-2 Dragon Breath
 2 Rolling Stone
 2 Blaze
 2 Lure
@@ -449,4 +447,132 @@
 4 Always Watching
 8 Devastation Tide
 8 Vorinclex, Voice of Hunger
+4 Admiral's Order
+4 Niv-Mizzet, Dracogenius
+4 Mindslaver
+4 Angel's Grace
+4 Angrath's Marauders
+4 Nature's Lore
+4 Whip Vine
+4 Shifting Wall
+4 Quicksilver Wall
+4 Thunderheads
+4 Scragnoth
+4 Wall of Faith
+6 Quest for Pure Flame
+6 Quest for the Goblin Lord
+4 Mirran Spy
+4 Ready // Willing
+4 Fated Return
+4 Pride Guardian
+4 Vine Trellis
+4 Gideon's Phalanx
+4 Fragmentize
+4 Slobad, Goblin Tinkerer
+4 Wall of Blossoms
+4 Primal Growth
+4 Fell the Mighty
+4 Fist of Suns
+4 Savage Ventmaw
+4 Bellowing Aegisaur
+4 Ranging Raptors
+4 Dive Down
+4 Inspiring Call
+4 Overgrown Battlement
+4 Misdirection
+4 Silverclad Ferocidons
+4 Needletooth Raptor
+4 Freed from the Real
+4 Jaya's Immolating Inferno
+4 Squee, the Immortal
+4 Dwynen, Gilt-Leaf Daen
+4 Seers's Lantern
+4 Pathmaker Initiate
+4 Saltwater Stalwart
+4 Spectral Searchllight
+4 Veteran Explorer
+4 Switcheroo
+4 Peregrine Drake
+4 Fog Bank
+4 Swords to Plowshares
+4 Rushblade Commander
+4 Thrasher Brute
+4 Fumble
+4 Soulblade Corrupter
+8 Mind's Eye
+4 Evil Twin
+8 Seedborn Muse
+4 Magus of the Candelabra
+4 War's Toll
+8 Diabolic Intent
+4 Tidespout Tyrant
+4 Sower of Temptation
+8 Mystic Confluence
+4 Kor Spiritdancer
+4 Sentinel Tower
+8 Last One Standing
+8 Pir's Whim
+8 Stolen Strategy
+4 Khorvath's Fury
+8 Bonus Round
+4 Virtus's Maneuver
+4 Mindblade Render
+4 Zndrsplt's Judgment
+4 Regna's Sanction
+4 Sylvia Brightspear
+4 Khorvath Brightflame
+4 Okaun, Eye of Chaos
+4 Zndrsplt, Eye of Wisdom
+4 Krav, the Unredeemed
+4 Regna, the Redeemer
+4 Stunning Reversal
+4 Brave the Sands
+4 Quest for Renewal
+4 Viridian Emissary
+4 Grim Flowering
+4 Tragic Slip
+4 Dawntreader Elk
+4 Knightly Valor
+4 Fleetfeather Sandals
+4 Guardians of Meletis
+4 Returned Reveler
+4 Heliod's Pilgrim
+2 Marked by Honor
+4 Temur Battle Rage
+4 Zendikar Resurgent
+4 Haunted Cloak
+4 Mesa Enchantress
+4 Ulvenwald Captive / Ulvenwald Abomination
+4 Augur of Bolas
+4 Sylvan Ranger
+4 Jalira, Master Polymorphist
+4 On Serra's Wings
+8 Bramble Sovereign
+8 Nirkana Revenant
+8 Spellseeker
+4 Greater Good
+4 Spell Snare
+4 Dragon Breath
+8 Beast Within
+4 Benthic Giant
+4 Cruel Ultimatum
+4 Animar, Soul of Elements
+4 Conflux
+4 Gods Willing
+4 Loyal Sentry
+4 Supernatural Stamina
+4 Ainok Survivalist
+4 Epic Confrontation
+4 Increasing Devotion
+4 Armada Wurm
+4 Ultimate Price
+4 Ashen Rider
+4 Psychic Intrusion
+8 Nissa's Pilgrimage
+4 Splendid Reclamation
+4 Shapers of Nature
+4 Sentinel Totem
+4 Ulcerate
+4 Silvergill Adept
+4 Merfolk Mistbinder
 
