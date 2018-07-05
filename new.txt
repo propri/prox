@@ -32,10 +32,10 @@
 4 Shielded by Faith
 4 Champion of Lambholt
 8 Breeding Pool
-4 Multani, Yavimaya's Avatar
+8 Multani, Yavimaya's Avatar
 4 Teshar, Ancestor's Apostle
 8 Anointed Procession
-4 Alchemist's Refuge
+8 Alchemist's Refuge
 4 Sage of Hours
 8 Malicious Affliction
 8 Prowling Serpopard
@@ -105,7 +105,7 @@
 4 Mirage Mirror
 4 Rashmi, Eternities Crafter
 4 Skyshroud Ranger
-4 Young Pyromancer
+8 Young Pyromancer
 8 Stomping Ground
 8 Courser of Kruphix
 4 Embodiment of Insight
@@ -167,7 +167,7 @@
 4 Hordeling Outburst
 2 Seed Guardian
 4 Silklash Spider
-2 Sporecap Spider
+4 Sporecap Spider
 4 Early Harvest
 4 Manamorphose
 4 Slaughter the Strong
@@ -189,7 +189,7 @@
 4 Progenitus
 4 Blatant Thievery
 4 It that Betrays
-2 Bubbling Muck
+4 Bubbling Muck
 4 Walk the Aeons
 4 Shared Animosity
 4 Reiterate
@@ -575,4 +575,241 @@
 4 Ulcerate
 4 Silvergill Adept
 4 Merfolk Mistbinder
+8 Fervor
+8 Goblin Piledriver
+4 Goblin Dark-Dwellers
+4 Goblin Grenade
+8 Counterflux
+4 Possibility Storm
+8 Lorthos, the Tidemaker
+4 Angelic Field Marshal
+4 Daze
+4 Sixth Sense
+4 Lead the Stampede
+4 Storm the Vaults
+4 Vault of Catlacan
+4 Denying Wind
+4 Vicious Shadows
+4 Huatli, Radiant Champion
+4 Zealous Persecution
+4 Return to Dust
+4 Haven of the Spirit Dragon
+4 Staff of Nin
+4 Shadowmage Infiltrator
+4 Future Sight
+4 Underworld Dreams
+8 Dispel
+4 Stromkirk Noble
+4 Sylvan Primordial
+4 Resolute Archangel
+4 Zurgo Bellstriker
+4 Celestial Purge
+4 Control Magic
+8 Coastal Breach
+4 Divergent Transformations
+4 Armory Automaton
+4 Open the Vaults
+4 Aeon Chronicler
+4 Minds Aglow
+4 Godo, Bandit Warlord
+4 Realm Seekers
+4 Clan Defiance
+4 Thunderfoot Baloth
+4 Vulturous Zombie
+4 Kheru Mind-Eater
+4 Territorial Hellkite
+4 Sunscorch Regent
+4 Anowon, the Ruin Sage
+2 The Ur-Dragon
+4 Rhystic Tutor
+2 Vitaspore Thallid
+2 Sporoloth Ancient
+4 Killing Wave
+2 Thallid Germinator
+4 Jace's Ingenuity
+4 Scatter the Seeds
+4 Helm of the Gods
+4 Crumbling Vestige
+4 Urban Evolution
+4 Madcap Skills
+4 Archivist
+4 Colossal Whale
+4 Aetherplasm
+4 Umbra Stalker
+4 Deathmark
+4 Steam Augury
+4 Nissa's Expedition
+4 Contradict
+4 Aether Gale
+4 Vow of Lightning
+4 Vow of Wildness
+4 Final Parting
+4 Whisper, Blood Liturgist
+4 Overbeing of Myth
+4 Primal Amulet
+4 Fallen Angel
+2 Rolling Stones
+4 Fertilid
+2 Wall of Tanglecord
+4 Galvanic Alchemist
+4 Hover Barrier
+4 Doorkeeper
+4 Axebane Guardian
+4 Seacoast Drake
+4 Lay of the Land
+4 Colossus of Akros
+4 Retraction Helix
+4 Spectral Searchlight
+4 Valor Made Real
+4 Kurkesh, Onakke Ancient
+4 Wall of Essence
+4 Kapsho Kitefins
+4 Jeskai Barricade
+4 Identity Thief
+4 Geist of the Archives
+4 Cathar's Shield
+4 Followed Footsteps
+4 Vertigo Spawn
+4 Sunscorched Desert
+4 Balustrade Spy
+4 Amaranthine Wall
+4 Legacy's Allure
+4 Erratic Portal
+4 Fade Away
+4 Meekstone
+4 Life // Death
+4 Psychic Membrane
+4 Slagwurm Armor
+4 Neurok Stealthsuit
+4 Drift of Phantasms
+4 Stone-Seeder Hierophant
+4 Jolrael, Empress of Beasts
+4 Colfenor's Urn
+4 Archmage Ascension
+4 Master Thief
+4 Kite Shield
+4 Ludevic's Test Subject / Ludevic's Abomination
+4 Crib Swap
+4 Sylvan Advocate
+4 Nephalia Smuggler
+4 Filigree Familiar
+4 Augury Owl
+4 Nullmage Advocate
+4 Restoration Angel
+4 Sunhome Guildmage
+4 Sphinx of Magosi
+4 Obsidian Fireheart
+4 Nicol Bolas, Planeswalker
+4 Avatar of Fury
+4 Siege Behemoth
+4 Rampaging Ferocidon
+4 Spike-Tailed Ceratops
+4 Electrolyze
+4 Mind Spring
+4 Relentless Assault
+4 Temple Altisaur
+4 Champion of Dusk
+4 Firewing Phoenix
+4 Centaur Courser
+4 Daggerdrome Imp
+4 Explosive Impact
+4 Mausoleum Guard
+4 Species Gorger
+4 Kalonian Tusker
+4 Frost Breath
+4 Kongming, "Sleeping Dragon"
+4 Azorius Keyrune
+4 Banishing Light
+4 Requiem Angel
+4 Trading Post
+4 Prickleboar
+4 Endless One
+4 Ajani's Chosen
+4 Anarchy
+4 Tyrranax
+4 Devastating Summons
+4 Exclusion Ritual
+4 Fleshbag Marauder
+4 Mind Control
+4 Manic Vandal
+4 Galvanic Juggernaut
+4 Geistcatcher's Rig
+4 Lost in the Mist
+4 Markov Patrician
+4 Thatcher Revolt
+4 Hedron Archive
+4 Tymaret, the Murder King
+4 Second Harvest
+4 Charging Monstrosaur
+4 Crook of Condemnation
+4 Overcome
+4 Khenra Charioteer
+4 Regisaur Alpha
+4 Dictate of Kruphix
+4 Brago, King Eternal
+4 Bloodcrazed Paladin
+4 Conqueror's Galleon / Conqueror's Foothold
+4 Priest of the Blood Rite
+4 Dragon Throne of Tarkir
+4 Captivating Crew
+4 Zealous Conscripts
+4 Phyrexian Ingester
+4 Verdant Sun's Avatar
+4 Burning Sun's Avatar
+4 Soul Warden
+4 Felidar Guardian
+4 Harvester of Souls
+4 Soulblade Djinn
+4 Dragon-Style Twins
+4 Sunbond
+2 Zacama, Primal Calamity
+2 Power Sink
+4 Strionic Resonator
+4 Panharmonicon
+4 Reveillark
+4 Coat of Arms
+8 Arch of Orazca
+4 Circu, Dimir Lobotomist
+4 Exhume
+8 Akroma, Angel of Wrath
+4 Darien, King of Kjeldor
+4 Saffi Eriksdotter
+4 Padeem, Consul of Innovation
+4 Azusa, Lost but Seeking
+4 Vedalken Shackles
+4 Conjurer's Closet
+4 Silverblade Paladin
+2 Sidar Kondo of Jamuraa
+4 Mavren Fein, Dusk Apostle
+4 Adarkar Valkyrie
+4 Voldaren Pariah / Abolisher of Bloodlines
+4 Drake Haven
+4 Clever Impersonator
+4 Long Road Home
+4 Reflecting Pool
+2 Jarad, Golgari Lich Lord
+2 Shu Yun, the Silent Tempest
+4 Prime Speaker Zegana
+4 O-Kagachi, Vengeful Kami
+4 Thromok the Insatiable
+4 Polukranos, World Eater
+4 Keiga, the Tide Star
+4 Linvala, the Preserver
+4 Shapesharer
+4 Samut, Voice of Dissent
+4 Vesuvan Shapeshifter
+4 Wasitora, Nekoru Queen
+2 Obzedat, Ghost Council
+4 Braids, Cabal Minion
+4 Glissa Sunseeker
+4 Glissa the Traitor
+4 Grenzo, Dungeon Warden
+4 Lifecrafter's Bestiary
+4 Glaring Spotlight
+4 Zurgo Helmsmasher
+2 Hammer of Nazahn
+2 Nazahn, Revered Bladesmith
+4 Sharuum the Hegemon
+4 Aethersnatch
+2 Monk Realist
 
