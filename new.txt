@@ -813,4 +813,15 @@
 4 Aethersnatch
 2 Monk Realist
 4 Bear Umbra
+4 Cloud of Faeries
+4 Nissa's Revelation
+4 Markov Blademaster
+4 Savageborn Hydra
+4 Key to the City
+8 Tainted Isle
+4 Guard Gomazoa
+4 Orbs of Warding
+4 Sandwurm Convergence
+4 Verduran Enchantress
+4 Vow of Duty
 
