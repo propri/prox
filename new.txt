@@ -813,4 +813,68 @@
 4 Aethersnatch
 2 Monk Realist
 4 Bear Umbra
+4 Cloud of Faeries
+4 Nissa's Revelation
+4 Markov Blademaster
+4 Savageborn Hydra
+4 Key to the City
+8 Tainted Isle
+4 Guard Gomazoa
+4 Orbs of Warding
+4 Sandwurm Convergence
+4 Verduran Enchantress
+4 Vow of Duty
+4 Greater Gargadon
+4 Hour of Devastation
+4 Windreader Sphinx
+2 Borborygmos Enraged
+2 Zur the Enchanter
+4 Slate of Ancestry
+4 Endbringer
+4 Thassa, God of the Sea
+4 Kruphix, God of Horizons
+4 Necropolis Regent
+4 Utvara Hellkite
+4 Flash
+4 Ulvenwald Mysteries
+4 General Tazri
+4 Exava, Rakdos Blood Witch
+2 Brigid, Hero of Kinsbaile 
+4 Ashen Firebeast
+4 Ancient Hellkite
+4 Steel Hellkite
+4 Spawnwrithe
+4 Auriok Windwalker
+4 Triskelion
+2 Clockwork Dragon
+2 Abyssal Horror
+8 Collective Unconscious
+4 Avatar of Fury
+4 Ulvenwald Observer
+2 Deal Broker
+2 Leering Emblem
+4 Overtaker
+4 Bounteous Kirin
+4 Merciless Executioner
+4 Triumph of Ferocity
+4 Turn to Mist
+2 Arcbound Lancer
+4 Synod Sanctum
+4 Zulaport Cutthroat
+4 Evangel of Heliod
+4 Custodi Squire
+4 Savage Ventmaw
+4 Archetype of Finality
+2 Awesome Presence
+2 Jedit's Dragoons
+4 Goretusk Firebeast
+4 Ruthless Knave
+4 Urbis Protector
+4 Quarry Colossus
+4 Vedalken Dismisser
+4 Might Makes Right
+4 Rummaging Goblin
+4 Indrik Stomphowler
+4 Consulate Surveillance
+4 Siren of the Fanged Coast
 
