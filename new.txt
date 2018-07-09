@@ -879,4 +879,11 @@
 4 Siren of the Fanged Coast
 4 Gonti, Lord of Luxury
 4 Sprout Swarm
+4 Villainous Wealth
+4 Ancient Excavation
+4 Glimmer of Genius
+4 Fatestitcher
+4 Simic Sky Swallower
+4 Sphinx of Uthuun
+4 Vizier of Many Faces
 
