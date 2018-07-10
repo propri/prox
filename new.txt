@@ -871,4 +871,9 @@
 8 Treva's Ruins
 8 Into the North
 8 Search for Tomorrow
+4 Condemn
+8 Pongify
+4 Vapor Snag
+8 Vendetta
+4 Rapid Hybridization
 
