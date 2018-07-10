@@ -448,7 +448,7 @@
 4 Admiral's Order
 4 Niv-Mizzet, Dracogenius
 4 Mindslaver
-4 Angel's Grace
+8 Angel's Grace
 4 Angrath's Marauders
 4 Nature's Lore
 4 Whip Vine
