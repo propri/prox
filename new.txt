@@ -896,4 +896,6 @@
 4 Vow of Malice
 4 Dormant Volcano
 4 Phyrexia's Core
+2 Epochrasite
+4 Myr Retriever
 
