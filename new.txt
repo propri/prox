@@ -82,7 +82,6 @@
 4 Coiling Oracle
 4 Tishana, Voice of Thunder
 4 Herald of Secret Streams
-4 Bellowing Aegisaur
 4 Hierophant's Chalice
 4 Nezahal, Primal Tide
 4 Llanowar Scout
@@ -429,7 +428,7 @@
 8 Sea of Clouds
 8 Spire Garden
 8 Mind's Eye
-4 Quest for the Goblin Lord
+8 Quest for the Goblin Lord
 4 Land Tax
 2 Enduring Renewal
 2 Sworn Defender
@@ -460,7 +459,6 @@
 4 Scragnoth
 4 Wall of Faith
 6 Quest for Pure Flame
-6 Quest for the Goblin Lord
 4 Mirran Spy
 4 Ready // Willing
 4 Fated Return
@@ -469,20 +467,14 @@
 4 Gideon's Phalanx
 4 Fragmentize
 4 Slobad, Goblin Tinkerer
-4 Wall of Blossoms
 4 Primal Growth
 4 Fell the Mighty
 4 Fist of Suns
 4 Savage Ventmaw
-4 Bellowing Aegisaur
+8 Bellowing Aegisaur
 4 Ranging Raptors
 4 Dive Down
-4 Inspiring Call
-4 Overgrown Battlement
 4 Misdirection
-4 Silverclad Ferocidons
-4 Needletooth Raptor
-4 Freed from the Real
 4 Jaya's Immolating Inferno
 4 Squee, the Immortal
 4 Dwynen, Gilt-Leaf Daen
@@ -492,15 +484,11 @@
 4 Spectral Searchllight
 4 Veteran Explorer
 4 Switcheroo
-4 Peregrine Drake
 4 Fog Bank
 4 Swords to Plowshares
 4 Rushblade Commander
 4 Thrasher Brute
 4 Fumble
-4 Soulblade Corrupter
-8 Mind's Eye
-4 Evil Twin
 8 Seedborn Muse
 4 Magus of the Candelabra
 4 War's Toll
@@ -511,7 +499,6 @@
 4 Kor Spiritdancer
 4 Sentinel Tower
 8 Last One Standing
-8 Pir's Whim
 8 Stolen Strategy
 4 Khorvath's Fury
 8 Bonus Round
@@ -570,11 +557,9 @@
 4 Psychic Intrusion
 8 Nissa's Pilgrimage
 4 Splendid Reclamation
-4 Shapers of Nature
 4 Sentinel Totem
 4 Ulcerate
 4 Silvergill Adept
-4 Merfolk Mistbinder
 8 Fervor
 8 Goblin Piledriver
 4 Goblin Dark-Dwellers
@@ -646,7 +631,6 @@
 4 Final Parting
 4 Whisper, Blood Liturgist
 4 Overbeing of Myth
-4 Primal Amulet
 4 Fallen Angel
 2 Rolling Stones
 4 Fertilid
@@ -849,7 +833,6 @@
 2 Clockwork Dragon
 2 Abyssal Horror
 8 Collective Unconscious
-4 Avatar of Fury
 4 Ulvenwald Observer
 2 Deal Broker
 2 Leering Emblem
@@ -863,7 +846,6 @@
 4 Zulaport Cutthroat
 4 Evangel of Heliod
 4 Custodi Squire
-4 Savage Ventmaw
 4 Archetype of Finality
 2 Awesome Presence
 2 Jedit's Dragoons
@@ -886,4 +868,7 @@
 4 Simic Sky Swallower
 4 Sphinx of Uthuun
 4 Vizier of Many Faces
+8 Treva's Ruins
+8 Into the North
+8 Search for Tomorrow
 
