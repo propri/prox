@@ -27,7 +27,7 @@ def load_list(fn):
             result[name] = count
         total += count
 
-    sys.stderr.write('%d total (%d pages, %d empty slots)\n' % (total, int(math.ceil(total / 8.0)), 8 - (total % 8)))
+    sys.stderr.write('%d total (%d pages, %d empty slots)\n' % (total, int(math.ceil(total / 8.0)), (8 - (total % 8)) % 8))
 
     return result
 
