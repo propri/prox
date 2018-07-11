@@ -16,7 +16,7 @@ def load_list(fn):
         matches = re.match(REGEX, l)
         if not matches:
             continue
-        count = matches.group(1)
+        count = int(matches.group(1))
         name = matches.group(2)
         if result.has_key(name):
             sys.stderr.write("double entry: %s\n" % name)
@@ -34,7 +34,7 @@ def sort_list(fn):
     card_names.sort()
 
     for name in card_names:
-        print cards[name] + " " + name
+        print "%d %s" % (cards[name], name)
 
 
 
