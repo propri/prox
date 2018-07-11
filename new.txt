@@ -914,4 +914,34 @@
 4 Phenax, God of Deception
 4 Thassa, God of the Sea
 4 Xenagos, God of Revels
+2 Myr Sire
+4 Cathodion
+4 Junk Diver
+4 Palladium Myr
+4 Bottle Gnomes
+4 Tuktuk the Explorer
+4 Flametongue Kavu
+4 Ingot Chewer
+4 Spitebellows
+4 Hoard-Smelter Dragon
+4 Warmonger Hellkite
+4 Tyrant's Familiar
+4 Bosh, Iron Golem
+4 Bogardan Hellkite
+4 Impact Resonance
+4 Volcanic Offering
+4 Word of Seizing
+4 Magmaquake
+4 Whipflare
+4 Incite Rebellion
+4 Bitter Feud
+4 Everflowing Chalice
+4 Panic Spellbomb
+4 Ichor Wellspring
+4 Liquimetal Coating
+4 Mind Stone
+4 Mycosynth Wellspring
+4 Jalum Tome
+4 Unstable Obelisk
+4 Loreseeker's Stone
 
