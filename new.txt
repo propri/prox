@@ -944,4 +944,39 @@
 4 Jalum Tome
 4 Unstable Obelisk
 4 Loreseeker's Stone
+2 Kalemne, Disciple of Iroas
+2 Stinkdrinker Daredevil
+2 Taurean Mauler
+2 Dawnglare Invoker
+2 Fumiko the Lowblood
+2 Hunted Dragon
+2 Stoneshock Giant
+2 Thundercloud Shaman
+2 Warchief Giant
+2 Oreskos Explorer
+2 Herald of the Host
+2 Kalemne's Captain
+2 Sunrise Sovereign
+2 Hammerfist Giant
+2 Dawnbreak Reclaimer
+2 Hostility
+2 Jareth, Leonine Titan
+2 Sandstone Oracle
+2 Hamletback Goliath
+2 Arbiter of Knollridge
+2 Borderland Behemoth
+2 Dream Pillager
+2 Magma Giant
+2 Angel of Serenity
+2 Breath of Darigaaz
+2 Fiery Confluence
+2 Meteor Blast
+2 Fall of the Hammer
+2 Orim's Thunder
+2 Boros Cluestone
+2 Curse of the Nightly Hunt
+2 Faith's Fetters
+2 Ancient Amphitheater
+2 Blasted Landscape
+2 Wind-Scarred Crag
 
