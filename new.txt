@@ -39,7 +39,7 @@
 4 Sage of Hours
 8 Malicious Affliction
 8 Prowling Serpopard
-4 Overbeing of Myth
+8 Overbeing of Myth
 4 Thwart
 4 Overmaster
 4 Insist
@@ -297,7 +297,7 @@
 4 Buried Alive
 8 Underground River
 4 Feldon of the Third Path
-4 Reveillark
+8 Reveillark
 4 Cauldron of Souls
 4 Ikra Shidiqi, the Usurper
 2 Anya, Merciless Angel
@@ -370,7 +370,6 @@
 4 Abjure
 2 Wall of Hope
 2 Dragon Scales
-2 Rolling Stones
 2 Blaze
 2 Lure
 4 Solidarity
@@ -629,7 +628,6 @@
 4 Vow of Wildness
 4 Final Parting
 4 Whisper, Blood Liturgist
-4 Overbeing of Myth
 4 Fallen Angel
 2 Rolling Stones
 4 Fertilid
@@ -642,7 +640,6 @@
 4 Lay of the Land
 4 Colossus of Akros
 4 Retraction Helix
-4 Spectral Searchlight
 4 Valor Made Real
 4 Kurkesh, Onakke Ancient
 4 Wall of Essence
@@ -749,7 +746,6 @@
 2 Power Sink
 4 Strionic Resonator
 4 Panharmonicon
-4 Reveillark
 4 Coat of Arms
 8 Arch of Orazca
 4 Circu, Dimir Lobotomist
@@ -814,8 +810,6 @@
 2 Zur the Enchanter
 4 Slate of Ancestry
 4 Endbringer
-4 Thassa, God of the Sea
-4 Kruphix, God of Horizons
 4 Necropolis Regent
 4 Utvara Hellkite
 4 Flash
@@ -907,12 +901,12 @@
 4 Iroas, God of Victory
 4 Karametra, God of Harvests
 4 Keranos, God of Storms
-4 Kruphix, God of Horizons
+6 Kruphix, God of Horizons
 4 Mogis, God of Slaughter
 4 Nylea, God of the Hunt
 4 Pharika, God of Affliction
 4 Phenax, God of Deception
-4 Thassa, God of the Sea
+6 Thassa, God of the Sea
 4 Xenagos, God of Revels
 2 Myr Sire
 4 Cathodion
