@@ -979,4 +979,23 @@
 2 Ancient Amphitheater
 2 Blasted Landscape
 2 Wind-Scarred Crag
+4 Thrummingbird
+4 Festercreep
+4 Tuskguard Captain
+4 Necroplasm
+4 Custodi Soulbinders
+4 Bane of the Living
+4 Corpsejack Menace
+4 Elite Scaleguard
+4 Enduring Scalelord
+4 Spitting Image
+4 Duneblast
+4 Disdainful Stroke
+4 Solidarity of Heroes
+4 Mirrorweave
+4 Astral Cornucopia
+4 Grip of Phyresis
+4 Manifold Insights
+4 Migratory Route
+4 Sublime Exhalation
 
