@@ -863,4 +863,46 @@
 4 Breath of Fury
 4 Charging Cinderhorn
 4 Evolutionary Escalation
+2 Kynaios and Tiro of Meletis
+4 Gwafa Hazid, Profiteer
+4 Akroan Horse
+4 Collective Voyage
+4 Reverse the Sands
+4 Reins of Power
+4 Empyrial Plate
+4 Oath of Druids
+4 Hoofprints of the Stag
+4 Benefactor's Draught
+4 Entrapment Maneuver
+4 Seeds of Renewal
+4 Hungry Lynx
+4 Leonin Relic-Warder
+4 Phantom Nishoba
+4 Qasali Slingers
+4 Raksha Golden Cub
+4 Stalking Leonin
+4 Sunspear Shikari
+4 Hunter's Prowess
+4 Curse of Bounty
+4 Curse of Vitality
+4 Blossoming Sands
+4 Elfhame Palace
+4 Tranquil Expanse
+4 Crimson Honor Guard
+4 Skeletal Vampire
+4 Tithe Drinker
+4 New Blood
+4 Curse of Disturbance
+4 Bloodfell Caves
+4 Cinder Barrens
+4 Forsaken Sanctuary
+4 Scoured Barrens
+4 Stone Quarry
+4 Urborg Volcano
+4 Izzet Chemister
+4 Izzet Chronarch
+4 Merchant of Secrets
+4 Cauldron Dance
+4 Curse of Opulence
+4 Curse of Verbosity
 
