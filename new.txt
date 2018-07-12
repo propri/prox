@@ -905,4 +905,105 @@
 4 Cauldron Dance
 4 Curse of Opulence
 4 Curse of Verbosity
+4 Armorcraft Judge
+4 Shimmering Grotto
+4 Woodland Stream
+2 Asphyxiate
+2 Baleful Eidolon
+2 Bladed Pinions
+2 Blinding Powder
+2 Dhund Operative
+2 Dire Fleet Ravager
+2 Felhide Petrifier
+2 Fume Spitter
+2 Giant Scorpion
+2 Hankyu
+2 Heavy Arbalest
+2 Keepsake Gorgon
+2 Lethal Sting
+2 Moonglove Changeling
+2 Moonglove Winnower
+2 No-Dachi
+2 Ogre Slumlord
+2 Rancid Rats
+2 Ruin Rat
+2 Shambling Attendants
+2 Sharpened Pitchfork
+2 Skittering Heartstopper
+2 Smallpox
+2 Thorn of the Black Rose
+2 Ukud Cobra
+2 Viridian Claw
+2 Warren Weirding
+2 Wasteland Scorpion
+4 Cutthroat Maneuver
+4 Erdwal Ripper
+4 First Response
+4 Glimmerpoint Stag
+4 Havengul Vampire
+4 Malakir Cullblade
+4 Ordeal of Erebos
+4 Sengir Vampire
+4 Sentinel of the Eternal Watch
+4 Sentry of the Underworld
+4 Tormented Thoughts
+4 Wall of Limbs
+4 Cloudblazer
+4 Diluvian Primordial
+4 Eerie Interlude
+4 Essence Flux
+4 Ghostly Flicker
+4 Illusionist's Stratagem
+4 Momentary Blink
+4 Oblivion Ring
+4 Pacifism
+4 Reality Acid
+4 Sanctum Gargoyle
+4 Stunt Double
+4 Whirler Rogue
+4 Pentarch Ward
+4 Traveler's Cloak
+4 Trial of Knowledge
+4 Meteorite
+4 Commune with Dinosaurs
+4 Dinosaur Stampede
+4 Drover of the Mighty
+4 Fade into Antiquity
+4 Forerunner of the Empire
+4 Frilled Deathspitter
+4 Goring Ceratops
+4 Imperial Ceratops
+4 Kinjalli's Caller
+4 Knight of the Stampede
+4 Majestic Heliopterus
+4 Otepec Huntmaster
+4 Peregrination
+4 Pillar of Origins
+4 Pounce
+4 Priest of the Wakening Sun
+4 Radiant Destiny
+4 Raging Regisaur
+4 Raging Swordtooth
+4 Ravenous Daggertooth
+4 Rile
+4 Rite of Passage
+4 Savage Stomp
+4 Selesnya Sanctuary
+4 Shake the Foundations
+4 Snapping Sailback
+4 Territorial Hammerskull
+4 Thunderherd Migration
+4 Thundering Spineback
+4 Cloudthresher
+4 Flamekin Harbinger
+4 Phytotitan
+4 Gaea's Touch
+4 Harrow
+4 Nissa's Renewal
+4 Rampant Growth
+4 Centaur Vinecrasher
+4 Skarrg Guildmage
+4 Titania, Protector of Argoth
+4 Undergrowth Champion
+4 Gratuitous Violence
 
