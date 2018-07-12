@@ -90,3 +90,6 @@
 2 Zur the Enchanter
 4 Zurgo Bellstriker
 4 Zurgo Helmsmasher
+4 Abzan Charm
+2 Academy Elite
+
