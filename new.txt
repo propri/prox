@@ -693,3 +693,174 @@
 2 Zur the Enchanter
 4 Zurgo Bellstriker
 4 Zurgo Helmsmasher
+
+4 Selesnya Guildmage
+4 Stonecloaker
+4 Winged Coatl
+2 Curse of Inertia
+4 Curse of Predation
+4 Curse of the Forsaken
+2 Leafdrake Roost
+4 LEonin Bladetrap
+2 Presence of Gond
+4 Restore
+4 Sword of the Paruns
+4 Augury Adept
+4 Azorius Herald
+4 Disciple of Griselbrand
+2 Filigree Angel
+4 Kongming, Sleeping Dragon
+4 Raven Familiar
+4 Razor Hippogriff
+4 Stormscape Battlemage
+4 Tidehollow Strix
+2 Tower Gargoyle
+4 Vizkopa Guildmage
+4 Cradle of Vitality
+4 Curse of Shallow Graves
+4 Death Grasp
+4 Deep Analysis
+4 Dromar's Charm
+4 Famine
+4 Lim-Dûl's Vault
+4 Obelisk of Esper
+4 Order of Succession
+4 Reckless Spite
+4 Spinal Embrace
+2 Sun Droplet
+2 Survival Cache
+2 Urza's Factory
+4 Echo Mage
+4 Jace's Archivist
+4 Nightscape Familiar
+4 Nivix Guildmage
+4 Terra Ravager
+4 Viseling
+4 Annihilate
+4 Arcane Melee
+4 Crosis's Charm
+2 Curse of Chaos
+4 Eye of Doom
+4 Fissure Vent
+4 Grixis Charm
+4 Incendiary Command
+4 Infest
+4 Molten Disaster
+4 Obelisk of Grixis
+4 Phthisis
+4 Skyscribing
+4 Soul Manipulation
+4 Spiteful Visions
+4 Strategic Planning
+4 Kher Keep
+4 Brooding Saurian
+4 Capricious Efreet
+4 Charnelhoard Wurm
+4 Deepfire Elemental
+4 Fell Shepherd
+4 Golgari Guildmage
+4 Hunted Troll
+4 Ophiomancer
+4 Sprouting Thrinax
+4 Walker of the Grove
+4 Wight of Precinct Six
+4 Blood Rites
+2 Carnage Altar
+4 Dirge of Dread
+4 Furnace Celebration
+4 Mass Mutiny
+4 Night Soil
+4 Obelisk of Jund
+4 Plague Boiler
+4 Reincarnation
+4 Rough // Tumble
+4 Tooth and Claw
+4 Vile Requiem
+4 Widespread Panic
+4 Thousand-Year Elixir
+4 Crater Hellion
+4 Deadwood Treefolk
+4 Eternal Dragon
+4 Krosan Tusker
+4 Magus of the Arena
+4 Naya Soulbeast
+4 Rakeclaw Gargantuan
+2 Ravenous Baloth
+2 Valley Rannet
+4 Fiery Justice
+4 Mystic Barrier
+4 Slice and Dice
+4 Spawning Grounds
+4 Street Spasm
+4 War Cadence
+4 Wrath of God
+4 Witch Hunt
+4 Ezuri, Claw of Progress
+4 Arbor Colossus
+4 Caller of the Claw
+4 Chameleon Colossus
+4 Elvish Visionary
+4 Experiment One
+4 Illusory Ambusher
+4 Loaming Shaman
+4 Mystic Snake
+4 Ninja of the Deep Hours
+4 Noble Quarry
+4 Patagia Viper
+4 Plaxmanta
+4 Thelonite Hermit
+4 Viridian Shaman
+4 Wistful Selkie
+4 Cobra Trap
+4 Orochi Hatchery
+4 Simic Keyrune
+4 Thornwood Falls
+4 Syphon Flesh
+4 Svogthos, the Restless Tomb
+4 Gravedigger
+2 Yidris, Maelstrom Wielder
+4 Spellheart Chimera
+4 Academy Elite
+4 Gamekeeper
+4 Bloodbraid Elf
+4 Horizon Chimera
+4 Glint-Eye Nephilim
+4 Guiltfeeder
+4 Etherium-Horn Sorcerer
+4 Dragon Mage
+4 Blood Tyrant
+4 Wheel of Fate
+4 Far Wanderings
+4 Whispering Madness
+4 Decimate
+4 Reforge the Soul
+4 Whims of the Fates
+4 Chain of Vapor
+4 Bituminous Blast
+4 Whispersilk Cloak
+4 Dismal Backwater
+4 Rugged Highlands
+4 Swiftwater Cliffs
+4 Goblin Spymaster
+4 Runehorn Hellkite
+4 Frenzied Fugue
+4 Treacherous Terrain
+4 Cacophodon
+4 Saskia the Unyielding
+4 Den Protector
+4 Quirion Explorer
+4 Sylvok Explorer
+4 Korozda Guildmage
+4 Zhur-Taa Druid
+4 Alesha, Who Smiles at Death
+4 Wild Beastmaster
+4 Wilderness Elemental
+4 Lavalanche
+4 Abzan Charm
+4 Order // Chaos
+2 Necrogenesis
+4 Everlasting Torment
+4 Breath of Fury
+4 Charging Cinderhorn
+4 Evolutionary Escalation
+
