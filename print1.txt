@@ -1,105 +1,98 @@
-8 Adarkar Wastes
-8 Aether Hub
-8 Battlefield Forge
-8 Buried Ruin
-8 Blood Crypt
-8 Botanical Sanctum
-8 Canopy Vista
-8 Cascade Bluffs
-8 Cascading Cataracts
-8 Caves of Koilos
-8 Choked Estuary
-4 Cinder Glade
-8 Clifftop Retreat
-8 Command Beacon
-8 Command Tower
-8 Darkwater Catacombs
-8 Dragonskull Summit
-8 Drowned Catacomb
-4 Drownyard Temple
-8 Exotic Orchard
-8 Forbidden Orchard
-8 Foreboding Ruins
-8 Fortified Village
-4 Game Trail
-4 Ghost Town
-8 Glacial Fortress
-8 Godless Shrine
-8 Grand Coliseum
-8 Graven Cairns
-8 Hallowed Fountain
-8 High Market
-8 Hinterland Harbor
-8 Homeward Path
-8 Irrigated Farmland
-8 Isolated Chapel
-4 Karplusan Forest
-8 Kessig Wolf Run 
-8 Krosan Verge
-4 Llanowar Reborn
-8 Llanowar Wastes 
-8 Mana Confluence
-8 Maze of Ith
-4 Mistveil Plains
-4 Mosswort Bridge
-8 Myriad Landscape
-8 Nimbus Maze
-8 Nomad Outpost
-8 Opal Palace
-4 Oran-Rief, the Vastwood
-8 Overgrown Tomb
-8 Path of Ancestry
-8 Port Town
-4 Reflecting Pool
-8 Reliquary Tower
-8 Rootbound Crag
-4 Sacred Foundry
-8 Sandsteppe Citadel
-4 Sapseep Forest
-8 Scattered Groves
-8 Scavenger Grounds
-8 Seaside Citadel
-8 Shadowblood Ridge
-8 Sheltered Thicket
-4 Skarrg, the Rage Pits
-8 Smoldering Marsh
-8 Spire of Industry
-8 Spirebluff Canal
-4 Springjack Pasture
-8 Steam Vents
-8 Sulfur Falls
-8 Sulfurous Springs
-8 Sungrass Prairie
-8 Sunken Hollow
-8 Sunken Ruins
-8 Sunpetal Grove
-8 Tainted Field
-8 Tainted Peak
-8 Tainted Wood
-8 Temple Garden
-8 Temple of Abandon
-8 Temple of Deceit
-8 Temple of Enlightenment
-8 Temple of Malady
-8 Temple of Malice
-8 Temple of Mystery
-8 Temple of Plenty
-8 Temple of Silence
-8 Temple of Triumph
-4 Terrain Generator
-8 Thespian's Stage
-8 Unclaimed Territory
-8 Urza's Mine
-8 Urza's Power Plant
-8 Urza's Tower
-8 Warped Landscape
-8 Watery Grave
-8 Woodland Cemetery
-8 Yavimaya Coast
-
-4 Profane Procession 
-4 Tomb of the Dusk Rose
-8 Growing Rites of Itlimoc 
-8 Itlimoc, Cradle of the Sun 
-4 Journey to Eternity 
-4 Atzal, Cave of Eternity
+4 Abjure
+2 Abyssal Horror
+4 Accorder's Shield
+4 Adarkar Valkyrie
+4 Admiral's Order
+4 Aeon Chronicler
+4 Aether Gale
+4 Aetherplasm
+4 Aethersnatch
+4 Ainok Survivalist
+4 Ajani's Chosen
+8 Akroma, Angel of Wrath
+8 Alchemist's Refuge
+2 Alpha Authority
+4 Altered Ego
+4 Always Watching
+4 Amaranthine Wall
+4 Anarchy
+2 Ancient Amphitheater
+4 Ancient Excavation
+4 Ancient Hellkite
+2 Angel of Serenity
+8 Angel's Grace
+4 Angelic Field Marshal
+4 Angrath's Marauders
+4 Animar, Soul of Elements
+8 Anointed Procession
+4 Anowon, the Ruin Sage
+2 Anya, Merciless Angel
+4 Approach of the Second Sun
+2 Arbiter of Knollridge
+2 Arcades, the Strategist
+2 Arcbound Lancer
+8 Arch of Orazca
+4 Archetype of Finality
+4 Archivist
+4 Archmage Ascension
+4 Armada Wurm
+4 Armory Automaton
+4 Asha's Favor
+4 Ashen Firebeast
+4 Ashen Rider
+4 Assault Formation
+4 Astral Cornucopia
+4 Athreos, God of Passage
+2 Atraxa, Praetors' Voice
+4 Atzocan Archer
+4 Augur of Bolas
+4 Augury Owl
+8 Aura Mutation
+8 Aura Shards
+4 Auriok Windwalker
+4 Autochthon Wurm
+4 Avatar of Fury
+2 Awesome Presence
+4 Axebane Guardian
+4 Azorius Keyrune
+4 Azusa, Lost but Seeking
+4 Back to Nature
+4 Bad River
+4 Baleful Force
+4 Balustrade Spy
+4 Bane of Progress
+4 Bane of the Living
+8 Banefire
+2 Banishing Knack
+4 Banishing Light
+8 Basilisk Collar
+4 Battle Hymn
+4 Battle-Rattle Shaman
+4 Beacon of Tomorrows
+4 Bear Umbra
+8 Beast Within
+4 Beetleback Chief
+8 Bellowing Aegisaur
+4 Benthic Giant
+4 Bishop of Rebirth
+4 Bitter Feud
+8 Blade of Selves
+2 Blasted Landscape
+4 Blatant Thievery
+2 Blaze
+4 Blighted Cataract
+4 Bloodcrazed Paladin
+4 Bogardan Hellkite
+8 Bonus Round
+2 Borborygmos Enraged
+2 Borderland Behemoth
+2 Boros Cluestone
+8 Boseiju, Who Shelters All
+4 Bosh, Iron Golem
+4 Bottle Gnomes
+4 Bounteous Kirin
+8 Bountiful Promenade
+4 Brago, King Eternal
+4 Braids, Cabal Minion
+8 Bramble Sovereign
+4 Brave the Sands

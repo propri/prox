@@ -1,51 +1,101 @@
-4 Brutal Hordechief
-4 Buried Alive
-4 Butcher of Malakir
-8 Burnished Hart
-4 Cabal Paladin
-4 Cadaver Imp
-4 Caller of the Pack
-4 Capsize
-4 Carrion Feeder
-8 Cathars' Crusade
-4 Cathartic Reunion
-8 Chain Reaction
-8 Chandra's Ignition
-4 Chariot of Victory
-4 Charmbreaker Devils
-4 Chimeric Coils
-4 Clash of Wills
-4 Clever Impersonator
-4 Cloak of Mists
-4 Cloud Cover
-4 Cloudhoof Kirin
-4 Cloudshift
-4 Coat of Arms
-8 Commander's Sphere
-4 Complicate
-4 Condescend
-4 Conjurer's Closet
-8 Consecrated Sphinx
-4 Corrupted Conscience
-4 Crypt of Agadeem
-4 Cryptic Gateway
-8 Cultivate
-4 Curse of the Swine
-4 Custodi Lich
-4 Cyclonic Rift
-4 Daring Thief
-4 Dark Prophecy
-4 Dawntreader Elk
-8 Day of Judgment
-4 Day of the Dragons
-4 Deathreap Ritual
-4 Deep Reconnaissance
-4 Deep-Sea Kraken
-4 Deepfathom Skulker
-4 Decree of Pain
-4 Deicide
-4 Denizen of the Deep
-4 Desertion
-4 Desolation Giant
-4 Desolation Twin
-8 Dictate of Erebos
+10 Doubling Season
+4 Dowsing Dagger
+4 Dragon Breath
+2 Dragon Scales
+4 Dragon Throne of Tarkir
+4 Dragon-Style Twins
+4 Dragonlair Spider
+4 Dragonmaster Outcast
+4 Drake Haven
+2 Dream Pillager
+2 Dreamborn Muse
+4 Drift of Phantasms
+4 Druid's Deliverance
+8 Dualcaster Mage
+8 Duelist's Heritage
+4 Duneblast
+4 Dusk Legion Zealot
+4 Dwynen, Gilt-Leaf Daen
+4 Early Harvest
+8 Earthquake
+4 Eland Umbra
+4 Electrolyze
+4 Elemental Bond
+4 Elite Scaleguard
+2 Elvish Aberration
+4 Embodiment of Fury
+4 Embodiment of Insight
+4 Empty the Warrens
+4 Endbringer
+4 Endless One
+2 Enduring Renewal
+4 Enduring Scalelord
+4 Ensouled Scimitar
+4 Enter the Infinite
+4 Ephara, God of the Polis
+4 Epic Confrontation
+2 Epochrasite
+4 Erebos, God of the Dead
+4 Erratic Portal
+4 Ertai's Meddling
+4 Eternal Warrior
+8 Eternal Witness
+4 Evangel of Heliod
+4 Everflowing Chalice
+4 Evil Twin
+4 Exava, Rakdos Blood Witch
+4 Exclusion Ritual
+4 Exhume
+4 Experiment Kraj
+4 Explosive Impact
+4 Exquisite Firecraft
+2 Extractor Demon
+4 Extraplanar Lens
+4 Fade Away
+2 Faith's Fetters
+8 Faithless Looting
+2 Fall of the Hammer
+4 Fall of the Titans
+4 Fallen Angel
+4 Fanning the Flames
+4 Farseek
+4 Fated Return
+4 Fatestitcher
+4 Fathom Mage
+4 Feldon of the Third Path
+4 Felidar Guardian
+4 Fell the Mighty
+4 Fellwar Stone
+4 Fertilid
+8 Fervor
+4 Festercreep
+4 Fetid Imp
+2 Fiery Confluence
+4 Filigree Familiar
+4 Final Parting
+4 Fire Diamond
+4 Firewing Phoenix
+4 Fist of Suns
+4 Flamekin Village
+4 Flametongue Kavu
+4 Flash
+4 Fleetfeather Sandals
+4 Fleshbag Marauder
+4 Flickering Ward
+4 Fog Bank
+4 Followed Footsteps
+4 Forbid
+2 Forerunner of the Heralds
+4 Forgotten Ancient
+4 Fragmentize
+4 Freed from the Real
+4 Frontier Guide
+4 Frost Breath
+4 Fumble
+2 Fumiko the Lowblood
+4 Fury of the Horde
+4 Future Sight
+4 Gaea's Herald
+4 Gaea's Revenge
+4 Galvanic Alchemist
+2 Galvanic Juggernaut
