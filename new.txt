@@ -5,4 +5,140 @@
 4 Giant Adephage
 8 Brushland
 4 Satyr Enchanter
+4 Living Wall
+4 Wall of Air
+4 Wall of Ice
+4 Burnout
+4 Null Chamber
+4 Parapet
+4 Marble Titan
+4 Belbe's Armor
+4 Dega Sanctuary
+4 Ana Sanctuary
+4 Squee's Embrace
+4 Sacred Rites
+4 Epic Struggle
+4 Skirk Fire Marshal
+4 Ghastly Demise
+4 Solar Tide
+4 Copperhoof Vorrac
+4 Molder Slug
+4 Sword of Kaldra
+4 Gemstone Array
+4 Primordial Sage
+4 Pollenbright Wings
+4 Psychotic Fury
+4 Dust Corona
+4 Mortal Combat
+4 Oust
+4 Praetor's Grasp
+4 Human Frailty
+4 Aurelia's Fury
+4 Biovisionary
+4 Reaper from the Abyss
+4 Sight of the Scalelords
+4 Archdemon of Paliano
+4 Shatterstorm
+4 Warp World
+4 Oathsworn Giant
+4 Congregation at Dawn
+4 Cerebral Vortex
+4 Kaervek the Merciless
+4 Akroma's Memorial
+4 Juvenile Gloomwidow
+4 Twinblade Slasher
+4 Sovereigns of Lost Alara
+4 Flame Slash
+4 Asceticism
+4 Chancellor of the Forge
+4 Angelic Wall
+4 Riftsweeper
+4 Krenko's Enforcer
+4 Sultai Charm
+4 Alhammarret's Archive
+4 Ugin's Insight
+4 Fortified Rampart
+4 Argothian Enchantress
+4 Attune with Aether
+4 Banishing Stroke
+4 Dusk // Dawn
+4 Fleet Swallower
+4 Tilonalli's Skinshifter
+4 Urza's Ruinous Blast
+4 Thrilling Encore
+4 Angelic Chorus
+4 Metamorphic Alteration
+4 Patient Rebuilding
+4 Hungering Hydra
+4 Dragon's Hoard
+4 Aegis of the Heavens
+4 Exclusion Mage
+4 Mirror Image
+4 Stitcher's Supplier
+4 Lightning Mare
+4 Colossal Majesty
+4 Druid of Horns
+4 Dryad Greenseeker
+4 Draconic Disciple
+4 Poison-Tip Archer
+4 Fountain of Renewal
+4 Millstone
+4 Suspicious Bookcase
+4 Trusty Packbeast
+4 Salvager of Secrets
+4 Wall of Mist
+4 Fortified Area
+4 Wall of Tears
+4 Glacial Wall
+4 Wall of Glare
+4 In the Web of War
+4 Wall of Shards
+4 Mimic Vat
+4 Tainted Strike
+4 Plumeveil
+4 Detention Sphere
+4 Hornet Nest
+4 Ancestral Statue
+4 Wild-Field Scarecrow
+4 Indrik Umbra
+4 Cartouche of Solidarity
+4 Orator of Ojutai
+4 Fierce Empath
+4 Doublecast
+4 Madcap Experiment
+4 Freejam Regent
+4 Temmet, Vizier of Naktamun
+4 Emperor's Vanguard
+8 Path of Mettle
+8 Metzali, Tower of Triumph
+4 Haphazard Bombardment
+4 Cleansing Nova
+4 Valiant Knight
+4 Runic Armasaur
+4 Unlicensed Disintegration
+4 Righteousness
+4 Sylvan Messenger
+4 Wharf Infiltrator
+4 Pyroclasm
+4 Thunderous Wrath
+4 Slither Blade
+4 Ixalan's Binding
+4 Austere Command
+4 Indulgent Tormentor
+4 Dragon Tempest
+4 Azorius Charm
+4 Trepanation Blade
+4 Phyrexian Rager
+4 Wrench Mind
+4 Frenzied Goblin
+4 Lull
+4 Marwyn, the Nurturer
+4 Forebear's Blade
+4 Danitha Capashen, Paragon
+4 Seal Away
+4 Warcry Phoenix
+4 Gaea's Blessing
+4 Zhalfirin Void
+4 Prodigious Growth
+4 Hieromancer's Cage
 
