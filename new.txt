@@ -141,4 +141,6 @@
 4 Zhalfirin Void
 4 Prodigious Growth
 4 Hieromancer's Cage
+8 Heroic Intervention
+4 Dawn Charm
 
