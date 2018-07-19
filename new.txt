@@ -145,4 +145,7 @@
 4 Dawn Charm
 4 Kor Spirit Dancer
 4 Golgari Germination
+4 Bone to Ash
+4 Manalith
+4 Pelakka Wurm
 
