@@ -148,4 +148,13 @@
 4 Bone to Ash
 4 Manalith
 4 Pelakka Wurm
+4 Psychic Corrosion
+4 Rabid Bite
+4 Rogue's Gloves
+4 Sift
+4 Skymarch Bloodletter
+4 Sleep
+4 Dromoka, the Eternal
+4 Kolaghan, the Storm's Fury
+4 Ojutai, Soul of Winter
 
