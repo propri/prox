@@ -96,10 +96,3 @@
 8 Watery Grave
 8 Woodland Cemetery
 8 Yavimaya Coast
-
-4 Profane Procession 
-4 Tomb of the Dusk Rose
-8 Growing Rites of Itlimoc 
-8 Itlimoc, Cradle of the Sun 
-4 Journey to Eternity 
-4 Atzal, Cave of Eternity

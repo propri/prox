@@ -237,3 +237,5 @@
 4 Utopia Mycon
 4 Vigilant Baloth
 4 Waterknot
+4 Spirit Loop
+
