@@ -157,4 +157,83 @@
 4 Dromoka, the Eternal
 4 Kolaghan, the Storm's Fury
 4 Ojutai, Soul of Winter
-
+4 Ajani's Influence
+4 Ajani's Welcome
+8 Black Sun's Zenith
+4 Blanchwood Armor
+4 Blood Divination
+4 Cataclysmic Gearhulk
+4 Chaos Wand
+8 Charcoal Diamond
+4 Compost
+4 Crafty Cutpurse
+4 Crucible of Fire
+8 Crucible of Worlds
+4 Daggerback Basilisk
+4 Dark-Dweller Oracle
+4 Desecrated Tomb
+8 Detection Tower
+4 Djinn of Wishes
+4 Dregs of Sorrow
+4 Etherium Sculptor
+8 Exploration
+8 Expropriate
+4 Fabricate
+4 Fateful Showdown
+4 Fell Specter
+4 Grisly Salvage
+4 Harmonic Convergence
+4 Herald of Faith
+4 Heroic Reinforcements
+4 Hired Blade
+4 Horizon Scholar
+4 Infernal Scarring
+4 Ironwright's Cleansing
+4 Kumena's Awakening
+4 Lathliss, Dragon Queen
+4 Lena, Selfless Champion
+4 Lich's Caress
+4 Lich's Mastery
+4 Liliana's Contract
+4 Liliana's Spoils
+4 Lim-Dûl's Paladin
+4 Loxodon Smiter
+4 Magistrate's Scepter
+8 Marble Diamond
+4 Mercadia's Downfall
+4 Meteor Golem
+8 Moss Diamond
+4 Necrologia
+4 Necromaster Dragon
+4 Nexus of Fate
+4 Novice Knight
+8 Omniscience
+4 One with the Machine
+4 Orazca Relic
+4 Painful Lesson
+4 Phylactery Lich
+4 Pir, Imaginative Rascal
+8 Powerstone Shard
+4 Pride of Conquerors
+4 Psychic Symbiont
+4 Read the Runes
+4 Regal Bloodlord
+4 Restoration Specialist
+4 Sanguinary Mage
+4 Scapeshift
+4 Seedtime
+4 Shadow of the Grave
+4 Sigiled Sword of Valeron
+4 Silverglade Elemental
+4 Skilled Animator
+8 Sky Diamond
+4 Tariff
+4 Thalia's Lancers
+4 Thief of Blood
+4 Toothy, Imaginary Friend
+4 Transmogrifying Wand
+4 Triskaidekaphobia
+4 Uncage the Menagerie
+4 Utopia Mycon
+4 Vigilant Baloth
+4 Waterknot
