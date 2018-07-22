@@ -245,4 +245,6 @@
 4 Vigilant Baloth
 4 Waterknot
 4 Spirit Loop
+4 Golgari Germination
+4 Hunting Wilds
 
