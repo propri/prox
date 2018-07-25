@@ -259,4 +259,5 @@
 4 Golgari Germination
 4 Hunting Wilds
 4 Growth Spasm
+8 Khalni Heart Expedition
 
