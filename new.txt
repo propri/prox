@@ -261,4 +261,23 @@
 4 Growth Spasm
 8 Khalni Heart Expedition
 8 Mother of Runes
+8 Triumph of the Hordes
+4 Vodalian Illusionist
+4 Mana Breach
+4 Goblin War Strike
+8 Arctic Flats
+8 Boreal Shelf
+8 Highland Weald
+8 Tresserhorn Sinks
+4 Shard Convergence
+4 Golgari Charm
+4 Dragon Mantle
+4 Seek the Horizon
+4 Afterlife
+4 Wood Elves
+4 Oblivion Strike
+4 Faith Unbroken
+4 Mist-Cloaked Herald
+4 Darksteel Plate
+4 Mycosynth Lattice
 
