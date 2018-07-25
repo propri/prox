@@ -280,4 +280,5 @@
 4 Mist-Cloaked Herald
 4 Darksteel Plate
 4 Mycosynth Lattice
+4 Fanatical Devotion
 
