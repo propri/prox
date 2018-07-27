@@ -283,4 +283,41 @@
 4 Mycosynth Lattice
 4 Fanatical Devotion
 4 Spike Feeder
+4 Blood Moon
+4 Maelstrom Nexus
+4 Goblin Lackey
+4 Darksteel Forge
+4 Smokestack
+4 Chromatic Star
+4 Price of Glory
+4 Devoted Druid
+4 Knight Exemplar
+4 Belbe's Portal
+4 Fiery Gambit
+4 Crumbling Ashes
+4 Steelshaper's Gift
+4 Mishra's Bauble
+4 Expedition Map
+4 Circle of Despair
+4 Lantern of Insight
+4 Sleight of Hand
+4 Golgari Thug
+4 Harsh Mercy
+4 Planar Portal
+4 Liege of the Tangle
+4 Necrogen Mists
+4 Spore Frog
+4 Drogskol Reaver
+4 Exsanguinate
+2 Ink-Eyes, Servant of Oni
+4 Conspiracy
+8 Dismember
+4 Shirei, Shizo's Caretaker
+4 Myojin of Cleansing Fire
+4 Armageddon
+4 Sadistic Hypnotist
+4 Rule of Law
+4 Gleeful Sabotage
+4 Slippery Bogle
+4 Utopia Sprawl
 
