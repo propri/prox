@@ -36,7 +36,7 @@
 4 Venser, the Sojourner
 2 Galepowder Mage
 8 Path to Exile
-4 Safe PAssage
+4 Safe Passage
 4 Vanish into Memory
 4 Preordain
 8 Revoke Existence
