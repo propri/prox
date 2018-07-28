@@ -342,4 +342,5 @@
 4 Goblin Soothsayer
 4 Stingscourger
 4 Glorious End
+4 Zendikar's Roil
 

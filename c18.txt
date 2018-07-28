@@ -1,324 +1,144 @@
-Saheeli, the Gifted
-Maverick Thopterist 
-Soul of New Phyrexia 
-Inkwell Leviathan 
-Sharding Sphinx 
-Hellkite Igniter 
-Bosh, Iron Golem 
-Darksteel Juggernaut 
-Duplicant 
-Myr Battlesphere 
-Psychosis Crawler 
-Scuttling Doom Engine 
-Steel Hellkite 
-Thopter Assembly 
-Etherium Sculptor 
-Whirler Rogue 
-Chief of the Foundry 
-Pilgrim's Eye
-Saheeli's Artistry 
-Blasphemous Act 
-Reverse Engineer 
-Tidings
-Chaos Warp 
-Magmaquake 
-Into the Roil 
-Thirst for Knowledge
-Blinkmoth Urn 
-Mimic Vat 
-Mirrorworks 
-Prototype Portal 
-Unwinding Clock 
-Commander's Sphere 
-Dreamstone Hedron 
-Hedron Archive 
-Izzet Signet 
-Magnifying Glass 
-Mind Stone 
-Prismatic Lens 
-Scrabbling Claws 
-Sol Ring 
-Swiftfoot Boots 
-Unstable Obelisk 
-Vessel of Endless Rest 
-Worn Powerstone 
-Darksteel Citadel 
-Great Furnace 
-Seat of the Synod
-Thopter Spy Network
-Buried Ruin 
-Command Tower 
-Foundry of the Consuls 
-Highland Lake 
-Izzet Boilerworks 
-Izzet Guildgate 
-Swiftwater Cliffs
-Brudiclad, Telchor Engineer 
-Tawnos, Urza's Apprentice 
-Echo Storm 
-Vedalken Humiliator 
-Enchanter's Bane 
-Saheeli's Directive 
-Treasure Nabber 
-Varchild, Betrayer of Kjeldor 
-Ancient Stone Idol 
-Coveted Jewel 
-Endless Atlas 
-Retrofitter Foundry 
-Aether Gale 
-Loyal Drake 
-Loyal Apprentice 
-Geode Golem 
-Thopter Engineer 
-Forge of Heroes 
-
-
-Aminatou, the Fateshifter
-
-Enigma Sphinx 
-Serra Avatar 
-Adarkar Valkyrie 
-Conundrum Sphinx 
-Djinn of Wishes 
-Jeskai Infiltrator 
-Sphinx of Jwar Isle 
-Sphinx of Uthuun 
-Phyrexian Delver 
-Duskmantle Seer 
-High Priest of Penance 
-Silent-Blade Oni 
-Mulldrifter 
-Ninja of the Deep Hours 
-Sigiled Starfish 
-Pilgrim's Eye
-Terminus 
-Entreat the Angels 
-Army of the Damned 
-Akroma's Vengeance 
-Devastation Tide 
-Dream Cache 
-Ponder 
-Portent 
-Treasure Hunt
-Utter End 
-Banishing Stroke 
-Return to Dust 
-Brainstorm 
-Predict 
-Telling Time 
-Esper Charm 
-Mortify
-Azorius Signet 
-Commander's Sphere 
-Crystal Ball 
-Dimir Signet 
-Mind Stone 
-Orzhov Signet 
-Seer's Lantern 
-Sol Ring
-Lightform 
-Cloudform
-Arcane Sanctum 
-Azorius Chancery 
-Azorius Guildgate 
-Barren Moor 
-Command Tower 
-Dimir Aqueduct 
-Dimir Guildgate 
-Dismal Backwater 
-Forsaken Sanctuary 
-Halimar Depths 
-Jwar Isle Refuge 
-Lonely Sandbar 
-Meandering River 
-Mortuary Mire 
-New Benalia 
-Orzhov Basilica 
-Orzhov Guildgate 
-Scoured Barrens 
-Secluded Steppe 
-Sejiri Refuge 
-Submerged Boneyard 
-Tranquil Cove
-Varina, Lich Queen 
-Yennett, Cryptic Sovereign 
-Boreas Charger 
-Magus of the Balance 
-Aminatou's Augury 
-Primordial Mist 
-Entreat the Dead 
-Night Incarnate 
-Skull Storm 
-Sower of Discord 
-Yuriko, the Tiger's Shadow 
-Isolated Watchtower 
-Aethermage's Touch 
-Loyal Unicorn 
-Loyal Subordinate 
-Geode Golem 
-Forge of Heroes
-Crib Swap 
-
-
-Lord Windgrace
+4 Xantcha, Sleeper Agent
+4 Loyal Subordinate
+4 Loyal Apprentice
+4 Loyal Guardian
+4 Forge of Heroes
+4 Estrid, the Masked
+4 Bruna, Light of Alabaster
+4 Celestial Archon
+4 Silent Sentinel
+4 Boon Satyr
+4 Herald of the Pantheon
+4 Daxos of Meletis
+4 Elderwood Scion
+4 Whitewater Naiads
+4 Aura Gnarlid
+4 Yavimaya Enchantress
+4 Kruphix's Insight
+4 Bant Charm
+4 Epic Proportions
+4 Finest Hour
+4 Righteous Authority
+4 Soul Snare
+4 Eel Umbra
+4 Dawn's Reflection
+4 Fertile Ground
+4 Overgrowth
+4 Wild Growth
+4 Unflinching Courage
+4 Azorius Chancery
+4 Evolving Wilds
+4 Meandering River
+4 Simic Growth Chamber
+4 Terramorphic Expanse
+4 Tranquil Cove
+4 Kestia, the Cultivator
+4 Tuvasa the Sunlit
+4 Empyrial Storm
+4 Heavenly Blademaster
+4 Estrid's Invocation
+4 Ever-Watching Threshold
+4 Octopus Umbra
+4 Genesis Storm
+4 Myth Unbound
+4 Nylea's Colossus
+4 Ravenous Slime
+4 Arixmethes, Slumbering Isle
+4 Loyal Unicorn
+4 Loyal Drake
+4 Loyal Guardian
+4 Forge of Heroes
+4 Mortuary Mire
+4 Submerged Boneyard
+4 Varina, Lich Queen
+4 Yennett, Cryptic Sovereign
+4 Boreas Charger
+4 Magus of the Balance
+4 Aminatou's Augury
+4 Primordial Mist
+4 Entreat the Dead
+4 Night Incarnate
+4 Skull Storm
+4 Sower of Discord
+4 Yuriko, the Tiger's Shadow
+4 Isolated Watchtower
+4 Geode Golem
+4 Lord Windgrace
+4 Moldgraf Monstrosity
+4 Scute Mob
+4 Borderland Explorer
+4 Zendikar Incarnate
+4 Ruinous Path
+4 Gaze of Granite
+4 Explosive Vegetation
+4 Moonlight Bargain
+4 Consign to Dust
+4 Grapple with the Past
+4 Retreat to Hagra
+4 Haunted Fengraf
+4 Gyrus, Waker of Corpses
+4 Thantis, the Warweaver
+4 Bloodtracker
+4 Emissary of Grudges
+4 Fury Storm
+4 Nesting Dragon
+4 Reality Scramble
+4 Crash of Rhino Beetles
+4 Turntimber Sower
+4 Whiptongue Hydra
+4 Windgrace's Judgment
+4 Magnifying Glass
+4 Prismatic Lens
+4 Scrabbling Claws
+4 Vessel of Endless Rest
+4 Thopter Spy Network
+4 Foundry of the Consuls
+4 Highland Lake
+4 Brudiclad, Telchor Engineer
+4 Tawnos, Urza's Apprentice
+4 Echo Storm
+4 Vedalken Humiliator
+4 Enchanter's Bane
+4 Saheeli's Directive
+4 Treasure Nabber
+4 Varchild, Betrayer of Kjeldor
+4 Ancient Stone Idol
+4 Coveted Jewel
+4 Endless Atlas
+4 Retrofitter Foundry
+4 Thopter Engineer
+4 Aminatou, the Fateshifter
+4 Enigma Sphinx
+4 Conundrum Sphinx
+4 Jeskai Infiltrator
+4 Sphinx of Jwar Isle
+4 Duskmantle Seer
+4 High Priest of Penance
+4 Silent-Blade Oni
+4 Sigiled Starfish
+4 Entreat the Angels
+4 Dream Cache
+4 Ponder
+4 Portent
+4 Treasure Hunt
+4 Predict
+4 Telling Time
+4 Esper Charm
+4 Crystal Ball
+4 Lightform
+4 Cloudform
+4 Saheeli, the Gifted
+4 Maverick Thopterist
+4 Hellkite Igniter
+4 Darksteel Juggernaut
+4 Scuttling Doom Engine
+4 Thopter Assembly
+4 Chief of the Foundry
+4 Saheeli's Artistry
+4 Reverse Engineer
+4 Tidings
+4 Blinkmoth Urn
+4 Mirrorworks
+4 Prototype Portal
+4 Unwinding Clock
  
-Charnelhoard Wurm 
-Avenger of Zendikar 
-Soul of Innistrad 
-Flameblast Dragon 
-Budoka Gardener 
-Centaur Vinecrasher 
-Moldgraf Monstrosity 
-Rampaging Baloths 
-Scute Mob 
-Rubblehulk 
-Acidic Slime 
-Baloth Woodcrasher 
-Borderland Explorer 
-Farhaven Elf 
-Sakura-Tribe Elder 
-Yavimaya Elder 
-Zendikar Incarnate
-Ruinous Path 
-Chain Reaction 
-Decimate 
-Gaze of Granite 
-Lavalanche 
-Worm Harvest 
-Stitch Together 
-Cultivate 
-Explore 
-Explosive Vegetation 
-Far Wanderings 
-Hunting Wilds 
-Savage Twister
-Moonlight Bargain 
-Consign to Dust 
-Grapple with the Past 
-Harrow 
-Grisly Salvage 
-Putrefy
-Seer's Sundial 
-Sol Ring
-Retreat to Hagra 
-Khalni Heart Expedition 
-Deathreap Ritual
-Akoum Refuge 
-Barren Moor 
-Blighted Woodland 
-Bojuka Bog 
-Command Tower 
-Evolving Wilds 
-Forgotten Cave 
-Golgari Rot Farm 
-Grim Backwoods 
-Gruul Turf 
-Haunted Fengraf 
-Jund Panorama 
-Jungle Hollow 
-Kazandu Refuge 
-Khalni Garden 
-Mountain Valley 
-Myriad Landscape 
-Rakdos Carnarium 
-Rocky Tar Pit 
-Savage Lands 
-Temple of the False God 
-Terramorphic Expanse 
-Tranquil Thicket 
-Warped Landscape
-Gyrus, Waker of Corpses 
-Thantis, the Warweaver 
-Bloodtracker 
-Emissary of Grudges 
-Fury Storm 
-Nesting Dragon 
-Reality Scramble 
-Crash of Rhino Beetles 
-Turntimber Sower 
-Whiptongue Hydra 
-Windgrace's Judgment 
-Xantcha, Sleeper Agent 
-Loyal Subordinate 
-Loyal Apprentice 
-Loyal Guardian 
-Forge of Heroes 
-
-
-Estrid, the Masked
-Bruna, Light of Alabaster 
-Eidolon of Blossoms 
-Hydra Omnivore 
-Ajani's Chosen 
-Celestial Archon 
-Silent Sentinel 
-Boon Satyr 
-Herald of the Pantheon 
-Cold-Eyed Selkie 
-Daxos of Meletis 
-Elderwood Scion 
-Archetype of Imagination 
-Whitewater Naiads 
-Aura Gnarlid 
-Reclamation Sage 
-Yavimaya Enchantress
-Martial Coup 
-Phyrexian Rebirth 
-Winds of Rath 
-Creeping Renaissance 
-Kruphix's Insight
-Dismantling Blow 
-Bant Charm
-Sol Ring
-Sigil of the Empty Throne 
-Dictate of Kruphix 
-Bear Umbra 
-Enchantress's Presence 
-Epic Proportions 
-Ground Seal 
-Spawning Grounds 
-Finest Hour 
-Righteous Authority 
-Sage's Reverie 
-Soul Snare 
-Unquestioned Authority 
-Eel Umbra 
-Vow of Flight 
-Dawn's Reflection 
-Fertile Ground 
-Overgrowth 
-Snake Umbra 
-Vow of Wildness 
-Wild Growth 
-Unflinching Courage
-Azorius Chancery 
-Blossoming Sands 
-Command Tower 
-Evolving Wilds 
-Krosan Verge 
-Meandering River 
-Mosswort Bridge 
-Seaside Citadel 
-Selesnya Sanctuary 
-Simic Growth Chamber 
-Terramorphic Expanse 
-Thornwood Falls 
-Tranquil Cove 
-Tranquil Expanse 
-Woodland Stream
-Kestia, the Cultivator 
-Tuvasa the Sunlit 
-Empyrial Storm 
-Heavenly Blademaster 
-Estrid's Invocation 
-Ever-Watching Threshold 
-Octopus Umbra 
-Genesis Storm 
-Myth Unbound 
-Nylea's Colossus 
-Ravenous Slime 
-Arixmethes, Slumbering Isle 
-Loyal Unicorn 
-Loyal Drake 
-Loyal Guardian 
-Forge of Heroes 
