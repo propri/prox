@@ -2,8 +2,19 @@
 
 #set -ex
 
+# check for cards in given file not already printed
+
+trim() {
+    local var="$*"
+    # remove leading whitespace characters
+    var="${var#"${var%%[![:space:]]*}"}"
+    # remove trailing whitespace characters
+    var="${var%"${var##*[![:space:]]}"}"   
+    echo -n "$var"
+}
+
 while IFS='' read -r line || [[ -n "$line" ]]; do
-    if ack -i "$line" > /dev/null
+    if ack -i "$(trim $line)" > /dev/null
     then 
         :
     else
