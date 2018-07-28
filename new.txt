@@ -343,4 +343,54 @@
 4 Stingscourger
 4 Glorious End
 4 Zendikar's Roil
+4 Burn from Within 
+4 By Force 
+4 Caterwauling Boggart 
+4 Commit // Memory 
+4 Crux of Fate 
+4 Dragonrage 
+4 Dread Return 
+4 Elephant Grass 
+4 Emrakul's Hatcher 
+4 Explosive Vegetation [Playset] 
+4 Fearsome Awakening 
+4 Firebrand Archer 
+4 Fit of Rage 
+4 Five-Alarm Fire 
+4 Foundry Street Denizen 
+4 Gempalm Incinerator 
+4 Goblin Barrage 
+4 Goblin Diplomats 
+4 Goblin Motivator 
+4 Goblin Rally 
+4 Guul Draz Overseer 
+4 Harsh Mentor 
+4 Hellrider 
+4 Indomitable Creativity 
+4 Insidious Will 
+4 Kari Zev's Expertise 
+4 Kiora, Master of the Depths 
+4 Krenko's Command 
+4 Molten Birth 
+4 Ob Nixilis, the Fallen 
+4 Outnumber 
+4 Ranger's Path 
+4 Reckless Bushwhacker 
+4 Regal Behemoth 
+4 Release the Gremlins 
+4 Replenish 
+4 Seething Anger 
+4 Selvala's Stampede 
+4 Shreds of Sanity 
+4 Sire of Stagnation 
+4 Spawning Breath 
+4 Sunken Hope 
+4 The Gitrog Monster 
+4 Titan's Strength 
+4 Voyaging Satyr 
+4 Ancestral Mask 
+4 Aquitect's Will 
+4 Arms Dealer 
+4 Brute Force 
+4 Brute Strength 
 
