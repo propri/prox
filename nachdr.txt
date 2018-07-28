@@ -5,4 +5,7 @@
 8 Eternal Witness
 4 Wrath of God
 4 Omnath, Locus of Rage
+4 Kazuul, Tyrant of the Cliffs
+4 Goblin Bombardment
+4 Vanquisher's Banner
 

@@ -321,4 +321,25 @@
 4 Slippery Bogle
 4 Utopia Sprawl
 4 Terminus
+4 Run Amok
+4 Tilonalli's Summoner
+4 Grenzo, Dungeon Warden
+4 Plague Myr
+4 Archetype of Agression
+4 Archetype of Imagination
+4 Rapacious One
+4 Palladium Myr
+4 Kiln Fiend
+4 Goblin Bushwhacker
+8 Impact Tremors
+4 Goblin Trashmaster
+4 Goblin Instigator
+4 Boggart Shenanigans
+4 Reckless One
+4 Horde of Boggarts
+4 Battle Squadron
+4 Goblin Assassin
+4 Goblin Soothsayer
+4 Stingscourger
+4 Glorious End
 
