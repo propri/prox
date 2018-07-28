@@ -14,7 +14,7 @@ trim() {
 }
 
 while IFS='' read -r line || [[ -n "$line" ]]; do
-    if ack -i "$(trim $line)" > /dev/null
+    if ack -i "\b$(trim $line)\b" > /dev/null
     then 
         :
     else
