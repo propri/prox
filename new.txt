@@ -393,4 +393,17 @@
 4 Arms Dealer 
 4 Brute Force 
 4 Brute Strength 
+4 Smelt
+4 Adorned Pouncer
+4 Ajani Unyielding
+4 Beastcaller Savant
+4 Dromoka's Command
+4 Masterwork of Ingenuity
+4 Nacatl War-Pride
+4 Nahiri, the Lithomancer
+4 Pride Sovereign
+4 Regal Caracal
+4 Rogue's Passage
+4 Selesnya Cluestone
+4 Spear of Heliod
 
