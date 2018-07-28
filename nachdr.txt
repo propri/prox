@@ -4,4 +4,5 @@
 4 Sun Titan
 8 Eternal Witness
 4 Wrath of God
+4 Omnath, Locus of Rage
 
