@@ -1,7 +1,7 @@
 12 Kodama's Reach
 8 Nature's Lore
 4 Cultivate
-4 Sun Titan
+8 Sun Titan
 8 Eternal Witness
 4 Wrath of God
 4 Omnath, Locus of Rage

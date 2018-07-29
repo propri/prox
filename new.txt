@@ -406,4 +406,6 @@
 4 Rogue's Passage
 4 Selesnya Cluestone
 4 Spear of Heliod
+4 Nissa, Worldwaker
+4 Spidersilk Armor
 
