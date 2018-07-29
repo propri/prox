@@ -43,6 +43,8 @@ def check_partial(names):
     exact_names = ['!"' + x + '"' for x in names]
     clear_query = ' or '.join(exact_names)
 
+    print clear_query
+
     query = urllib.quote(clear_query)
 
     req_url = API_URL + query
@@ -53,9 +55,15 @@ def check_partial(names):
 
     last_request = time.time()
 
+    print req_url
+
     result = urllib.urlopen(req_url)
 
-    jsonStr = result.readlines()[0]
+    text = result.readlines()
+    print text
+
+    jsonStr = text[0]
+    print jsonStr
     result = json.loads(jsonStr)
 
     data = result['data']
