@@ -399,3 +399,67 @@
 4 Dread Cacodemon
 4 Shapers' Sanctuary
 4 Karn's Temporal Sundering
+4 Wildfire Eternal
+4 Mask of Memory
+4 Ashnod's Transmogrant
+4 Nameless Inversion
+4 Blades of Velis Vel
+4 Smokebraider
+4 Rogue's Passage
+4 Crop Sigil
+4 Nephalia Academy
+4 Rhonas's Monument
+4 Duskborne Skymarcher
+4 Inspiring Cleric
+4 Bishop of the Bloodstained
+4 Bishop's Soldier
+4 Skyblade of the Legion
+4 Ashmouth Hound
+4 Krosan Reclamation
+4 Primeval Force
+4 Petrified Wood-Kin
+4 Mystic Melting
+4 Seething Pathblazer
+4 Morselhoarder
+4 Filigree Fracture
+4 Rude Awakening
+4 Culling Dais
+4 Scourge of Geier Reach
+4 Natural End
+4 Maze Rusher
+4 Maze Behemoth
+4 Woodborn Behemoth
+4 Dragon Blood
+4 Artisan's Sorrow
+4 Ordeal of Nylea
+4 Living Totem
+4 Naturalize
+4 Jungle Basin
+4 Soulbright Flamekin
+4 Conclave Naturalists
+4 Zendikar's Roil
+4 Caustic Caterpillar
+4 Ondu Giant
+4 Akoum Stonewaker
+4 Sylvan Scrying
+4 Unnatural Aggression
+4 Natural Connection
+4 Verdant Force
+4 Timber Gorge
+4 Elemental Uprising
+4 Natural State
+4 Pulse of Murasa
+4 Crawling Sensation
+4 Groundskeeper
+4 Pyre Hound
+4 Bloodbriar
+4 Orchard Elemental
+4 Appetite for the Unnatural
+4 Thicket Elemental
+4 Boar Umbra
+4 Natural Obsolescence
+4 Ground Assault
+4 Explore
+4 Struggle // Survive
+4 Gruul Turf
+4 Aggravated Assault

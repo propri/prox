@@ -8,4 +8,6 @@
 4 Kazuul, Tyrant of the Cliffs
 4 Goblin Bombardment
 4 Vanquisher's Banner
+4 Tireless Tracker
+4 Ramunap Excavator
 
