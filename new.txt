@@ -463,3 +463,24 @@
 4 Struggle // Survive
 4 Gruul Turf
 4 Aggravated Assault
+4 Molimo, Maro-Sorcerer
+4 Skullmulcher
+4 Tornado Elemental
+4 Canopy Cover
+4 Ranger's Path
+4 Silvos, Rogue Elemental
+4 Incandescent Soulstoke
+4 Yeva, Nature's Herald
+4 Claws of Gix
+4 Ignition Team
+4 Impact Tremors
+4 Living Hive
+4 Natural Emergence
+4 One with Nature
+4 Rockslide Elemental
+4 Swell of Growth
+4 Waker of the Wilds
+4 Creeping Corrosion
+4 Drogskol Captain
+4 Jeskai Ascendancy
+4 The Scorpion God
