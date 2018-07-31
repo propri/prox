@@ -324,106 +324,70 @@
 4 Run Amok
 4 Tilonalli's Summoner
 4 Grenzo, Dungeon Warden
-4 Plague Myr
-4 Archetype of Agression
-4 Archetype of Imagination
-4 Rapacious One
-4 Palladium Myr
-4 Kiln Fiend
-4 Goblin Bushwhacker
-8 Impact Tremors
-4 Goblin Trashmaster
-4 Goblin Instigator
-4 Boggart Shenanigans
-4 Reckless One
-4 Horde of Boggarts
-4 Battle Squadron
-4 Goblin Assassin
-4 Goblin Soothsayer
-4 Stingscourger
-4 Glorious End
-4 Zendikar's Roil
-4 Burn from Within 
-4 By Force 
-4 Caterwauling Boggart 
-4 Commit // Memory 
-4 Crux of Fate 
-4 Dragonrage 
-4 Dread Return 
-4 Elephant Grass 
-4 Emrakul's Hatcher 
-4 Explosive Vegetation [Playset] 
-4 Fearsome Awakening 
-4 Firebrand Archer 
-4 Fit of Rage 
-4 Five-Alarm Fire 
-4 Foundry Street Denizen 
-4 Gempalm Incinerator 
-4 Goblin Barrage 
-4 Goblin Diplomats 
-4 Goblin Motivator 
-4 Goblin Rally 
-4 Guul Draz Overseer 
-4 Harsh Mentor 
-4 Hellrider 
-4 Indomitable Creativity 
-4 Insidious Will 
-4 Kari Zev's Expertise 
-4 Kiora, Master of the Depths 
-4 Krenko's Command 
-4 Molten Birth 
-4 Ob Nixilis, the Fallen 
-4 Outnumber 
-4 Ranger's Path 
-4 Reckless Bushwhacker 
-4 Regal Behemoth 
-4 Release the Gremlins 
-4 Replenish 
-4 Seething Anger 
-4 Selvala's Stampede 
-4 Shreds of Sanity 
-4 Sire of Stagnation 
-4 Spawning Breath 
-4 Sunken Hope 
-4 The Gitrog Monster 
-4 Titan's Strength 
-4 Voyaging Satyr 
-4 Ancestral Mask 
-4 Aquitect's Will 
-4 Arms Dealer 
-4 Brute Force 
-4 Brute Strength 
-4 Smelt
-4 Adorned Pouncer
-4 Ajani Unyielding
-4 Beastcaller Savant
-4 Dromoka's Command
-4 Masterwork of Ingenuity
-4 Nacatl War-Pride
-4 Nahiri, the Lithomancer
-4 Pride Sovereign
-4 Regal Caracal
-4 Rogue's Passage
-4 Selesnya Cluestone
-4 Spear of Heliod
-4 Nissa, Worldwaker
-4 Spidersilk Armor
-4 Executioner's Capsule
-4 Kismet
-4 Volcanic Geyser
-4 Pale Moon
-4 Megrim
-4 Boil
-4 Ant Queen
-4 Realms Uncharted
-4 Zombie Apocalypse
-4 Squandered Resources
-4 Disciple of the Vault
-4 Dunes of the Dead
-4 Ramunap Ruins
-4 Shefet Dunes
-4 Reef Worm
-4 Azra Oddsmaker
-4 Sarkhan's Unsealing
-4 Grenzo, Havoc Raiser
-
+4 Rishadan Cutpurse
+4 Rethink
+4 Scrivener
+4 Grip of Amnesia
+4 Voidmage Apprentice
+4 Hisoka, Minamo Sensei
+4 He Who Hungers
+4 Iname, Death Aspect
+4 Agrus Kos, Wojek Veteran
+4 Chorus of the Conclave
+4 Heidar, Rimewind Master
+4 Dread Return
+4 Phyrexian Vault
+4 Magmaw
+4 Goblin Arsonist
+4 Alabaster Mage
+4 Counterlash
+4 Seraph of Dawn
+4 Gruul Charm
+4 Dimir Keyrune
+4 Take Possession
+4 Blood Bairn
+4 Basandra, Battle Seraph
+4 Dream Fracture
+4 Invasive Species
+4 Kheru Spellsnatcher
+4 Willbender
+4 Daghatar the Adamant
+4 Supplant Form
+4 Mob Rule
+4 Fearsome Awakening
+4 Horde of Notions
+4 Otherworldly Journey
+4 Talent of the Telepath
+4 Stolen Goods
+4 Void Shatter
+4 Welcome to the Fold
+4 Ever After
+4 Deny Existence
+4 Blood Mist
+4 Keeper of Keys
+4 Insidious Will
+4 Depala, Pilot Exemplar
+4 Disappearing Act
+4 Revolutionary Rebuff
+4 Cancel
+4 Call for Unity
+4 Azure Mage
+4 Rewind
+4 Talrand, Sky Summoner
+4 Odric, Master Tactician
+4 Akroma, Angel of Fury
+4 Banshee of the Dread Choir
+4 Djeru, With Eyes Open
+4 Atarka, World Render
+4 Crosis, the Purger
+4 Intet, the Dreamer
+4 Vicious Conquistador
+4 Cancel
+4 Bladewing the Risen
+4 Dissolve
+4 Moment of Craving
+4 Jungleborn Pioneer
+4 Brion Stoutarm
+4 Exclude
+4 Will-o'-the-Wisp
+4 Ruthless Ripper
