@@ -408,4 +408,5 @@
 4 Spear of Heliod
 4 Nissa, Worldwaker
 4 Spidersilk Armor
+4 Executioner's Capsule
 
