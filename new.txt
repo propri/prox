@@ -323,7 +323,7 @@
 4 Terminus
 4 Run Amok
 4 Tilonalli's Summoner
-4 Grenzo, Dungeon Warden
+4 Grenzo, Havoc Raiser
 4 Rishadan Cutpurse
 4 Rethink
 4 Scrivener
@@ -391,3 +391,11 @@
 4 Exclude
 4 Will-o'-the-Wisp
 4 Ruthless Ripper
+4 Ceta Sanctuary
+4 Decree of Annihilation
+4 Siege Dragon
+4 Gryff's Boon
+4 Sulfurous Blast
+4 Dread Cacodemon
+4 Shapers' Sanctuary
+4 Karn's Temporal Sundering
