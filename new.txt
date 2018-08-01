@@ -484,3 +484,5 @@
 4 Drogskol Captain
 4 Jeskai Ascendancy
 4 The Scorpion God
+8 Tendo Ice Bridge
+
