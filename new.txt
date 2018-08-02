@@ -67,7 +67,7 @@
 4 Twinblade Slasher
 4 Sovereigns of Lost Alara
 4 Flame Slash
-4 Asceticism
+8 Asceticism
 4 Chancellor of the Forge
 4 Angelic Wall
 4 Riftsweeper
@@ -141,7 +141,7 @@
 4 Thunderous Wrath
 4 Slither Blade
 4 Ixalan's Binding
-4 Austere Command
+8 Austere Command
 4 Indulgent Tormentor
 4 Dragon Tempest
 4 Azorius Charm
@@ -256,7 +256,6 @@
 4 Vigilant Baloth
 4 Waterknot
 4 Spirit Loop
-4 Golgari Germination
 4 Hunting Wilds
 4 Growth Spasm
 8 Khalni Heart Expedition
@@ -382,7 +381,6 @@
 4 Crosis, the Purger
 4 Intet, the Dreamer
 4 Vicious Conquistador
-4 Cancel
 4 Bladewing the Risen
 4 Dissolve
 4 Moment of Craving
