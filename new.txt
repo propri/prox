@@ -528,3 +528,22 @@
 4 Stun
 4 Sunken Hope
 4 Titan's Strength
+4 Squandered Resources
+4 Disciple of the Vault
+4 Rampant Growth
+4 Dunes of the Dead
+4 Ramunap Ruins
+4 Shefet Dunes
+4 Reef Worm
+4 Azra Oddsmaker
+4 Sarkhan's Unsealing
+4 Kismet
+4 Volcanic Geyser
+4 Pale Moon
+4 Megrim
+4 Boil
+4 Ant Queen
+4 Realms Uncharted
+4 Zombie Apocalypse
+4 Smelt
+
