@@ -485,4 +485,46 @@
 4 Jeskai Ascendancy
 4 The Scorpion God
 8 Tendo Ice Bridge
-
+4 Arms Dealer
+4 Battle Squadron
+4 Brute Force
+4 Brute Strength
+4 Burn from Within
+4 By Force
+4 Caterwauling Boggart
+4 Crux of Fate
+4 Dragonrage
+4 Emrakul's Hatcher
+4 Firebrand Archer
+4 Fit of Rage
+4 Five-Alarm Fire
+4 Foundry Street Denizen
+4 Gempalm Incinerator
+4 Goblin Barrage
+4 Goblin Diplomats
+4 Goblin Motivator
+4 Goblin Rally
+4 Goblin Soothsayer
+4 Guul Draz Overseer
+4 Harsh Mentor
+4 Hellrider
+4 Indomitable Creativity
+4 Kari Zev's Expertise
+4 Kiln Fiend
+4 Krenko's Command
+4 Molten Birth
+4 Ob Nixilis, the Fallen
+4 Outnumber
+4 Rapacious One
+4 Reckless Bushwhacker
+4 Reckless One
+4 Regal Behemoth
+4 Release the Gremlins
+4 Seething Anger
+4 Selvala's Stampede
+4 Shreds of Sanity
+4 Sire of Stagnation
+4 Spawning Breath
+4 Stun
+4 Sunken Hope
+4 Titan's Strength
