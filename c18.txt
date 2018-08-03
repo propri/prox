@@ -46,8 +46,6 @@
 4 Arixmethes, Slumbering Isle
 4 Loyal Unicorn
 4 Loyal Drake
-4 Loyal Guardian
-4 Forge of Heroes
 4 Mortuary Mire
 4 Submerged Boneyard
 4 Varina, Lich Queen
@@ -141,4 +139,4 @@
 4 Mirrorworks
 4 Prototype Portal
 4 Unwinding Clock
- 
+
