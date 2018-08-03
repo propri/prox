@@ -1,7 +1,7 @@
 4 Profane Procession
 4 Tomb of the Dusk Rose
-8 Growing Rites of Itlimoc
-16 Itlimoc, Cradle of the Sun
+12 Growing Rites of Itlimoc
+12 Itlimoc, Cradle of the Sun
 4 Journey to Eternity
 4 Atzal, Cave of Eternity
 
