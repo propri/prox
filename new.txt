@@ -757,7 +757,6 @@
 4 Diviner's Wand
 4 Clout of the Dominus
 4 Scourge of the Nobilis
-4 Borderland Ranger
 4 Bone Shredder
 4 Mammoth Umbra
 4 Borderland Ranger
@@ -769,4 +768,55 @@
 4 Iona's Blessing
 4 Odric, Lunarch Marshal
 4 Journey to Eternity // Atzal, Cave of Eternity
+4 Jaya Ballard, Task Mage
+4 Dralnu, Lich Lord
+4 Sygg, River Guide
+4 Druid of the Anima
+4 Malfegor
+4 Rakka Mar
+4 Identity Crisis
+4 Darigaaz, the Igniter
+4 Treva, the Renewer
+4 Artful Dodge
+4 Isperia, Supreme Judge
+4 Ethereal Armor
+4 Luminate Primordial
+4 Simic Manipulator
+4 Lavinia of the Tenth
+4 Tajic, Blade of the Legion
+4 Jace's Mindseeker
+4 Banisher Priest
+4 Gladecover Scout
+4 Spear of Heliod
+4 Anthousa, Setessan Hero
+4 Triad of Fates
+4 Heroes' Podium
+4 Archetype of Aggression
+4 Ray of Command
+4 Surrak Dragonclaw
+4 Butcher of the Horde
+4 Twilight Shepherd
+4 Bloodgift Demon
+4 Hero of Goma Fada
+4 Defiant Bloodlord
+4 Oran-Rief Hydra
+4 March from the Tomb
+4 Munda, Ambush Leader
+4 Necromancer's Covenant
+4 Treasury Thrull
+4 Munda's Vanguard
+4 Ayli, Eternal Pilgrim
+4 Jori En, Ruin Diver
+4 Kambal, Consul of Allocation
+4 Hope of Ghirapur
+4 Glorious End
+4 Gideon's Intervention
+4 Champion of Rhonas
+4 Hapatra, Vizier of Poisons
+4 Ryusei, the Falling Star
+4 Silumgar, the Drifting Death
+4 Teneb, the Harvester
+4 Dictate of the Twin Gods
+4 Kagemaro, First to Suffer
+4 Ghost Council of Orzhova
 
