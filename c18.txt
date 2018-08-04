@@ -116,7 +116,7 @@
 4 Sigiled Starfish
 4 Entreat the Angels
 4 Dream Cache
-4 Ponder
+8 Ponder
 4 Portent
 4 Treasure Hunt
 4 Predict
