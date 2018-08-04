@@ -701,4 +701,38 @@
 4 Warchanter of Mogis
 4 Wispmare
 4 Wurmcalling
+4 Golem-Skin Gauntlets
+4 Mirror Golem
+4 Mourner's Shield
+4 Flow of Ideas
+4 Vigor Mortis
+4 Bar the Door
+4 Alchemist's Apprentice
+4 Amass the Components
+4 Banners Raised
+4 Ascended Lawmage
+4 Ornitharch
+4 Kraken of the Straits
+4 Odunos River Trawler
+4 Skyreaping
+4 Drowner of Hope
+4 Angel of Renewal
+4 Kor Bladewhirl
+4 Serene Steward
+4 Coastal Discovery
+4 Windrider Patrol
+4 Malakir Familiar
+4 Turn Against
+4 Plated Crusher
+4 Tajuru Warcaller
+4 Resolute Blademaster
+4 Pathway Arrows
+4 Slab Hammer
+4 Angelic Gift
+4 Anticipate
+4 Altar's Reap
+4 Fertile Thicket
+4 Looming Spires
+4 Sandstone Bridge
+4 Skyline Cascade
 
