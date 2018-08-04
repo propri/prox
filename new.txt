@@ -484,3 +484,13 @@
 4 Drogskol Captain
 4 Jeskai Ascendancy
 4 The Scorpion God
+4 Arbor Elf
+4 Llanowar Elves
+4 Boreal Druid
+4 Druid of the Cowl
+4 Fyndhorn Elder
+4 Leaf Gilder
+4 Wrap in Vigor
+4 Vernal Bloom
+4 Kalonian Twingrove
+
