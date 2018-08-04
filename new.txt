@@ -735,7 +735,6 @@
 4 Looming Spires
 4 Sandstone Bridge
 4 Skyline Cascade
-
 4 Liberate
 4 Sway of Illusion
 4 Ebonblade Reaper
@@ -754,3 +753,20 @@
 4 Pathbreaker Ibex
 4 Moaning Wall
 4 Pillory of the Sleepless
+4 Cloak and Dagger
+4 Diviner's Wand
+4 Clout of the Dominus
+4 Scourge of the Nobilis
+4 Borderland Ranger
+4 Bone Shredder
+4 Mammoth Umbra
+4 Borderland Ranger
+4 Perplexing Chimera
+4 Archetype of Imagination
+4 Hallowed Moonlight
+4 Willbreaker
+8 Prairie Stream
+4 Iona's Blessing
+4 Odric, Lunarch Marshal
+4 Journey to Eternity // Atzal, Cave of Eternity
+
