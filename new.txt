@@ -1,7 +1,7 @@
 4 Profane Procession
 4 Tomb of the Dusk Rose
-8 Growing Rites of Itlimoc
-16 Itlimoc, Cradle of the Sun
+12 Growing Rites of Itlimoc
+12 Itlimoc, Cradle of the Sun
 4 Journey to Eternity
 4 Atzal, Cave of Eternity
 
@@ -67,7 +67,7 @@
 4 Twinblade Slasher
 4 Sovereigns of Lost Alara
 4 Flame Slash
-4 Asceticism
+8 Asceticism
 4 Chancellor of the Forge
 4 Angelic Wall
 4 Riftsweeper
@@ -141,7 +141,7 @@
 4 Thunderous Wrath
 4 Slither Blade
 4 Ixalan's Binding
-4 Austere Command
+8 Austere Command
 4 Indulgent Tormentor
 4 Dragon Tempest
 4 Azorius Charm
@@ -256,7 +256,6 @@
 4 Vigilant Baloth
 4 Waterknot
 4 Spirit Loop
-4 Golgari Germination
 4 Hunting Wilds
 4 Growth Spasm
 8 Khalni Heart Expedition
@@ -382,7 +381,6 @@
 4 Crosis, the Purger
 4 Intet, the Dreamer
 4 Vicious Conquistador
-4 Cancel
 4 Bladewing the Risen
 4 Dissolve
 4 Moment of Craving
@@ -493,4 +491,214 @@
 4 Wrap in Vigor
 4 Vernal Bloom
 4 Kalonian Twingrove
+8 Tendo Ice Bridge
+4 Arms Dealer
+4 Battle Squadron
+4 Brute Force
+4 Brute Strength
+4 Burn from Within
+4 By Force
+4 Caterwauling Boggart
+4 Crux of Fate
+4 Dragonrage
+4 Emrakul's Hatcher
+4 Firebrand Archer
+4 Fit of Rage
+4 Five-Alarm Fire
+4 Foundry Street Denizen
+4 Gempalm Incinerator
+4 Goblin Barrage
+4 Goblin Diplomats
+4 Goblin Motivator
+4 Goblin Rally
+4 Goblin Soothsayer
+4 Guul Draz Overseer
+4 Harsh Mentor
+4 Hellrider
+4 Indomitable Creativity
+4 Kari Zev's Expertise
+4 Kiln Fiend
+4 Krenko's Command
+4 Molten Birth
+4 Ob Nixilis, the Fallen
+4 Outnumber
+4 Rapacious One
+4 Reckless Bushwhacker
+4 Reckless One
+4 Regal Behemoth
+4 Release the Gremlins
+4 Seething Anger
+4 Selvala's Stampede
+4 Shreds of Sanity
+4 Sire of Stagnation
+4 Spawning Breath
+4 Stun
+4 Sunken Hope
+4 Titan's Strength
+4 Squandered Resources
+4 Disciple of the Vault
+4 Rampant Growth
+4 Dunes of the Dead
+4 Ramunap Ruins
+4 Shefet Dunes
+4 Reef Worm
+4 Azra Oddsmaker
+4 Sarkhan's Unsealing
+4 Kismet
+4 Volcanic Geyser
+4 Pale Moon
+4 Megrim
+4 Boil
+4 Ant Queen
+4 Realms Uncharted
+4 Zombie Apocalypse
+4 Smelt
+4 Elephant Grass
+4 Ancestral Mask
+4 Replenish
+4 Aquitect's Will
+4 Kiora, Master of the Depths
+4 Act on Impulse
+4 Aerie Worshippers
+4 Aladdin's Lamp
+4 Alexi's Cloak
+4 Aqueous Form
+4 Arrest
+4 Barren Glory
+4 Bearer of the Heavens
+4 Beast Token
+4 Benthic Behemoth
+4 Blossom Dryad
+4 Bombard
+4 Boonweaver Giant
+4 Borrowed Hostility
+4 Briarbridge Patrol
+4 Brutalizer Exarch
+4 Built to Smash
+4 Cheering Fanatic
+4 Clockspinning
+4 Clue Token
+4 Concentrate
+4 Confirm Suspicions
+4 Controvert
+4 Countervailing Winds
+4 Deathspore Thallid
+4 Deepwater Hypnotist
+4 Dire Fleet Hoarder
+4 Distemper of the Blood
+4 Doomed Dissenter
+4 Doomed Traveler
+4 Dramatic Reversal
+4 Elvish Mystic
+4 Endless Obedience
+4 Expedite
+4 Extract from Darkness
+4 Flash Foliage
+4 Flood of Recollection
+4 Forbidden Alchemy
+4 Forerunner of the Legion
+4 Foresee
+4 Forlorn Pseudamma
+4 Fury Charm
+4 Gift of the Deity
+4 Gleaming Barrier
+4 Goblin Trailblazer
+4 Golden Hind
+4 Grasping Scoundrel
+4 Grothama, All-Devouring
+4 Hedron Crawler
+4 Helm of the Ghastlord
+4 Hinder
+4 Hollowsage
+4 Horror of the Broken Lands
+4 Hunt the Weak
+4 Ipnu Rivulet
+4 Irresistible Prey
+4 Krosan Restorer
+4 Last-Ditch Effort
+4 Life and Limb
+4 Make Mischief
+4 Manic Scribe
+4 Maze's End
+4 Mob Justice
+4 Mogg Flunkies
+4 Mystic Veil
+4 Natural Affinity
+4 Nature's Revolt
+4 Negate
+4 Pain Seer
+4 Persuasion
+4 Pitiless Plunderer
+4 Polluted Mire
+4 Possessed Skaab
+4 Quicksilver Amulet
+4 Raise Dead
+4 Reap
+4 Reckless Charge
+4 Relic of Progenitus
+4 Remote Isle
+4 Renegade Map
+4 Renegade Tactics
+4 Return to the Earth
+4 Ricochet Trap
+4 Rift Elemental
+4 Ring of Kalonia
+4 Robe of Mirrors
+4 Rouse the Mob
+4 Rush of Adrenaline
+4 Saproling Migration
+4 Savage Thallid
+4 Scarab Feast
+4 Sea Gate Wreckage
+4 Seraph of the Masses
+4 Serra's Embrace
+4 Servant of Tymaret
+4 Shambling Shell
+4 Shivan Sand-Mage
+4 Shock
+4 Sinister Concoction
+4 Siren Stormtamer
+4 Siren of the Silent Song
+4 Sleeper's Robe
+4 Sly Requisitioner
+4 Spark of Creativity
+4 Sphinx's Disciple
+4 Spirit Bonds
+4 Spirit en-Kor
+4 Split Decision
+4 Spore Swarm
+4 Sporecrown Thallid
+4 Sporemound
+4 Stingscourger
+4 Strength of the Pack
+4 Strider Harness
+4 Sure Strike
+4 Tapestry of the Ages
+4 Tatyova, Benthic Druid
+4 Tendershoot Dryad
+4 Thallid Omnivore
+4 Thallid Soothsayer
+4 Thelon of Havenwood
+4 Timebender
+4 Timecrafting
+4 Tolarian Entrancer
+4 Traveler's Amulet
+4 Triclopean Sight
+4 Trumpet Blast
+4 Uncaged Fury
+4 Undercity Informer
+4 Underhanded Designs
+4 Unearth
+4 Unsubstantiate
+4 Verdant Embrace
+4 Verdeloth the Ancient
+4 Victimize
+4 Vigilance
+4 Vizier of Tumbling Sands
+4 Wakestone Gargoyle
+4 Wall of Resurgence
+4 Wander in Death
+4 Warchanter of Mogis
+4 Wispmare
+4 Wurmcalling
 
