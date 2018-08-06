@@ -18,11 +18,12 @@
 4 Kazuul, Tyrant of the Cliffs
 4 Goblin Bombardment
 4 Vanquisher's Banner
-4 Tireless Tracker
+8 Tireless Tracker
 4 Ramunap Excavator
 4 Melek, Izzet Paragon
 8 Sol Ring
 8 Solemn Simulacrum
 8 Though Vessel
 8 Rhystic Study
+8 Oracle of Mul Daya
 
