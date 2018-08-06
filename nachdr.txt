@@ -1,5 +1,15 @@
+8 Hallowed Fountain
+8 Temple Garden
+8 Watery Grave
+8 Blood Crypt
+8 Stomping Ground
+8 Godless Shrine
+8 Sacred Foundry
+8 Steam Vents
+8 Breeding Pool
+8 Overgrown Tomb
 12 Kodama's Reach
-8 Nature's Lore
+12 Nature's Lore
 4 Cultivate
 8 Sun Titan
 8 Eternal Witness
@@ -11,4 +21,8 @@
 4 Tireless Tracker
 4 Ramunap Excavator
 4 Melek, Izzet Paragon
+8 Sol Ring
+8 Solemn Simulacrum
+8 Though Vessel
+8 Rhystic Study
 
