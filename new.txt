@@ -820,4 +820,44 @@
 4 Kagemaro, First to Suffer
 4 Ghost Council of Orzhova
 4 Rush of Knowledge
+4 Aether Tunnel 
+4 Blood Clock
+4 Bounty of the Luxa
+4 Canyon Slough
+4 Caustic Crawler 
+4 Channeler Initiate
+4 Crescendo of War
+4 Dakmor Salvage
+4 Deathbringer Regent 
+4 Descend upon the Sinful
+4 Dig Through Time 
+4 Emerge Unscathed 
+4 Felidar Umbra 
+4 Horn of Greed
+4 Infiltrate 
+4 Interpret the Signs 
+4 Karametra's Acolyte 
+4 Mind's Desire 
+4 Monastery Mentor
+4 Myojin of Seeing Winds
+4 Reprocess 
+4 Scrib Nibblers 
+4 Sever the Bloodline 
+4 Shadow Rift
+4 Shivan Reef 
+4 Slip Through Space 
+4 Soul Stair Expedition 
+4 Strata Scythe
+4 Stubborn Denial 
+4 Surrak, the Hunt Caller 
+4 Swarm Intelligence 
+4 Tasigur, the Golden Fang
+4 Teleportal 
+4 Temple of Epiphany 
+4 Temporal Trespass 
+4 Tomb Hex 
+4 Torrent Elemental
+4 Treasonous Ogre 
+4 Veil of Secrecy 
+4 Wickerbough Elder 
 
