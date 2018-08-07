@@ -1,4 +1,3 @@
-4 Brute Strength
 4 Built to Smash
 4 Burn from Within
 4 Burnout
@@ -29,7 +28,6 @@
 4 Cloak and Dagger
 4 Clockspinning
 4 Clout of the Dominus
-4 Clue Token
 4 Coastal Discovery
 4 Colossal Majesty
 4 Compost

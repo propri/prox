@@ -26,12 +26,6 @@
 4 Overgrowth
 4 Wild Growth
 4 Unflinching Courage
-4 Azorius Chancery
-4 Evolving Wilds
-4 Meandering River
-4 Simic Growth Chamber
-4 Terramorphic Expanse
-4 Tranquil Cove
 4 Kestia, the Cultivator
 4 Tuvasa the Sunlit
 4 Empyrial Storm

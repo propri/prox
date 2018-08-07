@@ -84,7 +84,6 @@
 4 Melek, Izzet Paragon
 16 Sol Ring
 8 Solemn Simulacrum
-8 Though Vessel
 8 Rhystic Study
 8 Oracle of Mul Daya
 16 Command Tower
@@ -95,7 +94,7 @@
 16 Lightning Greaves
 8 Wrath of God
 8 Thought Vessel
-8 Swords of Plowshares
+8 Swords to Plowshares
 8 Rishkar's Expertise
 8 Krosan Grip
 8 Commander's Sphere
@@ -130,7 +129,7 @@
 4 Comet Storm
 8 Austere Command
 8 Anger
-4 Zacama, Primal Storm
+4 Zacama, Primal Calamity
 4 Vandalblast
 4 Utter End
 4 Toxic Deluge

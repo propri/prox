@@ -90,7 +90,7 @@
 4 Knight Exemplar
 4 Kolaghan, the Storm's Fury
 4 Kor Bladewhirl
-4 Kor Spirit Dancer
+4 Kor Spiritdancer
 4 Kraken of the Straits
 4 Krenko's Command
 4 Krenko's Enforcer

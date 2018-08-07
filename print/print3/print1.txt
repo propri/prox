@@ -62,7 +62,6 @@
 4 Basandra, Battle Seraph
 4 Battle Squadron
 4 Bearer of the Heavens
-4 Beast Token
 4 Belbe's Armor
 4 Belbe's Portal
 4 Benthic Behemoth
