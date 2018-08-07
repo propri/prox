@@ -1,21 +1,3 @@
-4 Profane Procession
-4 Tomb of the Dusk Rose
-12 Growing Rites of Itlimoc
-12 Itlimoc, Cradle of the Sun
-4 Journey to Eternity
-4 Atzal, Cave of Eternity
-
-2 Wort, the Raidmother
-2 Nazahn, Revered Bladesmith
-2 Arahbo, Roar of the World
-2 Mathas, Fiend Seeker
-2 Licia, Sanguine Tribune
-2 Edgar Markov
-2 Vela the Night-Clad
-2 Taigam, Sidisi's Hand
-2 Niv-Mizzet, the Firemind
-
-
 4 Wall of Reverence
 4 Nevermore
 4 Infinite Reflection
