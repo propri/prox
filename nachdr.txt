@@ -7,23 +7,118 @@
 8 Sacred Foundry
 8 Steam Vents
 8 Breeding Pool
+8 Sunpetal Grove
 8 Overgrown Tomb
-12 Kodama's Reach
-12 Nature's Lore
-4 Cultivate
-8 Sun Titan
-8 Eternal Witness
+8 Rootbound Crag
+8 Exotic Orchard
+8 Sacred Foundry
+4 Temple of Abandon
+4 Temple of Deceit
+4 Temple of Enlightenment
+4 Temple of Epiphany
+4 Temple of Malady
+4 Temple of Malice
+4 Temple of Mystery
+4 Temple of Plenty
+4 Temple of Silence
+4 Temple of Triumph
+8 Bountiful Promenade
+8 Luxury Suite
+8 Morphic Pool
+8 Sea of Clouds
+8 Spire Garden
+8 Hinterland Harbor
+8 Glacial Fortress
+8 Blood Crypt
+8 Adarkar Wastes
+8 Yavimaya Coast
+8 Woodland Cemetery
+8 Sungrass Prairie
+8 Prairie Stream
+8 Nimbus Maze
+8 Karplusan Forest
+8 High Market
+8 Dragonskull Summit
+8 Battlefield Forge
+8 Watery Grave
+8 Sulfur Falls
+8 Sheltered Thicket
+8 Smoldering Marsh
+
+4 Avenger of Zendikar
+8 Growing Rites of Itlimoc
+8 Itlimoc, Cradle of the Sun
+4 Viscera Seer
+4 Warstorm Surge
+16 Kodama's Reach
+16 Nature's Lore
+8 Cultivate
+12 Sun Titan
+8 Rampant Growth
+16 Eternal Witness
 4 Wrath of God
 4 Omnath, Locus of Rage
 4 Kazuul, Tyrant of the Cliffs
 4 Goblin Bombardment
 4 Vanquisher's Banner
 8 Tireless Tracker
-4 Ramunap Excavator
+8 Ramunap Excavator
 4 Melek, Izzet Paragon
-8 Sol Ring
+16 Sol Ring
 8 Solemn Simulacrum
 8 Though Vessel
 8 Rhystic Study
 8 Oracle of Mul Daya
+16 Command Tower
+8 Farseek
+8 Swiftfoot Boots
+8 Sakura-Tribe Elder
+8 Skyshroud Claim
+16 Lightning Greaves
+8 Wrath of God
+8 Thought Vessel
+8 Swords of Plowshares
+8 Rishkar's Expertise
+8 Krosan Grip
+8 Commander's Sphere
+8 Blasphemous Act 
+8 Genesis
+8 Elemental Bond
+8 Cyclonic Rift
+8 Counterspell
+8 Ashnod's Altar
+4 Acidic Slime
+8 Wayward Swordtooth
+4 Ulvenwald Hydra
+2 Sunbird's Invocation
+4 Strionic Resonator
+4 Panharmonicon
+4 Reclamation Sage
+4 Purphoros, God of the Forge
+8 Heroic Intervention
+4 Gilded Lotus
+4 Ghalta, Primal Hunger
+4 Chain Reaction
+4 Boundless Realms
+4 Traverse the Outlands
+4 Shamanic Revelation
+4 Return to Dust
+4 Putrefy
+8 Path to Exile
+8 Journey to Eternity
+8 Atzal, Cave of Eternity
+8 Goblin Bombardment
+4 Ghostway
+4 Comet Storm
+8 Austere Command
+8 Anger
+4 Zacama, Primal Storm
+4 Vandalblast
+4 Utter End
+4 Toxic Deluge
+4 Thrashing Brontodon
+8 Sylvan Safekeeper
+8 Polyraptor
+4 Multani, Yavimaya's Avatar
+8 Life from the Loam
 

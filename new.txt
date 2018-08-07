@@ -853,7 +853,7 @@
 4 Swarm Intelligence 
 4 Tasigur, the Golden Fang
 4 Teleportal 
-4 Temple of Epiphany 
+8 Temple of Epiphany 
 4 Temporal Trespass 
 4 Tomb Hex 
 4 Torrent Elemental
