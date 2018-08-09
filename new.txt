@@ -1,2 +1,5 @@
-Goblin Chirurgeon
+4 Goblin Chirurgeon
+4 The Gitrog Monster
+4 Voyaging Satyr
+4 Commit // Memory
 
