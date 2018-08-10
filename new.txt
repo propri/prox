@@ -8,4 +8,7 @@
 4 Goblin Instigator
 4 Abzan Beastmaster
 4 Rust Scarab
+4 Beacon of Unrest
+4 Confiscate
+4 Eternal Dominion
 
