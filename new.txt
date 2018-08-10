@@ -11,4 +11,14 @@
 4 Beacon of Unrest
 4 Confiscate
 4 Eternal Dominion
+4 Stoneforge Masterwork
+4 Carven Caryatid
+4 Mage Slayer
+4 Wall of Roots
+4 Boiling Blood
+4 Mark of Fury
+4 Mass Hysteria
+4 Screaming Fury
+4 Blazing Shaol
+4 Overblaze
 
