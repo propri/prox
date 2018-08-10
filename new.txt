@@ -2,4 +2,10 @@
 4 The Gitrog Monster
 4 Voyaging Satyr
 4 Commit // Memory
+4 Hikari, Twilight Guardian
+4 Fists of the Anvil
+4 Goblin Assassin
+4 Goblin Instigator
+4 Abzan Beastmaster
+4 Rust Scarab
 
