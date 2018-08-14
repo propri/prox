@@ -21,4 +21,36 @@
 4 Screaming Fury
 4 Blazing Shaol
 4 Overblaze
+4 Belligerent Brontodon
+4 Attended Knight
+4 Bone Splinters
+4 Borderland Marauder
+4 Chandra's Outrage
+4 Charging Tuskodon
+4 Cherished Hatchling
+4 Claustrophobia
+4 Colossal Dreadmaw
+4 Coordinated Assault
+4 Cower in Fear
+4 Crested Herdcaller
+4 Dinrova Horror
+4 Essence Scatter
+4 Favorable Winds
+4 Gnawing Zombie
+4 Gruul War Chant
+4 Honored Crop-Captain
+4 Imperial Aerosaur
+4 Jhessian Thief
+4 Raptor Hatchling
+4 River of Tears
+4 Rolling Thunder
+4 Scaled Behemoth
+4 Serra Angel
+4 Siegehorn Ceratops
+4 Sky Terror
+4 Snare Thopter
+4 Steadfast Armasaur
+4 Sun-Crowned Hunters
+4 Thrash of Raptors
+4 Tilonalli's Knight
 
