@@ -16,7 +16,6 @@
 4 Mage Slayer
 4 Wall of Roots
 4 Boiling Blood
-4 Mark of Fury
 4 Mass Hysteria
 4 Screaming Fury
 4 Blazing Shaol
@@ -53,4 +52,6 @@
 4 Sun-Crowned Hunters
 4 Thrash of Raptors
 4 Tilonalli's Knight
+4 Otherworldly Outburst
+4 Mark of Fury
 
