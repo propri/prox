@@ -114,3 +114,10 @@
 4 Executioner's Capsule
 4 Life's Legacy
 4 Arcbond
+4 Blazing Shoal
+4 Bontu's Monument
+4 Cradle of the Accursed
+4 Forsake the Worldly
+4 Sunset Pyramid
+4 Trinket Mage
+
