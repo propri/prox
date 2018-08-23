@@ -54,4 +54,66 @@
 4 Tilonalli's Knight
 4 Otherworldly Outburst
 4 Mark of Fury
-
+4 Felidar Sovereign
+4 Fraying Sanity
+4 Beneath the Sands
+4 Desert of the Fervent
+4 Steel Leaf Champion
+4 Mizzium Mortars
+4 Mechanized Production
+4 Grasping Dunes
+4 Spell Swindle
+4 Vaevictis Asmadi, the Dire
+4 Suncleanser
+4 Aggressive Mammoth
+4 Planar Collapse
+4 Constant Mists
+4 Goblin Lookout
+4 Trickbind
+4 Mogg War Marshal
+4 Heat Shimmer
+4 Gather Specimens
+4 Nykthos, Shrine to Nyx
+4 Destructive Revelry
+4 Grim Haruspex
+4 Abzan Ascendancy
+4 Mardu Ascendancy
+4 Sultai Ascendancy
+4 Temur Ascendancy
+4 Beastcaller Savant
+4 Seasons Past
+4 Invigorated Rampage
+4 Throne of the God-Pharaoh
+4 Hazoret's Monument
+4 Kefnet's Monument
+4 Oketra's Monument
+4 Endless Sands
+4 Hostile Desert
+4 Ifnir Deadlands
+4 Spell Swindle
+4 Fervent Strike
+4 Play of the Game
+4 Mistcaller
+4 Isareth the Awakener
+4 Gigantosaurus
+4 Goreclaw, Terror of Qal Sisma
+4 Dungrove Elder
+4 Argent Sphinx
+4 Bring to Light
+4 Æthermage's Touch
+4 Sanctum Seeker
+4 Aryel, Knight of Windgrace
+4 Phyrexian Scriptures
+4 Muldrotha, the Gravetide
+4 Shalai, Voice of Plenty
+4 Palladia-Mors, the Ruiner
+4 Guided Passage
+4 Mutilate
+4 Nature's Will
+4 Bloodmark Mentor
+4 Crimson Wisps
+4 Crimson Wisps
+4 Executioner's Capsule
+4 Life's Legacy
+4 Arcbond
+4 Æthermage's Touch
