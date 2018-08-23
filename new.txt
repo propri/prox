@@ -62,7 +62,6 @@
 4 Mizzium Mortars
 4 Mechanized Production
 4 Grasping Dunes
-4 Spell Swindle
 4 Vaevictis Asmadi, the Dire
 4 Suncleanser
 4 Aggressive Mammoth
@@ -112,8 +111,6 @@
 4 Nature's Will
 4 Bloodmark Mentor
 4 Crimson Wisps
-4 Crimson Wisps
 4 Executioner's Capsule
 4 Life's Legacy
 4 Arcbond
-4 Æthermage's Touch
