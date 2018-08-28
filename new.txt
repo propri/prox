@@ -121,4 +121,6 @@
 4 Sunset Pyramid
 4 Trinket Mage
 4 Boggart Shenanigans
+4 Goblin Trashmaster
+4 Horde of Boggarts
 
