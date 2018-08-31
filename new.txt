@@ -125,4 +125,102 @@
 4 Horde of Boggarts
 4 Elixir of Immortality
 4 Seal of Primordium
+4 Autumn's Veil
+4 Soul's Attendant
+4 Aethermage's Touch 
+4 Angelic Accord 
+4 Arbor Elf 
+4 Argentum Armor 
+4 Astral Cornucopia 
+4 Beastcaller Savant 
+4 Beneath the Sands 
+4 Bounty of the Luxa 
+4 Cataclysmic Gearhulk 
+4 Cliffhaven Vampire 
+4 Cloudstone Curio 
+4 Comeuppance 
+4 Commune with Lava 
+4 Comparative Analysis 
+4 Crash Through 
+4 Cream of the Crop 
+4 Crimson Wisps 
+4 Crovax, Ascendant Hero 
+4 Crush of Tentacles 
+4 Crux of Fate 
+4 Debt to the Deathless 
+4 Dissolve 
+4 Dissolve 
+4 Drake Haven 
+4 Drana's Emissary 
+4 Emmara Tandris 
+4 Enter the Unknown 
+4 Enter the Unknown 
+4 Evolving Wilds
+4 Evolving Wilds 
+4 Executioner's Capsule 
+4 Exquisite Blood 
+4 Farseek 
+4 Felidar Sovereign 
+4 Felidar Sovereign 
+4 Flameshadow Conjuring 
+4 Frantic Search
+4 Fraying Sanity 
+4 Gisa and Geralf 
+4 Hieroglyphic Illumination
+4 Hieroglyphic Illumination 
+4 Isamaru, Hound of Konda 
+4 Jungleborn Pioneer 
+4 Karlov of the Ghost Council 
+4 Kodama's Reach 
+4 Kothophed, Soul Hoarder 
+4 Lonely Sandbar 
+4 Lullmage Mentor 
+4 Lurking Predators 
+4 Megrim 
+4 Memorial to Genius 
+4 Memorial to Unity 
+4 Mirrorwing Dragon 
+4 Mossfire Valley 
+4 New Perspectives 
+4 Nissa, Steward of Elements 
+4 Painful Truths 
+4 Painful Truths 
+4 Pernicious Deed 
+4 Primalcrux 
+4 Prognostic Sphinx 
+4 Prognostic Sphinx 
+4 Prowling Serpopard 
+4 Reclamation Sage 
+4 Red Elemental Blast 
+4 Regal Behemoth 
+4 Regal Behemoth 
+4 Reliquary Tower 
+4 River Kelpie 
+4 Sakura-Tribe Elder
+4 Sandwurm Convergence 
+4 Secrets of the Dead 
+4 Secrets of the Dead 
+4 Snuff Out 
+4 Splendid Reclamation 
+4 Splintering Wind
+4 Squee, Goblin Nabob 
+4 Squee, Goblin Nabob 
+4 Summer Bloom 
+4 Summer Bloom 
+4 Suncleanser 
+4 Sundial of the Infinite 
+4 Supreme Will 
+4 Surgespanner 
+4 Swiftfoot Boots 
+4 Swiftfoot Boots 
+4 Swiftfoot Boots 
+4 Swiftfoot Boots 
+4 Tamiyo's Journal 
+4 The Locust God 
+4 Tortured Existence 
+4 Traumatize 
+4 Traumatize 
+4 True Conviction 
+4 Twinflame 
+4 Vona, Butcher of Magan 
 
