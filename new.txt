@@ -123,4 +123,6 @@
 4 Boggart Shenanigans
 4 Goblin Trashmaster
 4 Horde of Boggarts
+4 Elixir of Immortality
+4 Seal of Primordium
 
