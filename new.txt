@@ -149,25 +149,19 @@
 4 Crux of Fate 
 4 Debt to the Deathless 
 4 Dissolve 
-4 Dissolve 
 4 Drake Haven 
 4 Drana's Emissary 
 4 Emmara Tandris 
 4 Enter the Unknown 
-4 Enter the Unknown 
-4 Evolving Wilds
-4 Evolving Wilds 
 4 Executioner's Capsule 
 4 Exquisite Blood 
 4 Farseek 
-4 Felidar Sovereign 
 4 Felidar Sovereign 
 4 Flameshadow Conjuring 
 4 Frantic Search
 4 Fraying Sanity 
 4 Gisa and Geralf 
 4 Hieroglyphic Illumination
-4 Hieroglyphic Illumination 
 4 Isamaru, Hound of Konda 
 4 Jungleborn Pioneer 
 4 Karlov of the Ghost Council 
@@ -184,41 +178,31 @@
 4 New Perspectives 
 4 Nissa, Steward of Elements 
 4 Painful Truths 
-4 Painful Truths 
 4 Pernicious Deed 
 4 Primalcrux 
-4 Prognostic Sphinx 
 4 Prognostic Sphinx 
 4 Prowling Serpopard 
 4 Reclamation Sage 
 4 Red Elemental Blast 
-4 Regal Behemoth 
 4 Regal Behemoth 
 4 Reliquary Tower 
 4 River Kelpie 
 4 Sakura-Tribe Elder
 4 Sandwurm Convergence 
 4 Secrets of the Dead 
-4 Secrets of the Dead 
 4 Snuff Out 
 4 Splendid Reclamation 
 4 Splintering Wind
 4 Squee, Goblin Nabob 
-4 Squee, Goblin Nabob 
-4 Summer Bloom 
 4 Summer Bloom 
 4 Suncleanser 
 4 Sundial of the Infinite 
 4 Supreme Will 
 4 Surgespanner 
 4 Swiftfoot Boots 
-4 Swiftfoot Boots 
-4 Swiftfoot Boots 
-4 Swiftfoot Boots 
 4 Tamiyo's Journal 
 4 The Locust God 
 4 Tortured Existence 
-4 Traumatize 
 4 Traumatize 
 4 True Conviction 
 4 Twinflame 
