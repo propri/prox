@@ -176,7 +176,7 @@
 4 Mirrorwing Dragon 
 4 Mossfire Valley 
 4 New Perspectives 
-4 Nissa, Steward of Elements 
+8 Nissa, Steward of Elements
 4 Painful Truths 
 4 Pernicious Deed 
 4 Primalcrux 

@@ -1,4 +1,7 @@
 8 Command Beacon
 4 Pathbreaker Ibex
 8 Azusa, Lost but Seeking
+8 Nissa, Vital Force
+8 Nissa, Vastwood Seer
+8 Nissa, Sage Animist
 
