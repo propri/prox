@@ -207,4 +207,5 @@
 4 True Conviction 
 4 Twinflame 
 4 Vona, Butcher of Magan 
+8 Delay
 
