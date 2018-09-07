@@ -4,4 +4,8 @@
 8 Nissa, Vital Force
 8 Nissa, Vastwood Seer
 8 Nissa, Sage Animist
+8 Ponder
+8 Brainstorm
+8 Preordain
+4 Pull from Tomorrow
 
