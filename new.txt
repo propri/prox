@@ -99,7 +99,7 @@
 4 Dungrove Elder
 4 Argent Sphinx
 4 Bring to Light
-4 Æthermage's Touch
+4 Aethermage's Touch
 4 Sanctum Seeker
 4 Aryel, Knight of Windgrace
 4 Phyrexian Scriptures
