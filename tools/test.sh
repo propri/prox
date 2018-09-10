@@ -4,6 +4,9 @@
 
 # check for cards in given file not already printed
 
+# search command
+SEARCH="ack -i --ignore-dir=tools"
+
 trim() {
     local var="$*"
     # remove leading whitespace characters
@@ -14,7 +17,7 @@ trim() {
 }
 
 while IFS='' read -r line || [[ -n "$line" ]]; do
-    if ack -i "\b$(trim $line)\b" > /dev/null
+    if $SEARCH -i "\b$(trim $line)\b" > /dev/null
     then 
         :
     else
