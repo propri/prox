@@ -18,7 +18,6 @@
 4 Boiling Blood
 4 Mass Hysteria
 4 Screaming Fury
-4 Blazing Shaol
 4 Overblaze
 4 Belligerent Brontodon
 4 Attended Knight
@@ -143,7 +142,6 @@
 4 Comparative Analysis 
 4 Crash Through 
 4 Cream of the Crop 
-4 Crimson Wisps 
 4 Crovax, Ascendant Hero 
 4 Crush of Tentacles 
 4 Crux of Fate 
@@ -153,7 +151,6 @@
 4 Drana's Emissary 
 4 Emmara Tandris 
 4 Enter the Unknown 
-4 Executioner's Capsule 
 4 Exquisite Blood 
 4 Farseek 
 4 Felidar Sovereign 
@@ -208,4 +205,57 @@
 4 Twinflame 
 4 Vona, Butcher of Magan 
 8 Delay
-
+4 Goblin Chainwhirler
+4 Force Spike
+4 Umbilicus
+4 Slay
+4 Evasive Action
+4 Goblin Sledder
+4 Journey of Discovery
+4 Spell Pierce
+4 Assault Strobe
+4 Treasure Mage
+4 Goblin Wardriver
+4 Symbiotic Wurm
+4 Splinterfright
+4 Obzedat's Aid
+4 Wake the Dead
+4 Necropotence
+4 Seasinger
+4 Aleatory
+4 Ghitu Fire
+4 Zap
+4 Accelerate
+4 Accelerate
+4 Darksteel Reactor
+4 Mnemonic Nexus
+4 Viridian Revel
+4 Terramorphic Expanse
+4 Fiend of the Shadows
+4 Rush of Blood
+4 Uncanny Speed
+4 Psychic Spiral
+4 Izzet Keyrune
+4 Stolen Identity
+4 Devil's Play
+4 Izzet Cluestone
+4 Sporesower Thallid
+4 Mogis's Marauder
+4 Annul
+4 Disciple of Deceit
+4 Phage the Untouchable
+4 Crater's Claws
+4 Mindswipe
+4 Terramorphic Expanse
+4 Stormsurge Kraken
+4 Demon of Wailing Agonies
+4 Marshal's Anthem
+4 Distorting Wake
+4 Pestilence Demon
+4 Coral Atoll
+4 Terramorphic Expanse
+4 Reiver Demon
+4 Guile
+4 Conduit of Ruin
+4 Bane of Bala Ged
+4 Havoc Demon
