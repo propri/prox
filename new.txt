@@ -259,3 +259,5 @@
 4 Conduit of Ruin
 4 Bane of Bala Ged
 4 Havoc Demon
+4 Skred
+
