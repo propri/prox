@@ -220,7 +220,7 @@
 4 Splinterfright
 4 Obzedat's Aid
 4 Wake the Dead
-4 Necropotence
+8 Necropotence
 4 Seasinger
 4 Aleatory
 4 Ghitu Fire
