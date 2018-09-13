@@ -71,7 +71,7 @@
 4 Mogg War Marshal
 4 Heat Shimmer
 4 Gather Specimens
-4 Nykthos, Shrine to Nyx
+8 Nykthos, Shrine to Nyx
 4 Destructive Revelry
 4 Grim Haruspex
 4 Abzan Ascendancy
