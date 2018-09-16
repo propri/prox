@@ -256,4 +256,7 @@
 4 Bane of Bala Ged
 4 Havoc Demon
 4 Skred
+4 Arjun, the Shifting Flame
+12 Craterhoof Behemoth
+4 Cloud of Faeries
 
