@@ -226,11 +226,9 @@
 4 Ghitu Fire
 4 Zap
 4 Accelerate
-4 Accelerate
 4 Darksteel Reactor
 4 Mnemonic Nexus
 4 Viridian Revel
-4 Terramorphic Expanse
 4 Fiend of the Shadows
 4 Rush of Blood
 4 Uncanny Speed
@@ -246,14 +244,12 @@
 4 Phage the Untouchable
 4 Crater's Claws
 4 Mindswipe
-4 Terramorphic Expanse
 4 Stormsurge Kraken
 4 Demon of Wailing Agonies
 4 Marshal's Anthem
 4 Distorting Wake
 4 Pestilence Demon
 4 Coral Atoll
-4 Terramorphic Expanse
 4 Reiver Demon
 4 Guile
 4 Conduit of Ruin
