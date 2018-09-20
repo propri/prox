@@ -261,4 +261,5 @@
 4 Cloud of Faeries
 8 Green Sun's Zenith
 8 Leyline of Anticipation
+8 Mana Tithe
 
