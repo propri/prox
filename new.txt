@@ -1,7 +1,7 @@
 4 Goblin Chirurgeon
 8 The Gitrog Monster
 4 Voyaging Satyr
-4 Commit // Memory
+8 Commit // Memory
 4 Hikari, Twilight Guardian
 4 Fists of the Anvil
 4 Goblin Assassin
@@ -345,4 +345,10 @@
 4 Verdurous Gearhulk
 4 Whir of Invention
 4 Worldslayer
+4 Daybreak Coronet
+4 Thornbite Staff
+4 Red Sun's Zenith
+4 Invoke the Firemind
+4 Elves of Deep Shadow
+4 Bontu the Glorified
 

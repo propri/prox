@@ -15,4 +15,50 @@
 8 Reality Shift
 4 Havengul Lich
 8 Relic of Progenitus
+8 Kodama's Reach
+8 Nature's Lore
 
+8 Blood Crypt
+8 Breeding Pool
+8 Godless Shrine
+8 Hallowed Fountain
+8 Overgrown Tomb
+8 Sacred Foundry
+8 Steam Vents
+8 Stomping Ground
+8 Temple Garden
+8 Watery Grave
+
+8 Canopy Vista
+8 Cinder Glade
+8 Prairie Stream
+8 Smoldering Marsh
+8 Sunken Hollow
+
+8 Clifftop Retreat
+8 Dragonskull Summit
+8 Drowned Catacomb
+8 Glacial Fortress
+8 Hinterland Harbor
+8 Isolated Chapel
+8 Rootbound Crag
+8 Sulfur Falls
+8 Sunpetal Grove
+8 Woodland Cemetery
+
+8 Adarkar Wastes
+8 Battlefield Forge
+8 Brushland
+8 Caves of Koilos
+8 Karplusan Forest
+8 Llanowar Wastes
+8 Shivan Reef
+8 Sulfurous Springs
+8 Underground River
+8 Yavimaya Coast
+
+8 Canyon Slough
+16 Fetid Pools
+8 Irrigated Farmland
+8 Scattered Groves
+8 Sheltered Thicket
