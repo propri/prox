@@ -1,5 +1,5 @@
 4 Goblin Chirurgeon
-4 The Gitrog Monster
+8 The Gitrog Monster
 4 Voyaging Satyr
 4 Commit // Memory
 4 Hikari, Twilight Guardian
