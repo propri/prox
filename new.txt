@@ -54,7 +54,6 @@
 4 Otherworldly Outburst
 4 Mark of Fury
 4 Felidar Sovereign
-4 Fraying Sanity
 4 Beneath the Sands
 4 Desert of the Fervent
 4 Steel Leaf Champion
@@ -78,7 +77,6 @@
 4 Mardu Ascendancy
 4 Sultai Ascendancy
 4 Temur Ascendancy
-4 Beastcaller Savant
 4 Seasons Past
 4 Invigorated Rampage
 4 Throne of the God-Pharaoh
@@ -126,13 +124,11 @@
 4 Seal of Primordium
 4 Autumn's Veil
 4 Soul's Attendant
-4 Aethermage's Touch
 4 Angelic Accord
 4 Arbor Elf
 4 Argentum Armor
 4 Astral Cornucopia
 4 Beastcaller Savant
-4 Beneath the Sands
 4 Bounty of the Luxa
 4 Cataclysmic Gearhulk
 4 Cliffhaven Vampire
@@ -153,7 +149,6 @@
 4 Enter the Unknown
 4 Exquisite Blood
 4 Farseek
-4 Felidar Sovereign
 4 Flameshadow Conjuring
 4 Frantic Search
 4 Fraying Sanity
@@ -192,7 +187,6 @@
 4 Splintering Wind
 4 Squee, Goblin Nabob
 4 Summer Bloom
-4 Suncleanser
 4 Sundial of the Infinite
 4 Supreme Will
 4 Surgespanner
@@ -263,7 +257,6 @@
 8 Leyline of Anticipation
 8 Mana Tithe
 8 Lightning Bolt
-4 Symbiotic Wurm
 8 Abrade
 4 Aid from the Cowl
 4 Archon of Valor's Reach
