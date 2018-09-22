@@ -17,6 +17,8 @@
 8 Relic of Progenitus
 8 Kodama's Reach
 8 Nature's Lore
+4 Edric, Spymaster of Trest
+8 Roil Elemental
 
 8 Blood Crypt
 8 Breeding Pool
