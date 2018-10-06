@@ -14,3 +14,81 @@
 4 Pillar of Light
 4 Basilica Screecher
 4 Rhonas the Indomitable
+8 Rest in Peace
+8 Worldly Tutor
+8 Glacial Chasm
+4 Elspeth, Sun's Champion
+4 Erratic Cyclops
+4 Jace Beleren
+4 Niv-Mizzet, Parun
+4 Gateway Plaza
+4 Najeela, the Blade-Blossom
+4 Dovin Baan
+4 Garruk Relentless
+5 Garruk, the Veil-Cursed
+4 Ajani, Wise Counselor
+4 Liliana, Heretical Healer
+5 Liliana, Defiant Necromancer
+4 Nissa, Worldwaker
+4 Liliana, the Necromancer
+4 Liliana, Untouched by Death
+4 Will Kenrith
+4 Beast Whisperer
+4 Crush Contraband
+4 Vortex Elemental
+4 Chance for Glory
+4 Angelic Arbiter
+4 Authority of the Consuls
+4 Tattered Mummy
+4 Serra's Guardian
+4 Riddlemaster Sphinx
+4 Camaraderie
+4 Assure // Assemble
+4 Guildmages' Forum
+4 Find // Finality
+4 Citywide Bust
+4 Drowned Secrets
+4 Connive // Concoct
+4 Dawn of Hope
+4 Divine Visitation
+4 Response // Resurgence
+4 Etrata, the Silencer
+4 Expansion // Explosion
+4 Knight of Autumn
+4 Light of the Legion
+4 Mausoleum Secrets
+4 Mnemonic Betrayal
+4 Notion Rain
+4 Omnispell Adept
+4 Plaguecrafter
+4 Quasiduplicate
+4 Trostani Discordant
+4 Ritual of Soot
+4 Thief of Sanity
+4 Underrealm Lich
+4 Vivid Revival
+4 Altar of Bone
+8 The Scarab God
+4 Inheritance
+4 Karona, False God
+4 World Queller
+4 Kami of the Crescent Moon
+4 Isolation Cell
+4 Spawning Pit
+4 Sea Kings' Blessing
+4 Ob Nixilis of the Black Oath
+4 Izoni, Thousand-Eyed
+4 Hatchery Spider
+4 Tsabo's Web
+4 Midnight Reaper
+4 Circuitous Route
+4 Emmara, Soul of the Accord
+4 Chaos Imps
+4 Unmoored Ego
+8 Treasure Map
+9 Treasure Cove
+4 Molten Vortex
+4 Bounty of Might
+4 Gideon Jura
+4 Vivien of the Arkbow
+4 Mizzix of the Izmagnus
