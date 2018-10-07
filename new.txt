@@ -148,4 +148,11 @@
 4 Torrential Gearhulk
 4 Sorcerous Spyglass
 4 Disenchant
+4 Beseech the Queen
+8 Urborg, Tomb of Yawgmoth
+4 Jace, Architect of Thought
+4 Kiora, the Crashing Wave
+4 Ashiok, Nightmare Weaver
+8 Cabal Coffers
+4 Elvish Archdruid
 
