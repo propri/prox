@@ -92,3 +92,60 @@
 4 Gideon Jura
 4 Vivien of the Arkbow
 4 Mizzix of the Izmagnus
+4 Twilight Prophet
+4 Icefeather Aven
+4 Brass's Bounty
+4 Isolate
+4 Confound
+4 Kytheon, Hero of Akros
+4 Gideon, Battle-Forged
+4 Dismissive Pyromancer
+4 Bone Saw
+4 Hazardous Conditions
+4 Divest
+4 Cruel Revival
+4 Earthbind
+4 Eron the Relentless
+4 Dragon Hunter
+4 Energy Flux
+4 Artificer's Epiphany
+4 Curse of Marit Lage
+4 Gaea's Liege
+4 Barl's Cage
+4 Book of Rass
+4 Disrupting Scepter
+4 Axelrod Gunnarson
+4 Gabriel Angelfire
+4 Eight-and-a-Half-Tails
+4 Horn of Plenty
+4 Divine Presence
+4 Broken Concentration
+4 Tetzimoc, Primal Death
+4 Firesong and Sunspeaker
+4 Blaring Recruiter
+4 Blaring Captain
+4 Torment of Hailfire
+4 Dense Foliage
+4 Disintegrate
+4 Earthlink
+4 Active Volcano
+4 Abyssal Hunter
+4 Battle at the Bridge
+4 Blossoming Defense
+4 Cranial Archive
+4 Crumble
+4 Dingus Egg
+4 Echo Chamber
+4 Glasses of Urza
+4 Glorybringer
+4 Ice Floe
+4 Impervious Greatwurm
+8 Sylvan Library
+4 Mishra, Artificer Prodigy
+4 Mad Auntie
+4 Paradox Engine
+4 Baral, Chief of Compliance
+4 Torrential Gearhulk
+4 Sorcerous Spyglass
+4 Disenchant
+
