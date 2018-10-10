@@ -155,4 +155,18 @@
 4 Ashiok, Nightmare Weaver
 8 Cabal Coffers
 4 Elvish Archdruid
+4 Orb of Dreams
+4 Dovescape
+4 Captain Lannery Storm
+4 Summoning Station
+4 Jace, the Living Guildpact
+4 Increasing Confusion
+4 Auriok Champion
+4 Admiral Beckett Brass
+4 Doubling Cube
+4 Portcullis
+4 Lava Burst
+4 Kaervek's Torch
+4 Twincast
+4 Fyndhorn Elves
 
