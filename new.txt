@@ -169,4 +169,5 @@
 4 Kaervek's Torch
 4 Twincast
 4 Fyndhorn Elves
+4 Logic Knot
 
