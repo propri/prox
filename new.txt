@@ -65,7 +65,7 @@
 4 Trostani Discordant
 4 Ritual of Soot
 4 Thief of Sanity
-4 Underrealm Lich
+8 Underrealm Lich
 4 Vivid Revival
 4 Altar of Bone
 8 The Scarab God
@@ -172,4 +172,90 @@
 4 Logic Knot
 4 Invoke the Divine
 4 Open the Graves
+8 Abrupt Decay
+4 Ajani Unyielding
+4 Ancient Craving
+4 Ashen Powder
+4 Binding Mummy
+16 Bloodstained Mire
+4 Blue Elemental Blast
+4 Bravado
+4 Burning-Tree Emissary
+4 Cabal Stronghold
+4 Cemetery Reaper
+4 Crypt Champion
+4 Dead Man's Chest
+4 Death's Presence
+4 Debtors' Knell
+4 Demon of Dark Schemes
+4 Desecration Demon
+4 Diabolic Revelation
+4 Diregraf Captain
+4 Discovery // Dispersal
+4 Dolmen Gate
+4 Embargo
+16 Flooded Strand
+4 Garruk Wildspeaker
+4 Garruk, Primal Hunter
+4 Gisa's Bidding
+4 Goblin Banneret
+4 Goblin Cratermaker
+4 Goblin Electromancer
+16 Grave Titan
+4 Grim Return
+4 Gruesome Menagerie
+4 Horobi, Death's Wail
+4 Infectious Horror
+4 Inspiring Statuary
+4 Jace, Cunning Castaway
+4 Jace, Unraveler of Secrets
+4 Jhoira, Weatherlight Captain
+4 Jokulhaups
+4 Jor Kadeen, the Prevailer
+4 Justice Strike
+4 Kiyomaro, First to Stand
+4 Legion Warboss
+4 Lich Lord of Unx
+4 Lodestone Golem
+4 Lord of the Accursed
+8 Magus of the Coffers
+4 Makeshift Mannequin
+8 Mana Reflection
+4 Mental Misstep
+4 Morbid Curiosity
+4 Mystical Teachings
+4 Nacatl War-Pride
+4 Night's Whisper
+4 Nightveil Sprite
+4 Noosegraf Mob
+4 Ob Nixilis Reignited
+4 Parallax Tide
+4 Pattern of Rebirth
+4 Phyrexian Walker
+4 Pia and Kiran Nalaar
+4 Plague Belcher
+4 Polluted Bonds
+4 Ravaging Blaze
+4 Reality Spasm
+4 Rescue from the Underworld
+4 Reset
+4 Resourceful Return
+4 Risen Executioner
+4 River Sneak
+4 Rooftop Storm
+4 Sepulchral Primordial
+4 Shattering Pulse
+4 Shepherd of Rot
+4 Sorin Markov
+4 Sorin, Solemn Visitor
+4 Stitcher Geralf
+4 Thieving Magpie
+4 Torch Courier
+4 Undying Evil
+4 Vengeful Dead
+4 Wayward Servant
+4 Whim of Volrath
+4 Whispers of the Muse
+16 Windswept Heath
+8 Go for the Throat
 
