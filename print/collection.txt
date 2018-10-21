@@ -2,4 +2,6 @@
 1 Dewdrop Spy
 1 Might of the Masses
 1 Stonybrook Banneret
+1 Aether Adept
+1 Vedalken Aethermage
 
