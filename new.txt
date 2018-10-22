@@ -258,4 +258,39 @@
 4 Whispers of the Muse
 16 Windswept Heath
 8 Go for the Throat
+4 Domineering Will
+4 Mizzium Meddler
+4 Ensnare
+4 Terminal Moraine
+4 Stern Proctor
+4 Mizzium Meddler
+4 Words of Wisdom
+4 Star Compass
+4 Domineering Will
+4 Wizard's Retort
+4 Star Compass
+4 Blustersquall
+4 Epiphany at the Drownyard
+4 Sphere of the Suns
+4 Wandering Fumarole
+4 Falkenrath Aristocrat
+4 Docent of Perfection
+4 Final Iteration
+4 Oketra the True
+4 Diregraf Colossus
+4 Thousand-Year Storm
+4 Naru Meha, Master Wizard
+4 Venser, Shaper Savant
+4 Fated Infatuation
+4 Cackling Counterpart
+4 Displace
+4 Release to the Wind
+4 Death Baron
+8 Elesh Norn, Grand Cenobite
+4 Gideon, Champion of Justice
+4 Sorin, Grim Nemesis
+4 Tezzeret the Schemer
+4 Vraska the Unseen
+4 Liliana's Mastery
+4 Kindred Discovery
 
