@@ -293,4 +293,6 @@
 4 Vraska the Unseen
 4 Liliana's Mastery
 4 Kindred Discovery
+4 Pili-Pala
+4 Stonybrook Banneret
 
