@@ -295,4 +295,6 @@
 4 Kindred Discovery
 4 Pili-Pala
 4 Stonybrook Banneret
+4 Xenograft
+4 Peacekeeper
 
