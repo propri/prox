@@ -1,0 +1,96 @@
+Main
+1 Krenko, Mob Boss # !Commander
+1 Aggravated Assault #(combo with prospector and krenko)
+1 Battle Squadron
+1 Bloodmark Mentor
+1 Caterwauling Boggart
+1 Goblin Chirurgeon
+1 Horde of Boggarts
+
+removal / wipe
+1 Blasphemous Act
+1 By Force
+1 Chaos Warp
+1 Earthquake
+1 Smelt
+1 Vandalblast
+
+damage
+1 Arms Dealer
+1 Gempalm Incinerator
+1 Goblin Bombardment
+1 Goblin Sharpshooter
+1 Goblin War Strike
+1 Hellrider
+1 Impact Tremors
+1 Massive Raid
+1 Purphoros, God of the Forge
+
+token producer
+1 Beetleback Chief
+1 Dragon Fodder
+1 Empty the Warrens
+1 Goblin Assault
+1 Goblin Instigator
+1 Goblin Offensive
+1 Goblin Rally
+1 Goblinslide
+1 Hordeling Outburst
+1 Ib Halfheart, Goblin Tactician
+1 Krenko's Command
+1 Mogg Alarm
+1 Mogg War Marshal
+1 Siege-Gang Commander
+
+haste
+1 Goblin Chieftain
+1 Goblin Warchief
+1 Lightning Greaves
+1 Ogre Battledriver
+1 Swiftfoot Boots
+1 Thousand-Year Elixir #for krenko
+
+pump
+1 Coat of Arms
+1 Eldrazi Monument
+1 Goblin King
+1 Goblin Lookout
+1 Goblin Trashmaster
+1 Quest for the Goblin Lord
+1 Shared Animosity
+
+draw / card advantage
+1 Coveted Jewel
+1 Dark-Dweller Oracle
+1 Grenzo, Havoc Raiser
+1 Outpost Siege
+1 Rummaging Goblin
+1 Skullclamp
+1 Vanquisher's Banner
+
+lands
+1 Command Beacon
+33 Mountain
+1 Nykthos, Shrine to Nyx
+1 Path of Ancestry
+
+ramp
+1 Fire Diamond
+1 Hedron Archive
+1 Herald's Horn
+1 Mind Stone
+1 Ruby Medallion
+1 Skirk Prospector
+1 Sol Ring
+1 Treasure Nabber
+
+Sideboard
+SB: 1 Anger
+SB: 1 Foundry Street Denizen
+SB: 1 Goblin Grenade
+SB: 1 Goblin Matron
+SB: 1 Goblin Piledriver
+SB: 1 Goblin Warrens
+SB: 1 Raid Bombardment
+SB: 1 Reckless Bushwhacker
+SB: 1 Squee, the Immortal

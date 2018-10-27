@@ -1,0 +1,92 @@
+Main
+1 Surrak Dragonclaw # !Commander
+1 Anger
+1 Banefire
+1 Beast Within
+1 Blasphemous Act
+1 Brawn
+1 Coiling Oracle
+1 Cyclonic Rift
+1 Eternal Witness
+1 Genesis
+1 Ghalta, Primal Hunger
+1 Goblin Matron
+1 Heroic Intervention
+1 Lifecrafter's Bestiary
+1 Nature's Claim
+1 Reclamation Sage
+1 Sarkhan's Unsealing
+1 Scavenging Ooze
+1 Scryb Ranger
+1 Seedtime
+1 Sunbird's Invocation
+1 Vigor
+1 Wonder
+
+anti-counter
+1 Akroma, Angel of Fury
+1 Autumn's Veil
+1 Conqueror's Flail
+1 Gaea's Herald
+1 Gaea's Revenge
+1 Great Sable Stag
+1 Guttural Response
+1 Insist
+1 Leyline of Lifeforce
+1 Mistcutter Hydra
+1 Overmaster
+1 Prowling Serpopard
+1 Pyroblast
+1 Red Elemental Blast
+1 Savage Summoning
+1 Skylasher
+1 Spellbreaker Behemoth
+1 Urza's Rage
+1 Vexing Shusher
+
+draw
+1 Cold-Eyed Selkie
+1 Concentrate
+1 Consecrated Sphinx
+1 Glimmer of Genius
+1 Harmonize
+1 Mulldrifter
+1 Nezahal, Primal Tide
+1 Prime Speaker Zegana
+1 Rhystic Study
+1 Rishkar's Expertise
+1 Tatyova, Benthic Druid
+1 Temur Ascendancy
+
+ramp
+1 Cultivate
+1 Drumhunter
+1 Farhaven Elf
+1 Farseek
+1 Kodama's Reach
+1 Nature's Lore
+1 Rampant Growth
+1 Sakura-Tribe Elder
+1 Sol Ring
+1 Wood Elves
+
+lands
+1 Breeding Pool
+1 Cinder Glade
+1 Command Tower
+12 Forest
+1 Hinterland Harbor
+6 Island
+1 Karplusan Forest
+5 Mountain
+1 Reliquary Tower
+1 Rootbound Crag
+1 Shivan Reef
+1 Spire Garden
+1 Steam Vents
+1 Stomping Ground
+1 Sulfur Falls
+1 Yavimaya Coast
+
+Sideboard
+SB: 1 War's Toll #momentan anstatt temur ascendancy drin

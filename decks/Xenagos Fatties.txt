@@ -1,0 +1,80 @@
+Main
+1 Xenagos, God of Revels # !Commander
+1 Aggravated Assault
+1 Apocalypse Hydra
+1 Atarka, World Render #hitter
+1 Balefire Dragon #hitter, mass damage
+1 Berserkers' Onslaught
+1 Blasphemous Act #board wipe
+1 Blood Mist #double strike
+1 Chain Reaction
+1 Chandra's Ignition #wipe  / mass burn
+1 Cultivate #ramp
+1 Disaster Radius
+1 Dragonlord Atarka #hitter
+1 Drumhunter #draw (ramp)
+1 Elemental Bond #draw
+1 Engulfing Slagwurm
+1 Eternal Witness #recursion
+1 Explosive Vegetation #ramp
+1 Farseek #ramp
+1 Furyborn Hellkite
+1 Gaea's Revenge #hitter
+1 Ghalta, Primal Hunger #hitter
+1 Giant Adephage #hitter
+1 Gruul Signet
+1 Harmonize
+1 Hunter's Insight #draw
+1 Hydra Omnivore #hitter
+1 Kodama's Reach #ramp
+1 Mage Slayer #hitting tool
+1 Malignus #hitter
+1 Nature's Lore #ramp
+1 Nissa's Pilgrimage
+1 Peregrination
+1 Primeval Protector
+1 Rampant Growth #ramp
+1 Ranger's Path
+1 Realm Seekers #hitter / ramp
+1 Regrowth
+1 Relentless Assault
+1 Rishkar's Expertise #draw
+1 Sakura-Tribe Elder #ramp
+1 Savage Beating #double strike / additional combat
+1 Savage Ventmaw #beater / ramp
+1 Search for Tomorrow
+1 See the Unwritten #creature cheat
+1 Seize the Day #additional combat
+1 Skyshroud Claim #ramp
+1 Sol Ring #ramp
+1 Soul's Majesty #draw
+1 Stonehoof Chieftain
+1 Swiftfoot Boots
+1 Temur Battle Rage #double strike (trample)
+1 Triumph of Ferocity #draw
+1 Ulvenwald Tracker
+1 Utvara Hellkite
+1 Warstorm Surge #burn
+1 World at War #additional combat
+1 Worldspine Wurm #beater
+
+artifact / enchantment removal
+1 Artifact Mutation
+1 Consign to Dust
+1 Deglamer
+1 Fade into Antiquity #tool
+1 Naturalize
+1 Vandalblast
+
+land
+1 Cinder Glade
+15 Forest
+1 Karplusan Forest
+1 Kessig Wolf Run
+12 Mountain
+1 Rogue's Passage
+1 Rootbound Crag
+1 Sheltered Thicket
+1 Skarrg, the Rage Pits
+1 Stomping Ground
+1 Temple of Abandon

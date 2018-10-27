@@ -1,0 +1,99 @@
+Main
+1 Lord Windgrace # !Commander
+1 Azusa, Lost but Seeking
+1 Blasphemous Act
+1 Burgeoning
+1 Chain Reaction
+1 Courser of Kruphix
+1 Crucible of Worlds
+1 Elemental Bond
+1 Exploration
+1 Hammer of Purphoros
+1 Liege of the Tangle
+1 Life from the Loam
+1 Mina and Denn, Wildborn
+1 Multani, Yavimaya's Avatar
+1 Nissa, Vastwood Seer
+1 Nissa, Vital Force
+1 Oracle of Mul Daya
+1 Perilous Forays
+1 Ramunap Excavator
+1 Reclamation Sage
+1 Scapeshift
+1 Splendid Reclamation
+1 Sprouting Vines
+1 Squandered Resources
+1 Sylvan Safekeeper
+1 The Gitrog Monster
+1 Tireless Tracker
+1 Titania, Protector of Argoth
+1 Turntimber Sower
+1 Ulvenwald Hydra
+1 Wayward Swordtooth
+1 World Shaper
+
+landfall
+1 Avenger of Zendikar
+1 Guul Draz Overseer
+1 Lotus Cobra
+1 Ob Nixilis, the Fallen
+1 Omnath, Locus of Rage
+1 Rampaging Baloths
+1 Zendikar's Roil
+
+ramp
+1 Boundless Realms
+1 Cultivate
+1 Farseek
+1 Harrow
+1 Hunting Wilds
+1 Khalni Heart Expedition
+1 Kodama's Reach
+1 Nature's Lore
+1 Nissa's Pilgrimage
+1 Nissa's Renewal
+1 Primal Growth
+1 Rampant Growth
+1 Sakura-Tribe Elder
+1 Search for Tomorrow
+1 Skyshroud Claim
+1 Sol Ring
+1 Traverse the Outlands
+
+recursion
+1 Eternal Witness
+1 Journey to Eternity
+1 Phyrexian Reclamation
+1 Regrowth
+
+lands
+1 Ash Barrens
+1 Blighted Woodland
+1 Blood Crypt
+1 Bojuka Bog
+1 Buried Ruin
+1 Cinder Glade
+1 Command Beacon
+1 Command Tower
+1 Dragonskull Summit
+12 Forest
+1 Ghost Town
+1 Jund Panorama
+1 Maze of Ith
+3 Mountain
+1 Overgrown Tomb
+1 Rootbound Crag
+1 Scavenger Grounds
+1 Smoldering Marsh
+1 Stomping Ground
+5 Swamp
+1 Temple of Malady
+1 Temple of Malice
+1 Woodland Cemetery
+
+Sideboard
+SB: 1 Ashnod's Altar
+SB: 1 Borborygmos Enraged
+SB: 1 Drownyard Temple
+SB: 1 Putrefy
+SB: 1 Realms Uncharted

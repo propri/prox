@@ -1,0 +1,109 @@
+Main
+1 Jodah, Archmage Eternal # !Commander
+1 Blasphemous Act
+1 Dragon Breath
+1 Fierce Empath
+1 Fist of Suns
+1 Lightning Greaves
+1 Omniscience
+1 Sunbird's Invocation
+1 Swiftfoot Boots
+1 Wrath of God
+
+ramp
+1 Azorius Signet
+1 Boros Signet
+1 Chromatic Lantern
+1 Commander's Sphere
+1 Cultivate
+1 Darksteel Ingot
+1 Dimir Signet
+1 Farseek
+1 Fellwar Stone
+1 Golgari Signet
+1 Gruul Signet
+1 Izzet Signet
+1 Kodama's Reach
+1 Nature's Lore
+1 Orzhov Signet
+1 Prismatic Geoscope
+1 Rakdos Signet
+1 Rampant Growth
+1 Sakura-Tribe Elder
+1 Selesnya Signet
+1 Simic Signet
+1 Skyshroud Claim
+1 Sol Ring
+1 Solemn Simulacrum
+1 Thought Vessel
+
+lands
+1 Bant Panorama
+1 Blood Crypt
+1 Breeding Pool
+1 Cascading Cataracts
+1 Command Tower
+1 Esper Panorama
+1 Exotic Orchard
+3 Forest
+1 Godless Shrine
+1 Grixis Panorama
+1 Hallowed Fountain
+3 Island
+1 Jund Panorama
+1 Mana Confluence
+3 Mountain
+1 Naya Panorama
+1 Overgrown Tomb
+1 Path of Ancestry
+3 Plains
+1 Reflecting Pool
+1 Reliquary Tower
+1 Sacred Foundry
+1 Steam Vents
+1 Stomping Ground
+2 Swamp
+1 Temple Garden
+1 Watery Grave
+
+cheat spells
+1 Artisan of Kozilek
+1 Avacyn, Angel of Hope
+1 Blatant Thievery
+1 Bringer of the Black Dawn
+1 Bringer of the Blue Dawn
+1 Conflux
+1 Diluvian Primordial
+1 Expropriate
+1 Godsire
+1 Grave Upheaval
+1 In Garruk's Wake
+1 It That Betrays
+1 Plague Wind
+1 Progenitus
+1 Sandwurm Convergence
+1 Volcanic Vision
+1 Vorinclex, Voice of Hunger
+1 Zacama, Primal Calamity
+1 Zendikar Resurgent
+
+draw
+1 Baleful Force
+1 Consecrated Sphinx
+1 Cruel Ultimatum
+1 Kozilek, the Great Distortion
+1 Mystic Remora
+1 Nezahal, Primal Tide
+1 Nissa's Revelation
+1 Rhystic Study
+1 Rishkar's Expertise
+1 Ugin's Insight
+
+Sideboard
+SB: 1 Bountiful Promenade
+SB: 1 Enter the Infinite
+SB: 1 Gilded Lotus
+SB: 1 Luxury Suite
+SB: 1 Morphic Pool
+SB: 1 Sea of Clouds
+SB: 1 Spire Garden

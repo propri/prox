@@ -1,0 +1,107 @@
+Main
+1 Muldrotha, the Gravetide # !Commander
+1 Arcane Denial
+1 Counterspell
+1 Kiora, Master of the Depths
+1 Lightning Greaves
+1 Nissa, Steward of Elements
+1 Stinkweed Imp
+1 Thassa, God of the Sea
+
+lands matter
+1 Avenger of Zendikar
+1 Azusa, Lost but Seeking
+1 Crucible of Worlds
+1 Life from the Loam
+1 Lotus Cobra
+1 Multani, Yavimaya's Avatar
+1 Nissa, Vital Force
+1 Ob Nixilis, the Fallen
+1 Rampaging Baloths
+1 Ramunap Excavator
+1 Roil Elemental
+1 Scapeshift
+1 Splendid Reclamation
+1 Squandered Resources
+1 Sylvan Safekeeper
+1 Tatyova, Benthic Druid
+1 The Gitrog Monster
+1 Tireless Tracker
+1 Titania, Protector of Argoth
+1 Ulvenwald Hydra
+1 Wayward Swordtooth
+1 World Shaper
+1 Worm Harvest
+
+ramp
+1 Burgeoning
+1 Courser of Kruphix
+1 Exploration
+1 Harrow
+1 Khalni Heart Expedition
+1 Oracle of Mul Daya
+1 Sakura-Tribe Elder
+1 Sol Ring
+
+lands
+1 Bant Panorama
+1 Bojuka Bog
+1 Breeding Pool
+1 Command Beacon
+1 Command Tower
+1 Dakmor Salvage
+1 Esper Panorama
+1 Evolving Wilds
+11 Forest
+1 Ghost Town
+1 Grim Backwoods
+1 Grixis Panorama
+1 Homeward Path
+5 Island
+1 Jund Panorama
+1 Minamo, School at Water's Edge
+1 Morphic Pool
+1 Oboro, Palace in the Clouds
+1 Overgrown Tomb
+1 Sunken Hollow
+4 Swamp
+1 Terramorphic Expanse
+1 Watery Grave
+
+draw
+1 Consecrated Sphinx
+1 Kumena's Awakening
+1 Mulldrifter
+1 Mystic Remora
+1 River Kelpie
+1 Secrets of the Dead
+
+removal
+1 Beast Within
+1 Cyclonic Rift
+1 Golgari Charm
+1 Putrefy
+1 Reclamation Sage
+1 Seal of Primordium
+1 Sinister Concoction
+1 Tormod's Crypt
+1 Toxic Deluge
+1 World Breaker
+
+recursion
+1 Archaeomancer
+1 Elixir of Immortality #kind of. also protects against graveyard exile
+1 Eternal Witness
+1 Genesis
+1 Mnemonic Wall
+
+Sideboard
+SB: 1 Deathreap Ritual
+SB: 1 Fleshbag Marauder
+SB: 1 Merciless Executioner
+SB: 1 Pharika, God of Affliction
+SB: 1 Rhystic Study
+SB: 1 Swan Song
+SB: 1 Victimize
+SB: 1 Wood Elves
+SB: 1 Zendikar's Roil

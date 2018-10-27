@@ -1,0 +1,96 @@
+Main
+1 Brago, King Eternal #commander -> blink !Commander
+1 Angel of Serenity #recursion / removal
+1 Cloudblazer #card draw
+1 Cyclonic Rift
+1 Darksteel Mutation #(pseudo) removal
+1 Deadeye Navigator #blink enabler / protection
+1 Diluvian Primordial #value
+1 Eerie Interlude #protection / mass blink
+1 Eldrazi Displacer #protection / target blink
+1 Essence Flux #protection / target blink
+1 Felidar Guardian #blink
+1 Flickerwisp #blink
+1 Ghostly Flicker #blink
+1 Ghostly Prison #attack tax
+1 Ghostway #protection / mass blink
+1 Hour of Revelation #board wipe extreeeeme
+1 Illusionist's Stratagem #blink / draw - cut?
+1 Laboratory Maniac #alternative win con
+1 Mind Control #value - cut?
+1 Mnemonic Wall #recursion
+1 Momentary Blink #blink
+1 Mycosynth Wellspring #ramp
+1 Myr Battlesphere #blink target, possible finisher
+1 Oblivion Ring #removal
+1 Pacifism #(pseudo) removal
+1 Panharmonicon #value, combo piece
+1 Peregrine Drake #blink target ('ramp')
+1 Phyrexian Ingester #removal
+1 Reality Acid #very potent removal
+1 Reflector Mage
+1 Return to Dust #artifact / enchantment removal
+1 Rhystic Study #card draw / tax
+1 Rootborn Defenses #protection
+1 Sanctum Gargoyle #artifact recursion / blink target
+1 Solemn Simulacrum #ramp
+1 Spine of Ish Sah #removal (blink target)
+1 Steel of the Godhead #unblockable brago
+1 Strionic Resonator #combo piece infinite combo
+1 Stunt Double #value / blink target (cut?)
+1 Sun Titan #recursion
+1 Sunblast Angel #removal
+1 Supreme Verdict #board wipe (+ ghostway / rootborn defenses / eerie interlude -> one sided)
+1 Swords to Plowshares #removal
+1 Vedalken Orrery #value
+1 Whirler Rogue #unblockable brago - cut?
+
+draw
+1 Blue Sun's Zenith #card draw
+1 Consecrated Sphinx
+1 Ichor Wellspring
+1 Mulldrifter
+1 Mystic Remora
+1 Pentarch Ward #protection, card draw
+1 Sea Gate Oracle
+1 Traveler's Cloak #card draw / unblockable brago
+1 Trial of Knowledge #card draw
+1 Wall of Omens #card draw !Foil
+
+mana rocks
+1 Azorius Signet #ramp / brago blink target
+1 Basalt Monolith #ramp / brago blink target
+1 Darksteel Ingot #ramp / fixing / brago blink target
+1 Fellwar Stone #ramp / blink target
+1 Meteorite #ramp / blink target / combo piece
+1 Sol Ring #ramp / blink target
+1 Thran Dynamo #ramp / blink target
+
+lands
+1 Adarkar Wastes
+1 Command Tower
+1 Glacial Fortress
+1 Hallowed Fountain
+13 Island
+1 Nimbus Maze
+13 Plains
+1 Port Town
+1 [C16] Reliquary Tower
+1 Rogue's Passage #unblockable for brago
+
+counter
+1 Arcane Denial
+1 Counterspell
+1 Dissolve #counter
+1 Faerie Trickery #counter
+
+Sideboard
+SB: 1 Conjurer's Closet
+SB: 1 Deny Existence #counter
+SB: 1 Eternity Snare
+SB: 1 Gryff Vanguard
+SB: 1 Karmic Guide
+SB: 1 Mistmeadow Witch
+SB: 1 Propaganda
+SB: 1 Spell Shrivel #counter
+SB: 1 Stonehorn Dignitary #control

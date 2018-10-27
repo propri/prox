@@ -1,0 +1,85 @@
+Main
+1 Omnath, Locus of Rage #Omnath Smash! !Commander
+1 Acidic Slime #remove nasty enchantments and artifacts, good blocker because of deathtouch
+1 Archetype of Endurance #protection (intented for omnath, applicable for all)
+1 Bow of Nylea #deathtouch for attacking omnath tokens, "recharges" fertilid, maybe recursion, and more
+1 Brawn #trample enabler, good early blocker until omnath token get started
+1 Cloudthresher #reach to defend against fliers, burn with omnath and evoke
+1 Fade into Antiquity #mainly to handle indestructible gods
+1 Flamekin Harbinger #tutor for titania, or some other elemental if titania already found, chump blocker, trigger omnath
+1 Greenwarden of Murasa #recursion
+1 Hammer of Purphoros #Haste for all creatures, sacrifice lands (titania trigger)
+1 Krosan Grip #enchantment / artifact removal
+1 Nissa's Pilgrimage
+1 Phytotitan #sacrifice (greater good anyone?), trigger omnath, returns next turn
+1 Swiftfoot Boots #protection for omnath
+1 Thunderfoot Baloth #trample enabler
+1 Verdant Confluence #recursion / ramp
+1 Whispersilk Cloak #protection for omnath
+1 World Breaker #as soon as I get him. More Artifact / Enchantment removal cannot hurt, and he can recur himself by sacrificing a land, which titania likes
+
+lands
+1 Blighted Woodland #generates colorless until titania and / or omnath are on the battlefield. maybe even turn it into creature first, to trigger both of omnath  abilities
+1 Cinder Glade #fetchable with any non-basic forest ramp spell
+1 Drownyard Temple #returns itself from graveyard for more landfall triggers, sacrifice shenanigans
+20 Forest #big ramp spells look for basics
+1 Ghost Town #repeatable landfall triggers
+1 Gruul Turf #bounces itself for repeatable landfall triggers
+1 Jund Panorama #like blighted woodland
+8 Mountain #big ramp spells look for basics
+1 Myriad Landscape #like blighted woodland
+1 Naya Panorama #similar blighted woodland
+1 Reliquary Tower #some card draws get big number of cards
+1 Sheltered Thicket #fetchable (forest type)
+1 Stomping Ground #fetchable via farseek or skyshroud claim, for example
+1 Warped Landscape #trigger titania
+
+ramp
+1 Boundless Realms #cast after omnath - at least 7 lands
+1 Budoka Gardener #land from hand into play. later create giant elementals
+1 Farseek #searches library, can find any mountain card, for example shock dual
+1 Fertilid #up to two basics, more if additional counters can be added to it
+1 Frontier Guide #repeatable ramp (including searching the library), very nice
+1 Gaea's Touch #play one additional forest a turn. I've got a lot of forests in here
+1 Harrow #best after titania and omnath are out. Sacrifice "elemetified" land for additional omnath elemental death trigger
+1 Mina and Denn, Wildborn #additional land play per turn. Bounce land to hand for additional landfall trigger and to give creature trample
+1 Nissa's Renewal #three basics tapped (life gain is pure bonus)
+1 Perilous Forays #ramp + sac outlet. Does not have to be basic land, only basic land type (shock dual)
+1 Rampant Growth
+1 Ramunap Excavator #play lands sacrificed for titania from graveyard for more profit!
+1 Skyshroud Claim #searches duals, enter play untapped!
+1 Skyshroud Ranger #play more than one land a turn
+1 Splendid Reclamation #return ALL lands from graveyard. Very good if a lot of lands can be first sacrificed (tanglewood liege?)
+1 Traverse the Outlands #should be at least 5, might be a lot more
+1 Yavimaya Elder #possible cut? 3 Mana, search only basics, only into hand, too expensive for early ramp? Otoh, blocker you won't miss if he dies
+
+card draw
+1 Elemental Bond #with omnath: play a land, draw a card
+1 Garruk's Packleader #with omnath: play a land, draw a card
+1 Greater Good #+ sac outlet. Must discard three cards, can be used to get brawn into graveyard, or anger, when he is added, maybe lands for ramunap excavator or splendid reclamation)
+1 Regal Force #only three of our creatures (none of the tokens) is red only, all others are green.
+1 Rishkar's Expertise #expected card draw: at least five. with undergrowth champion, baloth after multiple landfalls, hydra, rubblehulk maybe many more
+1 Seer's Sundial #landfall - 2 mana to draw card. we should play a lot of land, hopefully we have a lot of mana to spare for card draw
+1 Shamanic Revelation #all omnath (and titania) tokens have power 5, with a lot of tokens that are a lot of cards (and life)
+1 Tireless Tracker #similar to seer's sundial, but cards can be  drawn anytime
+
+lands matter
+1 Baloth Woodcrasher #Gigantic with big ramp spells
+1 Centaur Vinecrasher #we do routinely send lands to the graveyard, so he can be quite big when he enters. Builtin recursion
+1 Courser of Kruphix #helps with landfall and reliable land drops. life gain is just bonus
+1 Embodiment of Fury #Embodiment of sacrifice your lands! (titania). And shoot damage (omnath). And return the lands after for more Elementals (Omnath)
+1 Embodiment of Insight #see embodiment of fury
+1 Rubblehulk #He gets big. really big. Or he can surprise pump an unblocked attacker to finish someone off
+1 Skarrg Guildmage #trample enabler. Turn lands into elemental creatures. Attack / Block / Sacrifice land creature -> omnath triggers, titania triggers
+1 Titania, Protector of Argoth #sacrifice / kill own lands to create 5/3 elementals. return lands with ramunap excavator or splendid reclamation for omnath tirggers
+1 Ulvenwald Hydra #power and toughness equal number of lands, reach, ramp
+1 Undergrowth Champion #can get really big because of potent ramp spells, not that easy to kill
+
+direct damage (omnath -> elemental sacrifice)
+1 Ashnod's Altar #free sac outlet, 2 colorless
+1 Evolutionary Leap #sac outlet, get creature from library
+1 Goblin Bombardment #free sac outlet, shoot 1 damage
+1 Gratuitous Violence #doubles damage from omnath, stalking vengeance and warstorm surge
+1 Stalking Vengeance #so you sacrifice a 5/5 (or 5/3) elemental creature? How about you do an additional 5 damage to a player in addition to the 3 damage from omnath?
+1 Warstorm Surge #So you sacrificed three lands (elemental creatures) and then returned six lands from the graveyard and created 3 5/3 titania and 6 5/5 omnath token? how about each of those does 5 damage to a creature or a player?
+1 Where Ancients Tread #see above (only can't be doubled by gratuitous violence)

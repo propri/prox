@@ -1,0 +1,100 @@
+Main
+1 Rubinia Soulsinger # !Commander
+1 Clever Impersonator
+1 Clone
+1 Clone Legion
+1 Cloudshift
+1 Eternal Witness
+1 Ghostly Flicker
+1 Lightning Greaves
+1 Nephalia Smuggler
+1 Progenitor Mimic
+1 Sun Titan
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Thousand-Year Elixir
+1 Vizier of Many Faces
+1 Wrath of God
+
+lands
+1 Adarkar Wastes
+1 Bountiful Promenade
+1 Breeding Pool
+1 Canopy Vista
+1 Command Beacon
+1 Command Tower
+1 Exotic Orchard
+9 Forest
+1 Glacial Fortress
+1 Hallowed Fountain
+1 High Market
+1 Hinterland Harbor
+6 Island
+2 Plains
+1 Prairie Stream
+1 Sea of Clouds
+1 Seaside Citadel
+1 Sunpetal Grove
+1 Temple Garden
+1 Temple of Enlightenment
+1 Temple of Mystery
+1 Temple of Plenty
+1 Yavimaya Coast
+
+ramp
+1 Cultivate
+1 Darksteel Ingot
+1 Explosive Vegetation
+1 Farseek
+1 Fellwar Stone
+1 Grow from the Ashes
+1 Kodama's Reach
+1 Nature's Lore
+1 Peregrination
+1 Rampant Growth
+1 Ranger's Path
+1 Sakura-Tribe Elder
+1 Skyshroud Claim
+1 Sol Ring
+1 Urban Evolution
+
+steal
+1 Blatant Thievery
+1 Confiscate
+1 Conjurer's Closet
+1 Control Magic
+1 Corrupted Conscience
+1 Desertion
+1 Empress Galina
+1 Identity Thief
+1 In Bolas's Clutches
+1 Keiga, the Tide Star
+1 Lay Claim
+1 Memnarch
+1 Mind Control
+1 Perplexing Chimera
+1 Persuasion
+1 Ray of Command
+1 Roil Elemental
+1 Supplant Form
+1 Switcheroo
+1 Take Possession
+1 Vedalken Shackles
+1 Willbreaker
+
+draw
+1 Consecrated Sphinx
+1 Mulldrifter
+1 Rhystic Study
+1 Satyr Enchanter
+
+counter
+1 Aethersnatch
+1 Arcane Denial
+1 Counterspell
+1 Disdainful Stroke
+1 Dissolve
+1 Grip of Amnesia
+
+Sideboard
+SB: 1 Bribery

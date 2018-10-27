@@ -1,0 +1,96 @@
+Main
+1 Tatyova, Benthic Druid # !Commander
+1 Amulet of Vigor
+1 Beast Within
+1 Capsize
+1 Cyclonic Rift
+1 Deglamer
+1 Kruphix, God of Horizons
+1 Lightning Greaves
+1 Murkfiend Liege
+1 Nature's Claim
+1 Overbeing of Myth
+1 Psychosis Crawler
+1 Ramunap Excavator
+1 Rhystic Study
+1 Splendid Reclamation
+1 Swiftfoot Boots
+1 Sylvan Safekeeper
+1 Thought Vessel
+1 Tireless Tracker
+1 Wonder
+
+finisher
+1 Aetherflux Reservoir
+1 Avenger of Zendikar
+1 Laboratory Maniac
+1 Multani, Yavimaya's Avatar
+1 Rampaging Baloths
+1 Roil Elemental
+1 Walk the Aeons
+
+lands
+1 Alchemist's Refuge
+1 Bant Panorama
+1 Breeding Pool
+1 Command Tower
+1 Drownyard Temple
+1 Evolving Wilds
+15 Forest
+1 Ghost Town
+1 Hinterland Harbor
+10 Island
+1 Myriad Landscape
+1 Oboro, Palace in the Clouds
+1 Reliquary Tower
+1 Simic Growth Chamber
+1 Sunscorched Desert
+1 Terramorphic Expanse
+1 Yavimaya Coast
+
+counter
+1 Arcane Denial
+1 Counterspell
+1 Deprive
+1 Dissolve
+1 Foil
+1 Mana Leak
+1 Memory Lapse
+1 Thwart
+
+ramp
+1 Azusa, Lost but Seeking
+1 Burgeoning
+1 Courser of Kruphix
+1 Cultivate
+1 Explosive Vegetation
+1 Farseek
+1 Harrow
+1 Kodama's Reach
+1 Nature's Lore
+1 Oracle of Mul Daya
+1 Pir's Whim
+1 Rampant Growth
+1 Sakura-Tribe Elder
+1 Skyshroud Claim
+1 Wayward Swordtooth
+
+engine
+1 Llanowar Scout
+1 Meloku the Clouded Mirror
+1 Patron of the Moon
+1 Retreat to Coralhelm
+1 Sakura-Tribe Scout
+1 Trade Routes
+1 Walking Atlas
+
+recursion
+1 Eternal Witness
+1 Genesis
+1 Verdant Confluence
+
+Sideboard
+SB: 1 Aetherspouts
+SB: 1 Boundless Realms
+SB: 1 Descendant of Soramaro
+SB: 1 Overwhelming Stampede

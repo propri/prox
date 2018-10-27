@@ -1,0 +1,105 @@
+Main
+1 Uril, the Miststalker # !Commander
+1 Sigarda's Aid
+1 Sigil of the Empty Throne
+1 Squee's Embrace
+1 Tiana, Ship's Caretaker
+
+evasion
+1 Asha's Favor
+1 Flickering Ward
+1 Gryff's Boon
+1 Holy Mantle
+1 Messenger's Speed
+1 On Serra's Wings
+1 Rancor
+1 Runes of the Deus
+1 Serra's Embrace
+1 Spirit Mantle
+1 Unflinching Courage
+1 Unquestioned Authority
+
+protection (uril)
+1 Assault Suit
+1 Flickerform
+1 Gift of Immortality
+1 Hyena Umbra
+1 Mammoth Umbra
+1 Shield of the Oversoul
+1 Shielded by Faith
+1 Spider Umbra
+1 Tajuru Preserver
+1 Umbra Mystic
+
+lands
+1 Battlefield Forge
+1 Bountiful Promenade
+1 Brushland
+1 Canopy Vista
+1 Cinder Glade
+1 Clifftop Retreat
+1 Command Tower
+1 Contested Cliffs
+1 Exotic Orchard
+7 Forest
+1 Karplusan Forest
+5 Mountain
+1 Naya Panorama
+7 Plains
+1 Reliquary Tower
+1 Rootbound Crag
+1 Sacred Foundry
+1 Spire Garden
+1 Stomping Ground
+1 Sunpetal Grove
+1 Temple Garden
+
+recursion
+1 Eternal Witness
+1 Replenish
+1 Sun Titan
+
+draw
+1 Argothian Enchantress
+1 Colossal Majesty
+1 Eidolon of Blossoms
+1 Hunter's Prowess
+1 Kor Spiritdancer
+1 Mesa Enchantress
+1 Rishkar's Expertise
+1 Satyr Enchanter
+1 Snake Umbra
+1 Sram, Senior Edificer
+1 Verduran Enchantress
+
+removal / wipe
+1 Beast Within
+1 Chandra's Ignition
+1 Deglamer
+1 Nature's Claim
+1 Path to Exile
+1 Return to Dust
+1 Swords to Plowshares
+1 Winds of Rath
+1 Wrath of God
+
+ramp
+1 Cultivate
+1 Farhaven Elf
+1 Farseek
+1 Kodama's Reach
+1 Nature's Lore
+1 Rampant Growth
+1 Sakura-Tribe Elder
+1 Sol Ring
+1 Wood Elves
+1 Yavimaya Dryad
+
+protection (instant)
+1 Ajani's Presence
+1 Boros Charm
+1 Heroic Intervention
+
+Sideboard
+SB: 1 Aggravated Assault
+SB: 1 Bear Umbra

@@ -1,0 +1,105 @@
+Main
+1 Ghalta, Primal Hunger # !Commander
+1 Asceticism
+1 Heroic Intervention
+1 Lightning Greaves
+1 Overwhelming Stampede
+1 Pathbreaker Ibex
+1 Prowling Serpopard
+1 Scavenging Ooze
+1 Swiftfoot Boots
+1 Triumph of the Hordes
+1 Yeva, Nature's Herald
+
+big boys
+1 Aggressive Mammoth
+1 Dungrove Elder
+1 Forgotten Ancient
+1 Gaea's Revenge
+1 Gigantosaurus
+1 Goreclaw, Terror of Qal Sisma
+1 Kalonian Twingrove
+1 Managorger Hydra
+1 Multani, Yavimaya's Avatar
+1 Rampaging Baloths
+1 Rhonas the Indomitable
+1 Sandwurm Convergence
+1 Steel Leaf Champion
+1 Surrak, the Hunt Caller
+1 Terastodon
+1 Ulvenwald Hydra
+
+ramp
+1 Cultivate
+1 Grow from the Ashes
+1 Karametra's Acolyte
+1 Kodama's Reach
+1 Nature's Lore
+1 Nissa's Pilgrimage
+1 Pir's Whim
+1 Rampant Growth
+1 Sakura-Tribe Elder
+1 Search for Tomorrow
+1 Skyshroud Claim
+1 Sol Ring
+1 Traverse the Outlands
+1 Wood Elves
+
+lands
+1 Command Beacon
+32 Forest
+1 Homeward Path
+1 Nykthos, Shrine to Nyx
+1 Reliquary Tower
+
+draw
+1 Colossal Majesty
+1 Elemental Bond
+1 Greater Good
+1 Harmonize
+1 Hunter's Insight
+1 Life's Legacy
+1 Lifecrafter's Bestiary
+1 Momentous Fall
+1 Ripjaw Raptor
+1 Rishkar's Expertise
+1 Soul of the Harvest
+1 Soul's Majesty
+1 Tireless Tracker
+1 Zendikar Resurgent
+
+removal
+1 Beast Within
+1 Naturalize
+1 Nature's Claim
+1 Reclamation Sage
+1 Song of the Dryads
+1 Thrashing Brontodon
+1 Ulvenwald Tracker
+
+recursion
+1 Eternal Witness
+1 Seasons Past
+
+Sideboard
+SB: 1 Arbor Elf
+SB: 1 Drover of the Mighty
+SB: 1 Druid of the Cowl
+SB: 1 Drumhunter
+SB: 1 Fireshrieker
+SB: 2 Forest
+SB: 1 Garruk's Packleader
+SB: 1 Grappling Hook
+SB: 1 Growing Rites of Itlimoc
+SB: 1 Gyre Sage
+SB: 1 Hunter's Prowess
+SB: 1 Leaf Gilder
+SB: 1 Llanowar Elves
+SB: 1 Praetor's Counsel
+SB: 1 Primalcrux
+SB: 1 Thought Vessel
+SB: 1 Vernal Bloom
+SB: 1 Vorinclex, Voice of Hunger
+SB: 1 Voyaging Satyr
+SB: 1 Wayward Swordtooth
+SB: 1 Wrap in Vigor
