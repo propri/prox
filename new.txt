@@ -301,4 +301,5 @@
 4 Echo Tracer
 4 Weaver of Lies
 2 Primal Whisperer
+2 Nantuko Vigilante
 
