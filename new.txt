@@ -298,4 +298,7 @@
 4 Xenograft
 4 Peacekeeper
 4 Aphetto Runecaster
+4 Echo Tracer
+4 Weaver of Lies
+2 Primal Whisperer
 
