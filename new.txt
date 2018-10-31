@@ -221,7 +221,7 @@
 8 Magus of the Coffers
 4 Makeshift Mannequin
 8 Mana Reflection
-4 Mental Misstep
+8 Mental Misstep
 4 Morbid Curiosity
 4 Mystical Teachings
 4 Nacatl War-Pride
@@ -357,4 +357,7 @@
 4 Whisperwood Elemental
 4 Sorin, Lord of Innistrad
 4 Tibalt, the Fiend-Blooded
+4 Priest of Gix
+4 Darksteel Pendant
+2 Bonesplitter
 
