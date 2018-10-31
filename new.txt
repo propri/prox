@@ -302,4 +302,57 @@
 4 Weaver of Lies
 2 Primal Whisperer
 2 Nantuko Vigilante
+4 Abyssal Persecutor
+4 Angel of Invention
+4 Aven Wind Guide
+4 Azorius Guildmage
+4 Bramblecrush
+4 Brine Elemental
+4 Broodhatch Nantuko
+4 Chromeshell Crab
+4 Combat Celebrant
+4 Consulate Crackdown
+4 Cryptbreaker
+4 Deathmist Raptor
+4 Decimator Beetle
+4 Decree of Justice
+4 Demonlord Belzenlok
+4 Dispossess
+4 Dulcet Sirens
+4 Elvish Rejuvenator
+4 Failure // Comply
+4 Fortune Thief
+4 Garruk's Horde
+4 Hallowed Burial
+4 Hooded Hydra
+4 Hystrodon
+4 Ixidor, Reality Sculptor
+4 Ixidron
+4 Jace, Memory Adept
+4 Jeering Instigator
+4 Kefnet's Last Word
+4 Memory Lapse
+8 Metallic Mimic
+4 Mistfire Weaver
+4 Moment's Peace
+4 Morality Shift
+4 Mystical Tutor
+4 Overwhelming Denial
+4 Rattleclaw Mystic
+4 Sagu Mauler
+4 Salt Road Ambushers
+4 Secret Plans
+4 Secrets of the Golden City
+4 Shaman of Forgotten Ways
+4 Sinister Sabotage
+4 Teferi's Veil
+4 Temur War Shaman
+4 Tezzeret, Master of Metal
+4 The Great Aurora
+4 Trail of Mystery
+4 Undead Warchief
+4 Vizier of Remedies
+4 Vizier of the Menagerie
+4 Weaver of Currents
+4 Whisperwood Elemental
 

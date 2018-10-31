@@ -4,4 +4,14 @@
 1 Stonybrook Banneret
 1 Aether Adept
 1 Vedalken Aethermage
+1 Forest
+1 Swamp
+1 Mountain
+1 Plains
+1 Island
+1 Sow-Covered Forest
+1 Sow-Covered Swamp
+1 Sow-Covered Mountain
+1 Sow-Covered Plains
+1 Sow-Covered Island
 
