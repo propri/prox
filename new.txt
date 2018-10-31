@@ -355,4 +355,6 @@
 4 Vizier of the Menagerie
 4 Weaver of Currents
 4 Whisperwood Elemental
+4 Sorin, Lord of Innistrad
+4 Tibalt, the Fiend-Blooded
 
