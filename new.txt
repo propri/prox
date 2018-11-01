@@ -360,4 +360,5 @@
 4 Priest of Gix
 4 Darksteel Pendant
 2 Bonesplitter
+4 Merchant Scroll
 
