@@ -263,12 +263,9 @@
 4 Ensnare
 4 Terminal Moraine
 4 Stern Proctor
-4 Mizzium Meddler
 4 Words of Wisdom
-4 Star Compass
-4 Domineering Will
 4 Wizard's Retort
-4 Star Compass
+8 Star Compass
 4 Blustersquall
 4 Epiphany at the Drownyard
 4 Sphere of the Suns
