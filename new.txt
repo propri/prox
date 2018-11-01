@@ -411,4 +411,134 @@
 4 Elvish Clancaller
 4 Jagged-Scar Archers
 4 Titania's Chosen
+4 Benalish Marshal
+4 Dwarven Priest
+4 Gallant Cavalry
+4 Militia Bugler
+4 Aerial Responder
+4 Everdawn Champion
+4 Fan Bearer
+4 Inspiring Captain
+4 Mesa Unicorn
+4 Subjugator Angel
+4 Militant Angel
+4 Call the Cavalry
+4 Bright Reprisal
+4 Luminous Bonds
+4 Zahid, Djinn of the Lamp
+4 Sai, Master Thopterist
+4 Aviation Pioneer
+4 Gearsmith Prodigy
+4 Scholar of Stars
+4 Gearsmith Guardian
+4 Skyscanner
+4 Advanced Stitchwing
+4 Air Elemental
+4 Reckless Scholar
+4 Inspired Sphinx
+4 Hydrolash
+4 Graveyard Marshal
+4 Reassembling Skeleton
+4 Rot Hulk
+4 Gruesome Fate
+4 Demanding Dragon
+4 Shivan Dragon
+4 Havoc Devils
+4 Volley Veteran
+4 Seismic Elemental
+4 Eager Construct
+4 Howling Golem
+4 Welder Automaton
+4 Goblin Goliath
+4 Act of Treason
+4 Ghastbark Twins
+4 Giant Spider
+4 Jungle Delver
+4 Eager Construct
+4 Howling Golem
+4 Avatar of Growth
+4 Seek the Wilds
+4 Talons of Wildwood
+2 Stitch in Time
+2 Direct Current
+2 Char
+2 Electrickery
+2 Pyromatics
+2 Turn // Burn
+2 Radical Idea
+2 Boros Reckoner
+4 Legion Loyalist
+2 Firemane Avenger
+2 Spark Trooper
+2 Firemane Angel
+2 Razia, Boros Archangel
+2 Boros Elite
+2 Bomber Corps
+2 Daring Skyjek
+2 Boros Swiftblade
+2 Skyknight Legionnaire
+2 Swiftblade Vindicator
+2 Sunhome Stalwart
+2 Wojek Bodyguard
+2 Blade Instructor
+2 Hammer Dropper
+2 Gird for Battle
+2 Sworn Companions
+2 Master Warcraft
+2 Lightning Helix
+2 Martial Glory
+2 Boros Keyrune
+8 Sunhome, Fortress of the Legion
+2 Lotleth Troll
+2 Deadbridge Goliath
+4 Savra, Queen of the Golgari
+2 Grave-Shell Scarab
+4 Sisters of Stone Death
+2 Slum Reaper
+2 Charnel Troll
+2 Rhizome Lurcher
+2 Golgari Findbroker
+2 Drown in Filth
+2 Darkblast
+2 Necrotic Wound
+2 Deadbridge Chant
+4 Lazav, Dimir Mastermind
+4 Dimir Doppelganger
+2 Nightveil Specter
+4 Mirko Vosk, Mind Drinker
+4 Dimir Guildmage
+2 Moroii
+2 Barrier of Bones
+2 Glimpse the Unthinkable
+2 Call of the Nightwing
+2 Ribbons of Night
+2 Mephitic Vapors
+2 Last Gasp
+2 Warped Physique
+4 Mission Briefing
+2 Unexplained Disappearance
+2 Loxodon Hierarch
+4 Tolsimir Wolfblood
+2 Dryad Militant
+2 Selesnya Evangel
+2 Watchwolf
+2 Centaur Healer
+2 Siege Wurm
+2 Vernadi Shieldmate
+2 Call of the Conclave
+2 Advent of the Wurm
+2 Gather Courage
+2 Devouring Light
+2 Glare of Subdual
+2 Growing Ranks
+2 Privileged Position
+2 Conclave Tribunal
+2 Grove of the Guardian
+2 Tibor and Lumia
+2 Hypersonic Dragon
+2 Djinn Illuminatus
+2 Gelectrode
+2 Wee Dragonauts
+2 Electrostatic Field
+2 Crackling Drake
 
