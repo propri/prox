@@ -14,4 +14,6 @@
 1 Sow-Covered Mountain
 1 Sow-Covered Plains
 1 Sow-Covered Island
+1 Thornweald Archer
+1 Elvish Guidance
 

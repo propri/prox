@@ -50,13 +50,13 @@
 4 Drowned Secrets
 4 Connive // Concoct
 4 Dawn of Hope
-4 Divine Visitation
+8 Divine Visitation
 4 Response // Resurgence
 4 Etrata, the Silencer
 4 Expansion // Explosion
 4 Knight of Autumn
 4 Light of the Legion
-4 Mausoleum Secrets
+8 Mausoleum Secrets
 4 Mnemonic Betrayal
 4 Notion Rain
 4 Omnispell Adept
@@ -84,7 +84,6 @@
 4 Circuitous Route
 4 Emmara, Soul of the Accord
 4 Chaos Imps
-4 Unmoored Ego
 8 Treasure Map
 9 Treasure Cove
 4 Molten Vortex
@@ -140,10 +139,10 @@
 4 Glorybringer
 4 Ice Floe
 4 Impervious Greatwurm
-8 Sylvan Library
+12 Sylvan Library
 4 Mishra, Artificer Prodigy
 4 Mad Auntie
-4 Paradox Engine
+8 Paradox Engine
 4 Baral, Chief of Compliance
 4 Torrential Gearhulk
 4 Sorcerous Spyglass
@@ -199,7 +198,6 @@
 4 Garruk, Primal Hunter
 4 Gisa's Bidding
 4 Goblin Banneret
-4 Goblin Cratermaker
 4 Goblin Electromancer
 16 Grave Titan
 4 Grim Return
@@ -358,4 +356,51 @@
 4 Darksteel Pendant
 2 Bonesplitter
 4 Merchant Scroll
+2 Conclave Cavalier
+2 Creeping Chill
+2 Kraul Harpooner
+2 Firemind's Research
+2 Goblin Cratermaker
+2 Blood Operative
+2 Status // Statue
+2 Lotleth Giant
+4 Unmoored Ego
+4 Experimental Frenzy
+2 Ochran Assassin
+2 Venerated Loxodon
+2 Haazda Marshal
+2 Invert // Invent
+2 Price of Fame
+2 Glaive of the Guildpact
+2 Join Shields
+2 League Guildmage
+2 Conclave Guildmage
+2 Thoughtbound Phantasm
+4 Risk Factor
+2 Inescapable Blaze
+2 Thought Erasure
+2 Nightveil Predator
+2 Glowspore Shaman
+2 Beacon Bolt
+2 Tajic, Legion's Edge
+2 Disinformation Campaign
+2 Arclight Phoenix
+2 Flower // Flourish
+4 Chemister's Insight
+2 Might of the Masses
+4 Elvish Champion
+2 Timberwatch Elf
+2 Wellwisher
+4 Essence Warden
+2 Wirewood Channeler
+2 Drove of Elves
+8 Craterhoof Behemoth
+2 Copperhorn Scout
+2 Sylvan Messenger
+2 Wirewood Herald
+4 Boreal Druid
+8 Green Sun's Zenith
+2 Nettle Sentinel
+2 Response // Resurgence
+2 Presence of Gond
 
