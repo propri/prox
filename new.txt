@@ -403,4 +403,12 @@
 2 Nettle Sentinel
 2 Response // Resurgence
 2 Presence of Gond
+2 Wild Growth
+8 Kiki-Jiki, Mirror Breaker
+4 Aethersphere Harvester
+4 Cultivator's Caravan
+4 Generous Patron
+4 Elvish Clancaller
+4 Jagged-Scar Archers
+4 Titania's Chosen
 
