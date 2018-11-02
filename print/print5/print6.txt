@@ -1,0 +1,47 @@
+4 Undead Warchief
+8 Underrealm Lich
+4 Undying Evil
+2 Unexplained Disappearance
+4 Unmake
+4 Unmoored Ego
+8 Urborg, Tomb of Yawgmoth
+2 Venerated Loxodon
+4 Vengeful Dead
+4 Venser, Shaper Savant
+2 Vernadi Shieldmate
+4 Vivid Revival
+4 Vivien of the Arkbow
+4 Vizier of Remedies
+4 Vizier of the Menagerie
+4 Volley Veteran
+4 Vortex Elemental
+4 Vraska the Unseen
+4 Wandering Fumarole
+2 Warped Physique
+2 Watchwolf
+4 Wayward Servant
+4 Weaver of Currents
+4 Weaver of Lies
+2 Wee Dragonauts
+4 Welder Automaton
+2 Wellwisher
+4 Whim of Volrath
+4 Whispers of the Muse
+4 Whisperwood Elemental
+2 Wild Growth
+4 Will Kenrith
+16 Windswept Heath
+2 Wirewood Channeler
+2 Wirewood Herald
+4 Wizard's Retort
+2 Wojek Bodyguard
+4 Words of Wisdom
+4 World Queller
+8 Worldly Tutor
+4 Xenograft
+4 Zahid, Djinn of the Lamp
+
+8 Boros Charm
+8 Abundance
+8 Disallow
+
