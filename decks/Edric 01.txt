@@ -1,0 +1,94 @@
+Main
+1 Edric, Spymaster of Trest # !Commander
+1 Asceticism
+1 Body Double
+1 Crook of Condemnation
+1 Eternal Witness
+1 Genesis
+1 Heroic Intervention
+1 Karn's Temporal Sundering
+1 Lightning Greaves
+1 Nezahal, Primal Tide
+1 Notorious Throng
+1 Progenitor Mimic
+1 Rite of Replication
+1 Stunt Double
+1 Swiftfoot Boots
+
+ramp
+1 Burgeoning
+1 Exploration
+1 Farseek
+1 Fellwar Stone
+1 Mind Stone
+1 Nature's Lore
+1 Rampant Growth
+1 Sakura-Tribe Elder
+1 Sol Ring
+1 Thought Vessel
+
+evasive
+1 Archetype of Imagination
+1 Dewdrop Spy
+1 Dimensional Infiltrator
+1 Flying Men
+1 Gudul Lurker
+1 Jhessian Infiltrator
+1 Kaseto, Orochi Archmage
+1 Mist-Cloaked Herald
+1 Nebelgast Herald
+1 Nimble Obstructionist
+1 Pestermite
+1 Quickling
+1 Scion of Oona
+1 Scryb Ranger
+1 Silumgar Sorcerer
+1 Slither Blade
+1 Spellstutter Sprite
+1 Tetsuko Umezawa, Fugitive
+1 Triton Shorestalker
+1 Winged Coatl
+
+draw
+1 Bident of Thassa
+1 Overbeing of Myth
+
+lands
+1 Alchemist's Refuge
+1 Breeding Pool
+14 Forest
+1 Hinterland Harbor
+14 Island
+1 Reliquary Tower
+1 Yavimaya Coast
+
+removal
+1 Acidic Slime
+1 Beast Within
+1 Cyclonic Rift
+1 Equilibrium
+1 Naturalize
+1 Nature's Claim
+1 Pongify
+1 Rapid Hybridization
+1 Reclamation Sage
+1 River's Rebuke
+
+counters
+1 Arcane Denial
+1 Counterspell
+1 Disdainful Stroke
+1 Dissipate
+1 Mana Leak
+1 Negate
+1 Swan Song
+
+finisher
+1 Beastmaster Ascension
+1 Craterhoof Behemoth
+1 Triumph of the Hordes
+
+Sideboard
+SB: 1 Delay
+SB: 1 Tatyova, Benthic Druid
+SB: 1 Voidslime
