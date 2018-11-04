@@ -33,4 +33,19 @@
 4 Goblin Trenches
 4 Undercity Plague
 4 Wild Evocation
+16 Wooded Foothills
+4 Neheb, the Worthy
+4 Molten Influence
+4 Purity
+4 Meletis Charlatan
+4 Mystic Enforcer
+4 Prophetic Bolt
+4 Breakthrough
+4 Havengul Runebinder
+16 Polluted Delta
+
+======================
+
+2 Swathcutter Giant
+2 Undercity Necrolisk
 
