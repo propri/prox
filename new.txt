@@ -43,6 +43,20 @@
 4 Breakthrough
 4 Havengul Runebinder
 16 Polluted Delta
+4 Wren's Run Packmaster
+4 Imperious Perfect
+4 Liliana's Mastery
+4 Nissa Revane
+4 Mimic Vat
+4 Endless Ranks of the Dead
+4 Elderscale Wurm
+4 Dryad Arbor
+4 Lord of the Undead
+4 Liliana of the Dark Realms
+4 Novablast Wurm
+4 Joraga Warcaller
+4 Elvish Vanguard
+4 Immaculate Magistrate
 
 ======================
 
