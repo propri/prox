@@ -57,6 +57,9 @@
 4 Joraga Warcaller
 4 Elvish Vanguard
 4 Immaculate Magistrate
+4 Bounty Agent
+4 Lazav, the Multifarious
+8 March of the Multitudes
 
 ======================
 
