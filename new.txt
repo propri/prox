@@ -74,6 +74,8 @@
 4 Scuttlemutt
 4 Plague Myr
 4 Ornithopter
+4 Light of the Legion
+2 Roc Charger
 
 ======================
 
