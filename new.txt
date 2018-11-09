@@ -76,6 +76,16 @@
 4 Ornithopter
 4 Light of the Legion
 2 Roc Charger
+4 Spectral Cloak
+4 Cultivator of Blades
+4 Wildest Dreams
+4 Paradoxical Outcome
+4 Aerial Predation
+4 Fuel for the Cause
+4 Greenweaver Druid
+4 Chaotic Strike
+4 Falkenrath Exterminator
+4 Iron Myr
 
 ======================
 
