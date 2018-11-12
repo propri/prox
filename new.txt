@@ -86,6 +86,15 @@
 4 Chaotic Strike
 4 Falkenrath Exterminator
 4 Iron Myr
+4 Dwynen's Elite
+4 Empty the Pits
+4 Forgotten Creation
+4 From Under the Floorboards
+4 Graf Harvest
+4 Opaline Unicorn
+4 Reverse Damage
+4 River Hoopoe
+4 Wily Goblin
 
 ======================
 
