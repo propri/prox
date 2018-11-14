@@ -132,7 +132,7 @@
 4 Time Stop
 4 Wirewood Symbiote
 4 Woodland Bellower
-4 Chord of Calling
+12 Chord of Calling
 4 Legion's Landing
 4 Adanto, the First Fort
 4 Liliana Vess
