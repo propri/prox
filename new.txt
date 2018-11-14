@@ -100,6 +100,7 @@
 4 Ob Nixilis, Unshackled
 4 Thorn Lieutenant
 4 Zhur-Taa Ancient
+4 Reconnaissance
 
 ======================
 
