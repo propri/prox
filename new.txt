@@ -95,6 +95,11 @@
 4 Reverse Damage
 4 River Hoopoe
 4 Wily Goblin
+4 Knight of the White Orchid
+4 Master of Predicaments
+4 Ob Nixilis, Unshackled
+4 Thorn Lieutenant
+4 Zhur-Taa Ancient
 
 ======================
 
