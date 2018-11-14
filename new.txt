@@ -101,6 +101,41 @@
 4 Thorn Lieutenant
 4 Zhur-Taa Ancient
 8 Reconnaissance
+4 Sarkhan Unbroken
+4 Brute Strength
+4 Crystallization
+4 Double Negative
+4 Dynavolt Tower
+4 Execute
+4 Ghirapur Gearcrafter
+4 Heedless One
+4 Increasing Savagery
+4 Inner Fire
+4 Kiri-Onna
+4 Manakin
+4 Mardu Strike Leader
+4 Mundungu
+4 Sky Skiff
+4 Spirit of the Labyrinth
+4 Swift Silence
+4 Territorial Allosaurus
+4 Wirewood Symbiote
+4 Adaptive Automaton
+4 Elvish Harbinger
+4 Gavony Township
+4 Joraga Treespeaker
+4 Priest of Titania
+4 Rhys the Exiled
+4 Secure the Wastes
+4 Springleaf Drum
+4 Thraben Doomsayer
+4 Time Stop
+4 Wirewood Symbiote
+4 Woodland Bellower
+4 Chord of Calling
+4 Legion's Landing
+4 Adanto, the First Fort
+4 Liliana Vess
 
 ======================
 
