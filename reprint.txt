@@ -3,4 +3,7 @@
 8 Well of Lost Dreams
 8 Sun Titan
 8 Beastmaster Ascension
+16 Command Tower
+8 Commander's Sphere
+16 Sol Ring
 
