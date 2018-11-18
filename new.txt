@@ -184,6 +184,7 @@
 4 Part the Waterveil
 4 Pyretic Ritual
 4 Whirlwind
+4 Sylvan Awakening
 
 ======================
 
