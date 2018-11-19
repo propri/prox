@@ -1,4 +1,4 @@
-8 Nature's Lore
+16 Nature's Lore
 8 Wrath of God
 8 Well of Lost Dreams
 8 Sun Titan
@@ -8,4 +8,73 @@
 16 Sol Ring
 8 Baral, Chief of Compliance
 4 Mystical Tutor
+8 Eternal Witness
+8 Swiftfoot Boots
+8 Lightning Greaves
+8 Utopia Sprawl
+8 Arbor Elf
+4 Wild Growth
+
+8 Adarkar Wastes
+8 Battlefield Forge
+8 Brushland
+8 Caves of Koilos
+8 Karplusan Forest
+8 Llanowar Wastes
+8 Shivan Reef
+8 Sulfurous Springs
+8 Underground River
+8 Yavimaya Coast
+8 Blood Crypt
+8 Breeding Pool
+8 Godless Shrine
+8 Hallowed Fountain
+8 Overgrown Tomb
+8 Sacred Foundry
+8 Steam Vents
+8 Stomping Ground
+8 Temple Garden
+8 Watery Grave
+8 Clifftop Retreat
+8 Dragonskull Summit
+8 Drowned Catacomb
+8 Glacial Fortress
+8 Hinterland Harbor
+8 Isolated Chapel
+8 Rootbound Crag
+8 Sulfur Falls
+8 Sunpetal Grove
+8 Woodland Cemetery
+8 Canopy Vista
+8 Cinder Glade
+8 Prairie Stream
+8 Smoldering Marsh
+8 Sunken Hollow
+8 Bountiful Promenade
+8 Luxury Suite
+8 Morphic Pool
+8 Sea of Clouds
+8 Spire Garden
+8 Temple of Abandon
+8 Temple of Deceit
+8 Temple of Enlightenment
+8 Temple of Epiphany
+8 Temple of Malady
+8 Temple of Malice
+8 Temple of Mystery
+8 Temple of Plenty
+8 Temple of Silence
+8 Temple of Triumph
+16 Bloodstained Mire
+16 Flooded Strand
+16 Polluted Delta
+16 Windswept Heath
+16 Wooded Foothills
+8 Cascade Bluffs
+8 Darkwater Catacombs
+8 Graven Cairns
+8 Mossfire Valley
+8 Shadowblood Ridge
+8 Sungrass Prairie
+8 Sunken Ruins
 
