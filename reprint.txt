@@ -79,3 +79,4 @@
 16 Sungrass Prairie
 16 Sunken Ruins
 
+8 Maze of Ith
