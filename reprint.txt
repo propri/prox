@@ -6,4 +6,5 @@
 16 Command Tower
 8 Commander's Sphere
 16 Sol Ring
+8 Baral, Chief of Compliance
 

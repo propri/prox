@@ -136,6 +136,8 @@
 4 Legion's Landing
 4 Adanto, the First Fort
 4 Liliana Vess
+4 Heartless Hidetsugu
+4 Hanna, Ship's Navigator
 
 ======================
 
