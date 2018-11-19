@@ -14,67 +14,68 @@
 8 Utopia Sprawl
 8 Arbor Elf
 4 Wild Growth
+8 Search for Tomorrow
 
-8 Adarkar Wastes
-8 Battlefield Forge
-8 Brushland
-8 Caves of Koilos
-8 Karplusan Forest
-8 Llanowar Wastes
-8 Shivan Reef
-8 Sulfurous Springs
-8 Underground River
-8 Yavimaya Coast
-8 Blood Crypt
-8 Breeding Pool
-8 Godless Shrine
-8 Hallowed Fountain
-8 Overgrown Tomb
-8 Sacred Foundry
-8 Steam Vents
-8 Stomping Ground
-8 Temple Garden
-8 Watery Grave
-8 Clifftop Retreat
-8 Dragonskull Summit
-8 Drowned Catacomb
-8 Glacial Fortress
-8 Hinterland Harbor
-8 Isolated Chapel
-8 Rootbound Crag
-8 Sulfur Falls
-8 Sunpetal Grove
-8 Woodland Cemetery
-8 Canopy Vista
-8 Cinder Glade
-8 Prairie Stream
-8 Smoldering Marsh
-8 Sunken Hollow
-8 Bountiful Promenade
-8 Luxury Suite
-8 Morphic Pool
-8 Sea of Clouds
-8 Spire Garden
-8 Temple of Abandon
-8 Temple of Deceit
-8 Temple of Enlightenment
-8 Temple of Epiphany
-8 Temple of Malady
-8 Temple of Malice
-8 Temple of Mystery
-8 Temple of Plenty
-8 Temple of Silence
-8 Temple of Triumph
-16 Bloodstained Mire
-16 Flooded Strand
-16 Polluted Delta
-16 Windswept Heath
-16 Wooded Foothills
-8 Cascade Bluffs
-8 Darkwater Catacombs
-8 Graven Cairns
-8 Mossfire Valley
-8 Shadowblood Ridge
-8 Sungrass Prairie
-8 Sunken Ruins
+16 Adarkar Wastes
+16 Battlefield Forge
+16 Brushland
+16 Caves of Koilos
+16 Karplusan Forest
+16 Llanowar Wastes
+16 Shivan Reef
+16 Sulfurous Springs
+16 Underground River
+16 Yavimaya Coast
+16 Blood Crypt
+16 Breeding Pool
+16 Godless Shrine
+16 Hallowed Fountain
+16 Overgrown Tomb
+16 Sacred Foundry
+16 Steam Vents
+16 Stomping Ground
+16 Temple Garden
+16 Watery Grave
+16 Clifftop Retreat
+16 Dragonskull Summit
+16 Drowned Catacomb
+16 Glacial Fortress
+16 Hinterland Harbor
+16 Isolated Chapel
+16 Rootbound Crag
+16 Sulfur Falls
+16 Sunpetal Grove
+16 Woodland Cemetery
+16 Canopy Vista
+16 Cinder Glade
+16 Prairie Stream
+16 Smoldering Marsh
+16 Sunken Hollow
+16 Bountiful Promenade
+16 Luxury Suite
+16 Morphic Pool
+16 Sea of Clouds
+16 Spire Garden
+16 Temple of Abandon
+16 Temple of Deceit
+16 Temple of Enlightenment
+16 Temple of Epiphany
+16 Temple of Malady
+16 Temple of Malice
+16 Temple of Mystery
+16 Temple of Plenty
+16 Temple of Silence
+16 Temple of Triumph
+32 Bloodstained Mire
+32 Flooded Strand
+32 Polluted Delta
+32 Windswept Heath
+32 Wooded Foothills
+16 Cascade Bluffs
+16 Darkwater Catacombs
+16 Graven Cairns
+16 Mossfire Valley
+16 Shadowblood Ridge
+16 Sungrass Prairie
+16 Sunken Ruins
 
