@@ -130,7 +130,6 @@
 4 Springleaf Drum
 4 Thraben Doomsayer
 4 Time Stop
-4 Wirewood Symbiote
 4 Woodland Bellower
 12 Chord of Calling
 4 Legion's Landing
@@ -138,6 +137,56 @@
 4 Liliana Vess
 4 Heartless Hidetsugu
 4 Hanna, Ship's Navigator
+4 Abnormal Endurance
+4 Bloodfire Colossus
+4 Caldera Hellion
+4 Cemetery Recruitment
+4 Enrage
+4 Font of Fertility
+4 Frenzied Rage
+4 Infernal Offering
+4 Jabari's Influence
+4 Kukemssa Pirates
+4 Noxious Ghoul
+4 Reito Lantern
+4 Roar of the Crowd
+4 Scarwood Bandits
+4 Shadows of the Past
+4 Sylvan Offering
+4 Waterveil Cavern
+4 Bestial Fury
+4 Blood Pet
+4 Citadel of Pain
+4 Corpse Connoisseur
+4 Corpse Harvester
+4 Drain Power
+4 Fiery Mantle
+4 Fungal Sprouting
+4 Ghoulcaller's Chant
+4 Mastermind's Acquisition
+4 Nature's Chosen
+4 Sensation Gorger
+4 Skinrender
+4 Spelltithe Enforcer
+4 Tel-Jilad Stylus
+4 Walking Archive
+4 Withered Wretch
+4 Zombie Master
+4 Blisterpod
+4 Bloodsoaked Champion
+4 Broken Ambitions
+4 Dark Ritual
+4 Dark Salvation
+4 Darksteel Axe
+4 Defiler of Souls
+4 Geralf's Mindcrusher
+4 Gnarlroot Trapper
+4 Hammerhand
+4 Overflowing Insight
+4 Part the Waterveil
+4 Pyretic Ritual
+4 Whirlwind
+4 Sylvan Awakening
 
 ======================
 

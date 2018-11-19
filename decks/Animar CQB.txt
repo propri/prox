@@ -1,0 +1,84 @@
+1 Animar, Soul of Elements
+1 Ainok Survivalist
+1 Akroma, Angel of Fury
+1 Ancestral Statue
+1 Aphetto Runecaster
+1 Bant Panorama
+1 Beast Whisperer
+1 Beastcaller Savant
+1 Brine Elemental
+1 Broodhatch Nantuko
+1 Chromeshell Crab
+1 Cloud of Faeries
+1 Dawntreader Elk
+1 Den Protector
+1 Diligent Farmhand
+1 Drover of the Mighty
+1 Dulcet Sirens
+1 Echo Tracer
+1 Elvish Rejuvenator
+1 Equilibrium
+1 Evolving Wilds
+1 Farhaven Elf
+1 Fathom Seer
+1 Fertilid
+10 Forest
+1 Forgotten Ancient
+1 Fortune Thief
+1 Frontier Bivouac
+1 Garruk's Horde
+1 Grixis Panorama
+1 Gruul Turf
+1 Hooded Hydra
+1 Hystrodon
+1 Icefeather Aven
+7 Island
+1 Ixidor, Reality Sculptor
+1 Ixidron
+1 Izzet Boilerworks
+1 Jeering Instigator
+1 Jund Panorama
+1 Kheru Spellsnatcher
+1 Master of the Veil
+1 Mischievous Quanar
+1 Mistfire Weaver
+2 Mountain
+1 Nantuko Vigilante
+1 Naya Panorama
+1 Opal Palace
+1 Paradoxical Outcome
+1 Peregrine Drake
+1 Primal Whisperer
+1 Primordial Sage
+1 Rattleclaw Mystic
+1 Riptide Entrancer
+1 Riptide Survivor
+1 Rugged Highlands
+1 Sagu Mauler
+1 Sakura-Tribe Elder
+1 Salt Road Ambushers
+1 Secret Plans
+1 Silumgar Spell-Eater
+1 Simic Growth Chamber
+1 Soul of the Harvest
+1 Stratus Dancer
+1 Swiftwater Cliffs
+1 Temur Sabertooth
+1 Temur War Shaman
+1 Terminal Moraine
+1 Terramorphic Expanse
+1 Thelonite Hermit
+1 Thornwood Falls
+1 Thought Harvester
+1 Thousand Winds
+1 Tidespout Tyrant
+1 Tishana, Voice of Thunder
+1 Trail of Mystery
+1 Unblinking Bleb
+1 Vesuvan Shapeshifter
+1 Voidmage Apprentice
+1 Warped Landscape
+1 Weaver of Lies
+1 Whisperwood Elemental
+1 Willbender
+1 Yavimaya Granger
