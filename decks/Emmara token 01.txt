@@ -1,0 +1,96 @@
+Main
+1 Emmara, Soul of the Accord # !Commander
+1 Beastmaster Ascension
+1 Craterhoof Behemoth
+1 Elspeth, Sun's Champion
+1 Eternal Witness
+1 Huatli, Radiant Champion
+1 Reconnaissance
+1 Shalai, Voice of Plenty
+1 Sun Titan
+1 Swiftfoot Boots
+1 Thornbite Staff
+
+ramp
+1 Ashnod's Altar
+1 Cultivate
+1 Farseek
+1 Growing Rites of Itlimoc
+1 Harvest Season
+1 Kodama's Reach
+1 Mirari's Wake
+1 Nature's Lore
+1 Pir's Whim
+1 Rampant Growth
+1 Sakura-Tribe Elder
+1 Sol Ring
+1 Springleaf Drum
+
+removal
+1 Aura Shards
+1 Beast Within
+1 Citywide Bust
+1 Disenchant
+1 Martial Coup
+1 Mass Calcify
+1 Naturalize
+1 Nature's Claim
+1 Nullmage Shepherd
+1 Path to Exile
+1 Sundering Growth
+1 Swords to Plowshares
+1 Wrath of God
+
+lands
+1 Bountiful Promenade
+1 Canopy Vista
+1 Command Tower
+1 Flooded Strand
+12 Forest
+1 Gavony Township
+1 Holdout Settlement
+1 Maze of Ith
+1 Memorial to Glory
+11 Plains
+1 Sunpetal Grove
+1 Survivors' Encampment
+1 Temple Garden
+1 Windswept Heath
+1 Wirewood Lodge
+1 Wooded Foothills
+
+draw
+1 Camaraderie
+1 Harmonize
+1 Mentor of the Meek
+1 Shamanic Revelation
+1 Skullclamp
+1 Well of Lost Dreams
+
+tap
+1 Aethersphere Harvester
+1 Cryptolith Rite
+1 Cultivator's Caravan
+1 Impervious Greatwurm
+1 Paradise Mantle
+1 Quest for Renewal
+1 Seedborn Muse
+1 Sky Skiff
+1 Smuggler's Copter
+1 Sword of the Paruns
+
+token support
+1 Anointed Procession
+1 Cathars' Crusade
+1 Dawn of Hope
+1 Divine Visitation
+1 Doubling Season
+1 Legion's Landing
+1 March of the Multitudes
+1 Parallel Lives
+1 Rootborn Defenses
+1 Secure the Wastes
+
+Sideboard
+SB: 1 Crush Contraband
+SB: 1 White Sun's Zenith
