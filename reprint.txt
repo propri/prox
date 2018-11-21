@@ -15,6 +15,25 @@
 8 Arbor Elf
 4 Wild Growth
 8 Search for Tomorrow
+2 Lord Windgrace
+2 Animatou, the Fateshifter
+2 Arixmethes, Slumbering Isle
+2 Brudiclad, Telchor Engineer
+2 Estrid, the Masked
+2 Gyrus, Waker of Corpses
+2 Kestia, the Cultivator
+2 Saheeli, the Gifted
+2 Tawnos, Urza's Apprentice
+2 Thantis, the Warweaver
+2 Tuvasa the Sunlit
+2 Varchild, Betrayer of Kjeldor
+2 Varina, Lich Queen
+2 Xantcha, Sleeper Agent
+2 Yennett, Cryptic Sovereign
+2 Yuriko, the Tiger's Shadow
+2 Bruna, Light of Alabaster
+2 Daxos of Meletis
+2 Budoka Gardener
 
 16 Adarkar Wastes
 16 Battlefield Forge
