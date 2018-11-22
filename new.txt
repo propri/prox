@@ -188,6 +188,34 @@
 4 Whirlwind
 4 Sylvan Awakening
 4 Mogg Maniac
+2 Grazing Gladeheart
+4 Sylvan Awakening
+4 Epitaph Golem
+4 Priest of Urabrask
+4 Raving Dead
+4 Shu Farmer
+4 Zombie Trailblazer
+4 Ajani's Mantra
+4 Ashes of the Abhorrent
+4 Deathgreeter
+4 Diamond Mare
+4 Dread Slaver
+4 Emeria Angel
+4 Ezuri, Renegade Leader
+4 Ghost-Lit Redeemer
+4 Gilt-Leaf Ambush
+4 Kingpin's Pet
+4 Mitotic Slime
+4 Mourning Thrull
+4 Nyx-Fleece Ram
+4 Sungrace Pegasus
+4 Unbreathing Horde
+4 Compelling Deterrence
+4 Emeria Shepherd
+4 Necromancer's Stockpile
+4 Tablet of the Guilds
+4 Thran Turbine
+4 Vault Skirge
 
 ======================
 

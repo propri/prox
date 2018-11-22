@@ -34,6 +34,7 @@
 2 Bruna, Light of Alabaster
 2 Daxos of Meletis
 2 Budoka Gardener
+4 Privileged Position
 
 16 Adarkar Wastes
 16 Battlefield Forge
