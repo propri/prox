@@ -47,6 +47,26 @@
 8 Propaganda
 8 Ghostly Prison
 4 Splendid Reclamation
+8 Purphoros, God of the Forge
+2 Adeliz, the Cinder Wind
+12 Azusa, Lost but Seeking
+2 Balan, Wandering Knight
+2 Evra, Halcyon Witness
+2 Grand Warlord Radha
+2 Kess, Dissident Mage
+2 Mirri, Weatherlight Duelist
+2 Naban, Dean of Iteration
+4 Omnath, Locus of Rage
+4 Prime Speaker Zegana
+2 Rona, Disciple of Gix
+2 Shanna, Sisay's Legacy
+2 Slimefoot, the Stowaway
+2 Slinn Voda, the Rising Deep
+4 Tetsuko Umezawa, Fugitive
+2 Urgoros, the Empty One
+4 Yargle, Glutton of Urborg
+4 Zacama, Primal Calamity
+4 Ghalta, Primal Hunger
 
 16 Adarkar Wastes
 16 Battlefield Forge
@@ -110,5 +130,4 @@
 16 Shadowblood Ridge
 16 Sungrass Prairie
 16 Sunken Ruins
-
 8 Maze of Ith
