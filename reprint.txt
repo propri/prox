@@ -38,6 +38,10 @@
 8 Avenger of Zendikar
 4 Azusa, Lost but Seeking
 4 Wayward Swordtooth
+8 Ulvenwald Hydra
+8 Multani, Yavimaya's Avatar
+8 Blasphemous Act
+8 Ashnod's Altar
 
 16 Adarkar Wastes
 16 Battlefield Forge
