@@ -43,6 +43,10 @@
 8 Blasphemous Act
 8 Ashnod's Altar
 16 Cyclonic Rift
+8 Ghostly Prison
+8 Propaganda
+8 Ghostly Prison
+4 Splendid Reclamation
 
 16 Adarkar Wastes
 16 Battlefield Forge
