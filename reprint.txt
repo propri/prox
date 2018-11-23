@@ -35,6 +35,9 @@
 2 Daxos of Meletis
 2 Budoka Gardener
 4 Privileged Position
+8 Avenger of Zendikar
+4 Azusa, Lost but Seeking
+4 Wayward Swordtooth
 
 16 Adarkar Wastes
 16 Battlefield Forge
