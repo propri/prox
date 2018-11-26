@@ -48,6 +48,21 @@
 8 Ghostly Prison
 4 Splendid Reclamation
 8 Purphoros, God of the Forge
+4 Kruphix, God of Horizons
+4 Athreos, God of Passage
+4 Ephara, God of the Polis
+4 Erebos, God of the Dead
+4 Heliod, God of the Sun
+8 Iroas, God of Victory
+4 Karametra, God of Harvest
+4 Keranos, God of Storms
+4 Mogis, God of Slaughter
+4 Nylea, God of the Hunt
+4 Pharika, God of Affliction
+4 Phenax, God of Deception
+4 Thassa, God of the Sea
+4 Xenagos, God of Revels
+
 2 Adeliz, the Cinder Wind
 12 Azusa, Lost but Seeking
 2 Balan, Wandering Knight
