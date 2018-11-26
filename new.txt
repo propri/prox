@@ -216,6 +216,7 @@
 4 Tablet of the Guilds
 4 Thran Turbine
 4 Vault Skirge
+8 Kusari-Gama
 
 ======================
 
