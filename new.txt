@@ -218,9 +218,16 @@
 4 Vault Skirge
 8 Kusari-Gama
 4 Trailblazer's Boots
+4 Armory of Iroas
+4 Champion's Helm
+4 Deploy to the Front
+4 Fountain of Youth
+4 Graveborn Muse
+4 Minion Reflector
+4 Bramblewood Paragon
+4 Masterwork of Ingenuity
 
 ======================
 
 2 Swathcutter Giant
 2 Undercity Necrolisk
-

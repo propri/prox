@@ -62,6 +62,7 @@
 4 Phenax, God of Deception
 4 Thassa, God of the Sea
 4 Xenagos, God of Revels
+8 Torment of Hailfire
 
 2 Adeliz, the Cinder Wind
 12 Azusa, Lost but Seeking
