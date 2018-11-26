@@ -217,6 +217,7 @@
 4 Thran Turbine
 4 Vault Skirge
 8 Kusari-Gama
+4 Trailblazer's Boots
 
 ======================
 
