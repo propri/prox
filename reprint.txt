@@ -67,6 +67,7 @@
 4 Hammer of Nazahn
 8 Vandalblast
 8 Sword of the Animist
+4 Aggravated Assault
 
 2 Adeliz, the Cinder Wind
 12 Azusa, Lost but Seeking
