@@ -68,6 +68,7 @@
 8 Vandalblast
 8 Sword of the Animist
 4 Aggravated Assault
+8 Impact Tremors
 
 2 Adeliz, the Cinder Wind
 12 Azusa, Lost but Seeking
