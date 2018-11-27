@@ -63,6 +63,10 @@
 4 Thassa, God of the Sea
 4 Xenagos, God of Revels
 8 Torment of Hailfire
+4 Goblin Bombardment
+4 Hammer of Nazahn
+8 Vandalblast
+8 Sword of the Animist
 
 2 Adeliz, the Cinder Wind
 12 Azusa, Lost but Seeking
