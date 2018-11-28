@@ -153,3 +153,7 @@
 16 Sungrass Prairie
 16 Sunken Ruins
 8 Maze of Ith
+8 High Market
+8 Command Beacon
+8 Homeward Path
+
