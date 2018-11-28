@@ -157,4 +157,5 @@
 8 Command Beacon
 8 Homeward Path
 8 Arcane Lighthouse
+16 Bojuka Bog
 
