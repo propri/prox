@@ -69,6 +69,8 @@
 8 Sword of the Animist
 4 Aggravated Assault
 8 Impact Tremors
+2 Treasure Nabber
+4 Myojin of Cleansing Fire
 
 2 Adeliz, the Cinder Wind
 12 Azusa, Lost but Seeking
@@ -158,4 +160,5 @@
 8 Homeward Path
 8 Arcane Lighthouse
 16 Bojuka Bog
+8 Esper Panorama
 
