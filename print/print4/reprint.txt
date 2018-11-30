@@ -19,6 +19,7 @@
 8 Nature's Lore
 4 Edric, Spymaster of Trest
 8 Roil Elemental
+4 Umbral Mantle
 
 8 Blood Crypt
 8 Breeding Pool
