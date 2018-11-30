@@ -71,6 +71,7 @@
 8 Impact Tremors
 2 Treasure Nabber
 4 Myojin of Cleansing Fire
+4 Umbral Mantle
 
 2 Adeliz, the Cinder Wind
 12 Azusa, Lost but Seeking
@@ -161,4 +162,5 @@
 8 Arcane Lighthouse
 16 Bojuka Bog
 8 Esper Panorama
+8 Nykthos, Shrine to Nyx
 

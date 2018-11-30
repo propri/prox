@@ -226,6 +226,7 @@
 4 Minion Reflector
 4 Bramblewood Paragon
 4 Masterwork of Ingenuity
+8 Crystal Vein
 
 ======================
 
