@@ -9,4 +9,8 @@
 1 Increasing Savagery
 1 Elvish Vanguard
 1 Reconnaissance
-
+1 Lord Windgrace
+1 Emeria Angel
+1 Emeria Shepherd
+1 Fyndhorn Elves
+1 Birds of Paradise
