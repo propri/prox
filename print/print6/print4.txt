@@ -1,0 +1,87 @@
+7 Sun Titan
+4 Sungrace Pegasus
+16 Sungrass Prairie
+16 Sunken Hollow
+16 Sunken Ruins
+16 Sunpetal Grove
+2 Swathcutter Giant
+4 Swift Silence
+8 Swiftfoot Boots
+8 Sword of the Animist
+4 Sylvan Awakening
+4 Sylvan Offering
+4 Tablet of the Guilds
+4 Tamiyo, Field Researcher
+2 Tawnos, Urza's Apprentice
+4 Tel-Jilad Stylus
+16 Temple Garden
+16 Temple of Abandon
+16 Temple of Deceit
+16 Temple of Enlightenment
+16 Temple of Epiphany
+16 Temple of Malady
+16 Temple of Malice
+16 Temple of Mystery
+16 Temple of Plenty
+16 Temple of Silence
+16 Temple of Triumph
+4 Territorial Allosaurus
+4 Tetsuko Umezawa, Fugitive
+2 Thantis, the Warweaver
+4 Thassa, God of the Sea
+4 Thorn Lieutenant
+4 Thought Harvester
+4 Thraben Doomsayer
+4 Thran Turbine
+4 Time Stop
+8 Torment of Hailfire
+4 Trailblazer's Boots
+4 Tranquil Grove
+2 Treasure Nabber
+2 Tuvasa the Sunlit
+8 Ulvenwald Hydra
+4 Umbral Mantle
+4 Unbreathing Horde
+2 Undercity Necrolisk
+4 Undercity Plague
+16 Underground River
+2 Urgoros, the Empty One
+8 Utopia Sprawl
+8 Vandalblast
+2 Varchild, Betrayer of Kjeldor
+2 Varina, Lich Queen
+4 Vault Skirge
+4 Vines of the Recluse
+4 Vitalize
+4 Walking Archive
+4 Warped Devotion
+4 Waterveil Cavern
+16 Watery Grave
+4 Wayward Swordtooth
+8 Well of Lost Dreams
+4 Whirlwind
+4 Wild Evocation
+4 Wild Growth
+4 Wildest Dreams
+4 Wily Goblin
+32 Windswept Heath
+4 Wirewood Lodge
+4 Wirewood Symbiote
+4 Withered Wretch
+48 Wooded Foothills
+4 Woodland Bellower
+16 Woodland Cemetery
+4 Words of Wilding
+8 Wrath of God
+4 Wren's Run Packmaster
+2 Xantcha, Sleeper Agent
+4 Xenagos, God of Revels
+4 Yargle, Glutton of Urborg
+16 Yavimaya Coast
+2 Yennett, Cryptic Sovereign
+2 Yuriko, the Tiger's Shadow
+4 Zacama, Primal Calamity
+4 Zada, Hedron Grinder
+4 Zhur-Taa Ancient
+4 Zombie Master
+4 Zombie Trailblazer
