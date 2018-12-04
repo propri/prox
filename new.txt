@@ -186,7 +186,6 @@
 4 Part the Waterveil
 4 Pyretic Ritual
 4 Whirlwind
-4 Sylvan Awakening
 4 Mogg Maniac
 2 Grazing Gladeheart
 4 Sylvan Awakening
@@ -227,8 +226,5 @@
 4 Bramblewood Paragon
 4 Masterwork of Ingenuity
 8 Crystal Vein
-
-======================
-
 2 Swathcutter Giant
 2 Undercity Necrolisk
