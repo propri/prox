@@ -33,7 +33,7 @@
 2 Grand Warlord Radha
 4 Graveborn Muse
 16 Graven Cairns
-2 Grazing Gladeheart
+2 Grazing Gladehart
 4 Greenweaver Druid
 2 Gyrus, Waker of Corpses
 16 Hallowed Fountain
@@ -67,7 +67,7 @@
 4 Joraga Treespeaker
 4 Joraga Warcaller
 4 Kamahl's Druidic Vow
-4 Karametra, God of Harvest
+4 Karametra, God of Harvests
 16 Karplusan Forest
 4 Keranos, God of Storms
 2 Kess, Dissident Mage
