@@ -1,4 +1,75 @@
 4 Tunneling Geopede
 4 Cranial Plating
 1 Cloudgoat Ranger
+4 Awakening Zone
+4 Battle Screech
+4 Bind
+4 Concordant Crossroads
+4 Conqueror's Pledge
+4 Decimator of the Provinces
+4 Decorated Champion
+4 Demonic Pact
+4 Deserted Temple
+4 Elvish Promenade
+4 Emerald Medallion
+4 Freyalise, Llanowar's Fury
+4 Meglonoth
+4 Purify
+4 Quirion Ranger
+4 Repulse
+4 Succumb to Temptation
+4 Woebringer Demon
+4 Demonic Tutor
+4 Chromium, the Mutable
+4 Ranger of Eos
+4 Archdemon of Unx
+4 Bastion Protector
+4 Call to the Grave
+4 Gather the Townsfolk
+4 Geist-Honored Monk
+4 Gigantomancer
+4 Intrepid Hero
+4 Invisible Stalker
+4 Panglacial Wurm
+4 Promise of Power
+4 Royal Assassin
+4 Skirsdag High Priest
+4 Spectral Procession
+4 Tocatli Honor Guard
+4 Twilight Drover
+4 Dream Eater
+4 Phyrexian Tower
+4 Sengir Autocrat
+4 Siren's Ruse
+4 Squirrel Nest
+4 Mana Vault
+4 Angelic Renewal
+4 Angel of Despair
+4 Beckon Apparition
+4 Boneyard Wurm
+4 Circular Logic
+4 Eldrazi Conscription
+4 Glen Elendra Archmage
+4 Lord of Extinction
+4 Magus of the Bazaar
+4 Miraculous Recovery
+4 Penumbra Wurm
+4 Sigarda, Host of Herons
+4 Sigil of the New Dawn
+4 Songs of the Damned
+4 Woodfall Primus
+4 Arcane Laboratory
+4 Deploy the Gatewatch
+4 Reanimate
+4 Spoils of the Vault
+4 Temporal Manipulation
+4 Zo-Zu the Punisher
+4 Benevolent Offering
+4 Land's Edge
+4 Lashwrithe
+4 Market Festival
+4 Signal the Clans
+4 Spirit Cairn
+4 Stream of Consciousness
+4 Ancient Tomb
 
