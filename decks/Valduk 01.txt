@@ -1,0 +1,90 @@
+Main
+1 Valduk, Keeper of the Flame # !Commander
+1 Aggravated Assault
+1 Goblin War Drums
+1 Grenzo, Havoc Raiser
+1 Outpost Siege
+1 Seize the Day
+1 Stalking Vengeance
+1 Trading Post
+1 World at War
+
+lands
+1 Command Beacon
+1 High Market
+1 Homeward Path
+35 Mountain
+
+equipment
+1 Argentum Armor
+1 Armory of Iroas
+1 Blade of the Bloodchief
+1 Bloodforged Battle-Axe
+1 Bone Saw
+1 Bonesplitter
+1 Champion's Helm
+1 Darksteel Axe
+1 Darksteel Plate
+1 Dragon Throne of Tarkir
+1 Hammer of Nazahn
+1 Hero's Blade
+1 Mask of Avacyn
+1 Mask of Memory
+1 Rogue's Gloves
+1 Shuko
+1 Sigiled Sword of Valeron
+1 Swiftfoot Boots
+1 Sword of the Animist
+1 Trailblazer's Boots
+
+aura
+1 Bravado
+1 Dragon Mantle
+1 Fiery Mantle
+
+ramp
+1 Ashnod's Altar
+1 Brass Squire #'ramp' for equip costs
+1 Curse of Opulence
+1 Mind Stone
+1 Sol Ring
+1 Solemn Simulacrum
+
+pump
+1 Coat of Arms
+1 Shared Animosity
+
+draw
+1 Skullclamp
+1 Treasure Map
+
+etbs
+1 Impact Tremors
+1 Purphoros, God of the Forge
+1 Warstorm Surge
+
+sac outlets
+1 Culling Dais
+1 Goblin Bombardment
+1 Greater Gargadon
+1 Spawning Pit
+1 Tooth and Claw
+
+removal
+1 Banefire
+1 Blasphemous Act
+1 By Force
+1 Chain Reaction
+1 Chandra's Ignition #how big does valduk get? is it worth it?
+1 Chaos Warp
+1 Earthquake
+1 Lightning Bolt
+1 Massive Raid
+1 Shattering Spree
+1 Smelt
+1 Vandalblast
+
+Sideboard
+SB: 1 Bestial Fury
+SB: 1 Frenzied Rage
+SB: 1 Hammerhand #possible cut?
