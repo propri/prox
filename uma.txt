@@ -1,0 +1,193 @@
+1 Aethersnipe 
+1 Akroan Crusader 
+1 All Is Dust 
+1 Angel of Despair 
+1 Angelic Renewal 
+1 Anger 
+1 Appetite for Brains 
+1 Archaeomancer 
+1 Arena Athlete 
+1 Basking Rootwalla 
+1 Beckon Apparition 
+1 Become Immense 
+1 Bitterblossom 
+1 Blast of Genius 
+1 Bloodflow Connoisseur 
+1 Brawn 
+1 Brazen Scourge 
+1 Buried Alive 
+1 Canker Abomination 
+1 Cathodion 
+1 Celestial Colonnade 
+1 Chainer's Edict 
+1 Circular Logic 
+1 Conflagrate 
+1 Containment Priest 
+1 Conviction 
+1 Countersquall 
+1 Creeping Tar Pit 
+1 Crow of Dark Tidings 
+1 Crushing Canopy 
+1 Dakmor Salvage 
+1 Dark Dabbling 
+1 Dawn Charm 
+1 Death Denied 
+1 Defy Gravity 
+1 Deranged Assistant 
+1 Desolate Lighthouse 
+1 Desperate Ritual 
+1 Devoted Druid 
+1 Dig Through Time 
+1 Dimir Guildmage 
+1 Double Cleave 
+1 Dreamscape Artist 
+1 Eel Umbra 
+1 Emancipation Angel 
+1 Engineered Explosives 
+1 Entomb 
+1 Eternal Witness 
+1 Faith's Fetters 
+1 Faithless Looting 
+1 Fauna Shaman 
+1 Fecundity 
+1 Fiend Hunter 
+1 Fiery Temper 
+1 Fire // Ice 
+1 Flight of Fancy 
+1 Foil 
+1 Frantic Search 
+1 Fulminator Mage 
+1 Fume Spitter 
+1 Furnace Celebration 
+1 Gaddock Teeg 
+1 Gamble 
+1 Garna, the Bloodflame 
+1 Generator Servant 
+1 Ghoulcaller's Accomplice 
+1 Ghoulsteed 
+1 Gods Willing 
+1 Golgari Brownscale 
+1 Golgari Thug 
+1 Grave Scrabbler 
+1 Grave Strength 
+1 Groundskeeper 
+1 Gurmag Angler 
+1 Heap Doll 
+1 Heliod's Pilgrim 
+1 Hero of Iroas 
+1 Hero of Leina Tower 
+1 Hissing Iguanar 
+1 Hooting Mandrills 
+1 Hyena Umbra 
+1 Icatian Crier 
+1 Ingot Chewer 
+1 Just the Wind 
+1 Karn Liberated 
+1 Kitchen Finks 
+1 Kodama's Reach 
+1 Laboratory Maniac 
+1 Last Gasp 
+1 Lava Spike 
+1 Living Lore 
+1 Lotus-Eye Mystics 
+1 Mad Prophet 
+1 Mage-Ring Network 
+1 Magmaw 
+1 Mahamoti Djinn 
+1 Malevolent Whispers 
+1 Mammoth Umbra 
+1 Marang River Prowler 
+1 Mark of the Vampire 
+1 Martyr of Sands 
+1 Miming Slime 
+1 Miraculous Recovery 
+1 Moan of the Unhallowed 
+1 Molten Birth 
+1 Murderous Redcap 
+1 Myr Servitor 
+1 Mystic Retrieval 
+1 Nightbird's Clutches 
+1 Nourishing Shoal 
+1 Offalsnout 
+1 Olivia's Dragoon 
+1 Patchwork Gnomes 
+1 Penumbra Wurm 
+1 Phyrexian Altar 
+1 Plumeveil 
+1 Prey Upon 
+1 Prismatic Lens 
+1 Pulse of Murasa 
+1 Raid Bombardment 
+1 Rakdos Shred-Freak 
+1 Rally the Peasants 
+1 Reckless Charge 
+1 Reckless Wurm 
+1 Repel the Darkness 
+1 Resurrection 
+1 Reviving Vapors 
+1 Reya Dawnbringer 
+1 Rise from the Tides 
+1 Rogue's Passage 
+1 Rolling Temblor 
+1 Ronom Unicorn 
+1 Rune Snag 
+1 Runed Halo 
+1 Safehold Elite 
+1 Sanitarium Skeleton 
+1 Satyr Wayfinder 
+1 Scuzzback Marauders 
+1 Seismic Assault 
+1 Seize the Day 
+1 Shed Weakness 
+1 Shielding Plax 
+1 Shriekmaw 
+1 Sigil of the New Dawn 
+1 Skyspear Cavalry 
+1 Skywing Aven 
+1 Sleight of Hand 
+1 Slippery Bogle 
+1 Slum Reaper 
+1 Snake Umbra 
+1 Snapcaster Mage 
+1 Songs of the Damned 
+1 Soul's Fire 
+1 Sovereigns of Lost Alara 
+1 Sparkspitter 
+1 Spider Spawning 
+1 Spider Umbra 
+1 Spirit Cairn 
+1 Squee, Goblin Nabob 
+1 Staunch-Hearted Warrior 
+1 Stingerfling Spider 
+1 Stitched Drake 
+1 Stitcher's Apprentice 
+1 Stream of Consciousness 
+1 Sultai Skullkeeper 
+1 Swift Reckoning 
+1 Terramorphic Expanse 
+1 Tethmos High Priest 
+1 Thermo-Alchemist 
+1 Thespian's Stage 
+1 Think Twice 
+1 Travel Preparations 
+1 Treasure Cruise 
+1 Turn to Mist 
+1 Twins of Maurer Estate 
+1 Ulamog's Crusher 
+1 Ulamog, the Infinite Gyre 
+1 Unburial Rites 
+1 Undying Rage 
+1 Unholy Hunger 
+1 Unstable Mutation 
+1 Urban Evolution 
+1 Vengeful Rebirth 
+1 Verdant Eidolon 
+1 Vessel of Endless Rest 
+1 Walker of the Grove 
+1 Wandering Champion 
+1 Warleader's Helix 
+1 Whirlwind Adept 
+1 Wickerbough Elder 
+1 Wild Mongrel 
+1 Wingsteed Rider 
+1 Young Pyromancer 
