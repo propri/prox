@@ -77,4 +77,7 @@
 1 Time of Need
 1 Sidisi, Undead Vizier
 1 Kresh the Bloodbraided
+1 Mikaeus, the Unhallowed
+1 Fatal Push
+1 Unravel the Æther
 
