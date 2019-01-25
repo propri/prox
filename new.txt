@@ -80,4 +80,22 @@
 1 Mikaeus, the Unhallowed
 1 Fatal Push
 1 Unravel the Æther
+1 Breath of Life
+1 Dust Elemental
+1 Echoing Truth
+1 Fleetfoot Panther
+1 Horned Kavu
+1 Hostage Taker
+1 Keeper of Progenitus
+1 Oath of Nissa
+1 Overabundance
+1 Pulsemage Advocate
+1 Reaper of the Wilds
+1 Rishadan Brigand
+1 Squall Line
+1 Storm Cauldron
+1 Strands of Night
+1 Sunder
+1 Wheel of Sun and Moon
+1 Yasova Dragonclaw
 
