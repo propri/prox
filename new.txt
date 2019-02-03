@@ -98,4 +98,21 @@
 1 Sunder
 1 Wheel of Sun and Moon
 1 Yasova Dragonclaw
+1 Amplifire
+1 Angelsong
+1 Arguel's Blood Fast / Temple of Aclazotz
+1 Captain's Call
+1 End-Raze Forerunners
+1 Font of Agonies
+1 Glass of the Guildpact
+1 Guardian Project
+1 Haze of Pollen
+1 Holy Day
+1 Mirror March
+1 Nether Traitor
+1 Proper Burial
+1 Sifter of Skulls
+1 Sublime Archangel
+1 Unbreakable Formation
+1 Vindictive Vampire
 
