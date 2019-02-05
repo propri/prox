@@ -100,7 +100,8 @@
 1 Yasova Dragonclaw
 1 Amplifire
 1 Angelsong
-1 Arguel's Blood Fast / Temple of Aclazotz
+1 Arguel's Blood Fast
+1 Temple of Aclazotz
 1 Captain's Call
 1 End-Raze Forerunners
 1 Font of Agonies
