@@ -116,4 +116,5 @@
 1 Sublime Archangel
 1 Unbreakable Formation
 1 Vindictive Vampire
+1 Teysa Karlov
 
