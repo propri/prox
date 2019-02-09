@@ -117,4 +117,25 @@
 1 Unbreakable Formation
 1 Vindictive Vampire
 1 Teysa Karlov
+1 Visions of Beyond
+1 Walking Ballista
+1 Aegis Angel
+1 Angelic Benediction
+1 Angelic Exaltation
+1 Azorius Knight-Arbiter
+1 Bad Moon
+1 Bankrupt in Blood
+1 Barter in Blood
+1 Consecrate // Consume
+1 Diregraf Ghoul
+1 Dreamcaller Siren
+1 Enslave
+1 Eyes Everywhere
+1 Forbidding Spirit
+1 Departed Deckhand
+1 Grand Abolisher
+1 Kamahl, Pit Fighter
+1 Kari Zev, Skyship Raider
+1 Mikokoro, Center of the Sea
+1 Remorseful Cleric
 
