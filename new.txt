@@ -138,4 +138,5 @@
 1 Kari Zev, Skyship Raider
 1 Mikokoro, Center of the Sea
 1 Remorseful Cleric
+1 Zuran Orb
 
