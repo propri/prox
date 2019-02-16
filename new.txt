@@ -139,4 +139,14 @@
 1 Mikokoro, Center of the Sea
 1 Remorseful Cleric
 1 Zuran Orb
+1 Captain Sisay
+1 Blood Sun
+1 Coalition Relic
+1 Legion Lieutenant
+1 Putrid Imp
+1 Rampaging Brontodon
+1 Smothering Tithe
+1 Worldgorger Dragon
+1 Oath of Jace
+1 Skysovereign, Consul Flagship
 
