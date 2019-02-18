@@ -149,4 +149,6 @@
 1 Worldgorger Dragon
 1 Oath of Jace
 1 Skysovereign, Consul Flagship
+1 Resplendent Angel
+1 Vraska, Golgari Queen
 
