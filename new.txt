@@ -151,4 +151,81 @@
 1 Skysovereign, Consul Flagship
 1 Resplendent Angel
 1 Vraska, Golgari Queen
+1 Pride of the Clouds
+1 Windreaver
+1 Archon of the Triumvirate
+1 Judge's Familiar
+1 Stoic Ephemera
+1 Court Hussar
+1 Lyev Skyknight
+1 Azorius Justiciar
+1 Skymark Roc
+1 Sky Hussar
+1 Sphinx of Foresight
+1 Spirit of the Spires
+1 Sphinx of New Prahv
+1 Windstorm Drake
+1 Sky Tether
+1 Sphinx's Revelation
+1 Dramatic Rescue
+1 Summary Judgment
+1 Sphinx's Insight
+1 Warrant // Warden
+1 Depose // Deploy
+1 Ruric Thar, the Unbowed
+1 Burning-Tree Shaman
+1 Ulasht, the Hate Seed
+1 Rumbling Slum
+1 Giant Solifuge
+1 Rubblebelt Raiders
+1 Skarrgan Firebird
+1 Skarrgan Pit-Skulk
+1 Wasteland Viper
+1 Scab-Clan Mauler
+1 Ghor-Clan Rampager
+1 Zhur-Taa Swine
+1 Immolation Shaman
+1 Ravager Wurm
+1 Clan Guildmage
+1 Zhur-Taa Goblin
+1 Sunder Shaman
+1 Pit Fight
+1 Flames of the Raze-Boar
+1 Collision // Colossus
+1 Wurmweaver Coil
+1 Cindervines
+1 Rhythm of the Wild
+1 Vinelasher Kudzu
+1 Cytoplast Root-Kin
+1 Omnibian
+1 Momir Vig, Simic Visionary
+1 Cloudfin Raptor
+1 Elusive Krasis
+1 Plaxcaster Frogling
+1 Nimbus Swimmer
+1 Zegana, Utopian Speaker
+1 Skitter Eel
+1 Frilled Mystic
+1 Trollbred Guardian
+1 Galloping Lizrog
+1 Applied Biomancy
+1 Simic Ascendancy
+1 Orzhov Pontiff
+1 Pontiff of Blight
+1 Deathpact Angel
+1 Martyred Rusalka
+1 Plagued Rusalka
+1 Sin Collector
+1 Keening Banshee
+1 Belfry Spirit
+1 Orzhov Enforcer
+1 Imperious Oligarch
+1 Pitiless Pontiff
+1 Ministrant of Obligation
+1 Basilica Bell-Haunt
+1 Orzhov Charm
+1 Final Payment
+1 Stab Wound
+1 One Thousand Lashes
+1 Ethereal Absolution
 
