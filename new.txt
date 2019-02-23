@@ -228,4 +228,8 @@
 1 Stab Wound
 1 One Thousand Lashes
 1 Ethereal Absolution
+1 Kopala, Warden of Waves
+1 Deeproot Elite
+1 Silvergil Adept
+1 Thada Adel, Acquisitor
 
