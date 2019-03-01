@@ -232,4 +232,5 @@
 1 Deeproot Elite
 1 Silvergil Adept
 1 Thada Adel, Acquisitor
+1 Guardian Project
 
