@@ -233,4 +233,68 @@
 1 Silvergil Adept
 1 Thada Adel, Acquisitor
 1 Guardian Project
+1 Anointer Priest
+1 Bathe in Light
+1 Consign // Oblivion
+1 Dauntless Bodyguard
+1 Deadeye Tracker
+1 Defy Death
+1 Glimpse of Nature
+1 Streambed Aquitects
+1 Asmira, Holy Avenger
+1 Blowfly Infestation
+1 Daxos the Returned
+1 Raking Canopy
+1 Sekki, Seasons' Guide
+1 Teysa, Envoy of Ghosts
+1 Fracturing Gust
+1 Kaya's Wrath
+1 Liliana, Death's Majesty
+1 Maelstrom Wanderer
+1 Oath of Gideon
+1 Time Warp
+1 Weird Harvest
+1 Wirewood Hivemaster
+1 Avoid Fate
+1 Nostalgic Dreams
+1 Elenda, the Dusk Rose
+1 Invigorate
+1 Vraska, Relic Seeker
+1 Blighted Agent
+1 Costly Plunder
+1 Diplomatic Immunity
+1 Gempalm Polluter
+1 Hedonist's Trove
+1 Kami of False Hope
+1 Merciless Resolve
+1 Metathran Soldier
+1 Oath of Ajani
+1 Pollen Lullaby
+1 Rain of Filth
+1 Respite
+1 Righteous Confluence
+1 Skirge Familiar
+1 Terrifying Presence
+1 Aether Figment
+1 Benthic Biomancer
+1 Damnation
+1 Dark Tutelage
+1 Escape Artist
+1 Flitterstep Eidolon
+1 Lethal Vapors
+1 Lightning Strike
+1 Mobile Garrison
+1 Monstrous Onslaught
+1 Never // Return
+1 Oblivion Crown
+1 Soulless One
+1 Winds of Qal Sisma
+1 Honor of the Pure
+1 Noxious Revival
+1 Gravecrawler
+1 Spike Weaver
+1 Geist of Saint Traft
+1 Primeval Titan
+1 Rishadan Footpad
+1 The Haunt of Hightower
 
