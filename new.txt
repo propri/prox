@@ -297,4 +297,35 @@
 1 Primeval Titan
 1 Rishadan Footpad
 1 The Haunt of Hightower
+1 Act of Aggression
+1 Conquering Manticore
+1 Dread Summons
+1 Gigantoplasm
+1 Hijack
+1 Hoarding Dragon
+1 Intellectual Offering
+1 Orcish Lumberjack
+1 Putrefax
+1 Righteous Cause
+1 Sanguine Sacrament
+1 Stranglehold
+1 Tandem Lookout
+1 Traitorous Blood
+1 Archfiend of Ifnir
+1 Deathrender
+1 Insurrection
+1 Phyrexian Hydra
+1 Strip Mine
+1 Apex of Power
+1 Arcane Adaptation
+1 Arterial Flow
+1 Faith of the Devoted
+1 Winds of Change
+1 Cryptoplasm
+1 Elemental Token
+1 Gift of Estates
+1 Jarad's Orders
+1 Mindmoil
+1 Molten Primordial
+1 Ophidian Eye
 
