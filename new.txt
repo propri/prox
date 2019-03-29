@@ -329,4 +329,11 @@
 1 Molten Primordial
 1 Ophidian Eye
 1 Ashling the Pilgrim
+1 Crown of Ascension
+1 Defiant Elf
+1 Chromatic Sphere
+1 Catapult Master
+1 Gleam of Battle
+1 Artificer's Hex
+1 Lyra Dawnbringer
 
