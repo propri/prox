@@ -336,4 +336,76 @@
 1 Gleam of Battle
 1 Artificer's Hex
 1 Lyra Dawnbringer
+1 Planar Void
+1 Akki Lavarunner
+1 Angelic Protector
+1 Shepherd of the Lost
+1 Splinter Twin
+1 Platinum Angel
+1 Tainted Remedy
+1 Reclaim
+1 Corrupted Grafstone
+1 Collective Defiance
+1 Harmless Offering
+1 Wispweaver Angel
+1 Winged Shepherd
+1 Yawgmoth's Vile Offering
+1 Angel of Retribution
+1 Angel of Grace
+1 Theater of Horrors
+1 Titania's Song
+1 Varchild's War-Riders
+1 Smoke
+1 Radiant, Archangel
+1 Infernal Genesis
+1 Elfhame Sanctuary
+1 Last Laugh
+1 Blinding Angel
+1 Luminous Angel
+1 Pristine Angel
+1 Seed the Land
+1 Serra Avenger
+1 Blood Seeker
+1 Seraph of the Sword
+1 Declaration in Stone
+1 Angel of Sanctions
+1 Adorned Pouncer
+1 Angelic Guardian
+1 Rampage of the Clans
+1 Storm Crow
+1 Tombstone Stairwell
+1 Mogg Infestation
+1 Tooth and Nail
+1 Leave No Trace
+1 Storm Herd
+1 Balduvian Warlord
+1 Batwing Brume
+1 Admonition Angel
+1 Angelic Overseer
+1 Angel of Glory's Rise
+1 Angel of Jubilation
+1 Herald of War
+1 Slumbering Dragon
+1 Xenagos, the Reveler
+1 Ephemeral Shields
+1 Angel of Deliverance
+1 Bruna, the Fading Light / Brisela, Voice of Nightmares
+1 Gideon of the Trials
+1 Avatar of Slaughter
+1 Fencing Ace
+1 Angel of Condemnation
+1 Notion Thief
+1 Phyrexian Metamorph
+1 Acrobatic Maneuver
+1 Adamant Will
+1 Angler Turtle
+1 Vengeant Vampire
+1 Repercussion
+1 Crown of Doom
+1 Gift of Immortality
+1 Seraph of the Suns
+1 Genesis Chamber
+1 Aurelia, Exemplar of Justice
+1 Pelt Collector
+1 Ionize
 
