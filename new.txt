@@ -413,4 +413,5 @@
 1 Humble
 1 Reprisal
 1 Seraph
+1 Dread
 
