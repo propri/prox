@@ -410,4 +410,7 @@
 1 Pelt Collector
 1 Ionize
 1 Exile
+1 Humble
+1 Reprisal
+1 Seraph
 
