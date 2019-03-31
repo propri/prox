@@ -389,7 +389,8 @@
 1 Xenagos, the Reveler
 1 Ephemeral Shields
 1 Angel of Deliverance
-1 Bruna, the Fading Light / Brisela, Voice of Nightmares
+1 Bruna, the Fading Light
+1 Brisela, Voice of Nightmares
 1 Gideon of the Trials
 1 Avatar of Slaughter
 1 Fencing Ace
