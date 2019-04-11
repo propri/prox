@@ -414,4 +414,5 @@
 1 Reprisal
 1 Seraph
 1 Dread
+1 Queen Marchesa
 
