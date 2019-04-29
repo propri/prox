@@ -415,4 +415,25 @@
 1 Seraph
 1 Dread
 1 Queen Marchesa
+1 Protector of the Crown
+1 Marchesa's Decree
+1 Fractured Powerstone
+1 Arvad the Cursed
+1 Bladebrand
+1 Fire Whip
+1 Peace and Quiet
+1 Reverent Silence
+1 Door to Nothingness
+1 Tideforce Elemental
+1 Renegade Doppelganger
+1 Pennon Blade
+1 Wolfhunter's Quiver
+1 Pharika's Chosen
+1 Dack's Duplicate
+1 Mobilization
+1 Midnight Haunting
+1 Acid-Spewer Dragon
+1 Hand of Silumgar
+1 Graveblade Marauder
+1 Thrill-Kill Assassin
 
