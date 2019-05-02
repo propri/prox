@@ -436,4 +436,149 @@
 1 Hand of Silumgar
 1 Graveblade Marauder
 1 Thrill-Kill Assassin
+1 Skulltap
+1 Aether Snap
+1 Rag Dealer
+1 Skullsnatcher
+1 Gleancrawler
+1 Trespasser's Curse
+1 Finale of Glory
+1 God-Eternal Oketra
+1 Fblthp, the Lost
+1 Narset's Reversal
+1 Dreadhorde Invasion
+1 The Elderspell
+1 Massacre Girl
+1 Ajani, the Greathearted
+1 Tamiyo, Collector of Tales
+1 Time Wipe
+1 Gideon's Sacrifice
+1 Topple the Statue
+1 Stealth Mission
+1 Tamiyo's Epiphany
+1 Wall of Runes
+1 Aid the Fallen
+1 Banehound
+1 Davriel's Shadowfugue
+1 Kaya's Ghostform
+1 Ob Nixilis's Cruelty
+1 Spark Harvest
+1 Spark Reaper
+1 Vraska's Finisher
+1 Honor the God-Pharaoh
+1 Arboreal Grazer
+1 Pollenbright Druid
+1 Gravespawn Sovereign
+1 Decree of Silence
+1 Joiner Adept
+1 Kiku, Night's Flower
+1 Glorious Anthem
+1 Karn, the Great Creator
+1 Ilharg, the Raze Boar
+1 Feather, the Redeemed
+1 Despark
+1 New Horizons
+1 Hired Poisoner
+1 Noxious Groodion
+1 God-Eternal Kefnet
+1 Finale of Promise
+1 God-Eternal Rhonas
+1 Parhelion II
+1 Ravnica at War
+1 Single Combat
+1 Tomik, Distinguished Advokist
+1 Commence the Endgame
+1 Jace, Wielder of Mysteries
+1 Spark Double
+1 Bolas's Citadel
+1 Command the Dreadhorde
+1 Deliver Unto Evil
+1 Neheb, Dreadhorde Champion
+1 Vivien's Arkbow
+1 Living Twister
+1 Oath of Kaya
+1 Bond of Discipline
+1 Gideon's Triumph
+1 Grateful Apparition
+1 Prison Realm
+1 Sunblade Angel
+1 Teyo, the Shieldmage
+1 The Wanderer
+1 Bond of Insight
+1 Eternal Skylord
+1 Flux Channeler
+1 Jace's Triumph
+1 Kasmina, Enigmatic Mentor
+1 Lazotep Plating
+1 Bond of Revival
+1 Davriel, Rogue Shadowmage
+1 Liliana's Triumph
+1 Ob Nixilis, the Hate-Twisted
+1 Price of Betrayal
+1 Vizier of the Scorpion
+1 Bolt Bend
+1 Bond of Passion
+1 Dreadhorde Twins
+1 Jaya, Venerated Firemage
+1 Tibalt, Rakish Instigator
+1 Arlinn, Voice of the Pack
+1 Challenger Troll
+1 Evolution Sage
+1 Jiang Yanggu, Wildcrafter
+1 Mowu, Loyal Companion
+1 Nissa's Triumph
+1 Paradise Druid
+1 Storm the Citadel
+1 Angrath's Rampage
+1 Cruel Celebrant
+1 Deathsprout
+1 Domri's Ambush
+1 Dovin's Veto
+1 Elite Guardmage
+1 Gleaming Overseer
+1 Heartwarming Redemption
+1 Huatli's Raptor
+1 Leyline Prowler
+1 Mayhem Devil
+1 Merfolk Skydiver
+1 Neoform
+1 Pledge of Unity
+1 Tyrant's Scorn
+1 Angrath, Captain of Chaos
+1 Ashiok, Dream Render
+1 Dovin, Hand of Control
+1 Huatli, the Sun's Heart
+1 Kaya, Bane of the Dead
+1 Kiora, Behemoth Beckoner
+1 Nahiri, Storm of Stone
+1 Saheeli, Sublime Artificer
+1 Samut, Tyrant Smasher
+1 Vraska, Swarm's Eminence
+1 God-Pharaoh's Statue
+1 Emergence Zone
+1 Interplanar Beacon
+1 Gifted Aetherborn
+1 Finale of Eternity
+1 God-Eternal Bontu
+1 Finale of Devastation
+1 Niv-Mizzet Reborn
+1 Dreadhorde Arcanist
+1 Krenko, Tin Street Kingpin
+1 Awakening of Vitu-Ghazi
+1 Nissa, Who Shakes the World
+1 Planewide Celebration
+1 Vivien, Champion of the Wilds
+1 Bioessence Hydra
+1 Domri, Anarch of Bolas
+1 Ral, Storm Conduit
+1 Role Reversal
+1 Soul Diviner
+1 Storrev, Devkarin Lich
+1 Tolsimir, Friend to Wolves
+1 Widespread Brutality
+1 Viridian Longbow
+1 Dreadhorde Butcher
+1 Teferi, Time Raveler
+1 Karn's Bastion
+1 Tezzeret, Master of the Bridge
 
