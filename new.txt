@@ -581,4 +581,5 @@
 1 Teferi, Time Raveler
 1 Karn's Bastion
 1 Tezzeret, Master of the Bridge
+1 Precognitive Perception
 
