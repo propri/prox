@@ -587,4 +587,15 @@
 1 Stone Haven Outfitter
 1 Mout // Feed
 1 Captain's Claws
+1 Kira, Great Glass-Spinner
+1 Norin the Wary
+1 Grapeshot
+1 Deprive
+1 Firespout
+1 Tidebinder Mage
+1 Dromoka's Command
+1 Duskwatch Recruiter / Krallenhorde Howler
+1 Pieces of the Puzzle
+1 Saheeli Rai
+1 Threads of Disloyalty
 
