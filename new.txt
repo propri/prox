@@ -598,4 +598,41 @@
 1 Pieces of the Puzzle
 1 Saheeli Rai
 1 Threads of Disloyalty
+1 Force of Will
+1 Frenetic Efreet
+1 Hall of Gemstone
+1 Choke
+1 Duress
+1 Grim Monolith
+1 Perish
+1 Sphere of Resistance
+1 City of Brass
+1 Cursed Totem
+1 Faces of the Past
+1 Cabal Therapy
+1 Flaring Pain
+1 Arcbound Ravager
+1 Suppression Field
+1 Sudden Death
+1 Scourge of Fleets
+1 Metalworker
+1 Sword of Light and Shadow
+1 Birthing Pod
+1 Rakdos's Return
+1 Death's Approach
+1 Ral Zarek
+1 Wear // Tear
+1 Sarkhan, the Dragonspeaker
+1 Smash to Smithereens
+1 Grindstone
+1 Scroll Rack
+1 Survival of the Fittest
+1 Academy Rector
+1 Dust Bowl
+1 Enlightened Tutor
+1 Opalescence
+1 Rishadan Port
+1 Patriarch's Bidding
+1 Chrome Mox
+1 Krark-Clan Ironworks
 
