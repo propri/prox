@@ -635,4 +635,6 @@
 1 Patriarch's Bidding
 1 Chrome Mox
 1 Krark-Clan Ironworks
+1 Mox Amber
+1 Disrupting Shoal
 
