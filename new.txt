@@ -637,4 +637,10 @@
 1 Krark-Clan Ironworks
 1 Mox Amber
 1 Disrupting Shoal
+1 Melira, Sylvok Outcast
+1 Imposing Sovereign
+1 Vryn Wingmare
+1 Damping Sphere
+1 Lavinia, Azorius Renegade
+1 Growth Spiral
 
