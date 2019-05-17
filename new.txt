@@ -651,4 +651,81 @@
 1 Clock of Omens
 1 Gravewaker
 1 High Alert
+1 Kei Takahashi
+1 Torture
+1 Ebony Charm
+1 Blind Seer
+1 Spirit en-Dal
+1 Cinderbones
+1 Curse of Oblivion
+1 Winter Orb
+1 Enter the God-Eternals
+1 Hydroblast
+1 Hell's Caretaker
+1 Midnight Banshee
+1 Dragonstorm
+1 Arcane Teachings
+1 Grand Melee
+1 Lavamancer's Skill
+1 Hissing Miasma
+1 Jötun Grunt
+1 Flourishing Defenses
+1 Noxious Hatchling
+1 Instill Infection
+1 Shattered Perception
+1 Lightning Prowess
+1 Power of Fire
+1 Typhoid Rats
+1 Silumgar's Scorn
+1 Grim Affliction
+1 Blighted Fen
+1 Angelic Purge
+1 Eternal Scourge
+1 Garrulous Sycophant
+1 Aethersquall Ancient
+1 Foundry Inspector
+1 Damping Matrix
+1 Baleful Ammit
+1 Nest of Scarabs
+1 Hapatra's Mark
+1 Festering Mummy
+1 Splendid Agony
+1 Banewhip Punisher
+1 Dire Fleet Poisoner
+1 Vampire Champion
+1 Feral Abomination
+1 Virtus the Veiled
+1 Pestilent Spirit
+1 Finale of Revelation
+1 Roalesk, Apex Hybrid
+1 Ignite the Beacon
+1 Silent Submersible
+1 Sarkhan the Masterless
+1 Casualties of War
+1 Solar Blaze
+1 Bond of Flourishing
+1 Firemind Vessel
+1 Defiant Strike
+1 Law-Rune Enforcer
+1 Wanderer's Strike
+1 Callous Dismissal
+1 Contentious Plan
+1 Erratic Visionary
+1 Kasmina's Transmutation
+1 No Escape
+1 Teferi's Time Twist
+1 Tithebearer Giant
+1 Unlikely Aid
+1 Bloom Hulk
+1 Forced Landing
+1 Kraul Stinger
+1 Return to Nature
+1 Mana Geode
+1 Guildpact Informant
+1 Dance of the Dead
+1 Necromancy
+1 Food Chain
+1 Ugin, the Ineffable
+1 Sorin, Vengeful Bloodlord
+1 Narset, Parter of Veils
 
