@@ -728,4 +728,35 @@
 1 Ugin, the Ineffable
 1 Sorin, Vengeful Bloodlord
 1 Narset, Parter of Veils
+1 Blanket of Night
+1 Dingus Staff
+1 Fevered Convulsions
+1 Phyrexian Processor
+1 Martyr's Cause
+1 Cho-Arrim Alchemist
+1 Cackling Witch
+1 Hammer Mage
+1 Charm Peddler
+1 Devout Witness
+1 Bog Witch
+1 Bola Warrior
+1 Shade's Form
+1 Glowrider
+1 Undertaker
+1 Urborg Syphon-Mage
+1 Magus of the Tabernacle
+1 Jodah's Avenger
+1 Frozen Æther
+1 Chronomantic Escape
+1 Incremental Blight
+1 Rendclaw Trow
+1 Unhallowed Pact
+1 Blood Reckoning
+1 Havoc Festival
+1 Renounce the Guilds
+1 Magister of Worth
+1 Mercurial Pretender
+1 Pearl Lake Ancient
+1 Plague Witch
+1 Yahenni's Expertise
 
