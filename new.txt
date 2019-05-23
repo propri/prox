@@ -759,4 +759,5 @@
 1 Pearl Lake Ancient
 1 Plague Witch
 1 Yahenni's Expertise
+1 Wasteland
 
