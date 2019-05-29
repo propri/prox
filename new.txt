@@ -765,4 +765,5 @@
 1 Sand Silos
 1 Ambush Commander
 1 Mortuary
+1 Trophy Mage
 
