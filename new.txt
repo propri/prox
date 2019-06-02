@@ -766,4 +766,17 @@
 1 Ambush Commander
 1 Mortuary
 1 Trophy Mage
+1 Braingeyser
+1 Rising Waters
+1 Peek
+1 Carnifex Demon
+1 Immortal Servitude
+1 Wilderness Reclamation
+1 Mizzix's Mastery
+1 Swift Warden
+1 Pithing Needle
+1 O-Naginata
+1 Cephalid Constable
+1 Aggressive Mining
+1 Phyrexian Revoker
 
