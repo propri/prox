@@ -746,7 +746,7 @@
 1 Urborg Syphon-Mage
 1 Magus of the Tabernacle
 1 Jodah's Avenger
-1 Frozen Æther
+1 Frozen Aether
 1 Chronomantic Escape
 1 Incremental Blight
 1 Rendclaw Trow
@@ -761,9 +761,6 @@
 1 Yahenni's Expertise
 1 Wasteland
 1 Carrion
-1 Hakim, Loreweaver
-1 Sand Silos
-1 Ambush Commander
 1 Mortuary
 1 Trophy Mage
 1 Braingeyser
@@ -779,4 +776,32 @@
 1 Cephalid Constable
 1 Aggressive Mining
 1 Phyrexian Revoker
+1 Dakkon Blackblade
+1 Radha, Heir to Keld
+1 Drana, Liberator of Malakir
+1 Thalia, Heretic Cathar
+1 Hatred
+1 Bearscape
+1 Memnite
+1 Blade Splicer
+1 Aluren
+1 Phyrexian Unlife
+1 Predator Ooze
+1 Bonfire of the Damned
+1 Archangel of Tithes
+1 Flooded Grove
+1 Rugged Prairie
+1 Rise of the Dark Realms
+1 Magewright's Stone
+1 Martyr's Bond
+1 Forest Bear
+1 Vraska's Contempt
+1 Werebear
+1 Metalwork Colossus
+1 Ammit Eternal
+1 Verix Bladewing
+1 Electrodominance
+1 Twilight Mire
+1 Kamahl's Summons
+1 Muraganda Petroglyphs
 
