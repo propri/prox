@@ -804,4 +804,7 @@
 1 Twilight Mire
 1 Kamahl's Summons
 1 Muraganda Petroglyphs
+1 Hakim, Loreweaver
+1 Righteous War
+1 Master of Etherium
 
