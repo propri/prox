@@ -807,4 +807,5 @@
 1 Hakim, Loreweaver
 1 Righteous War
 1 Master of Etherium
+1 Silence
 
