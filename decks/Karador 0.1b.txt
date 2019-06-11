@@ -1,0 +1,105 @@
+//Main
+1 Karador, Ghost Chieftain # !Commander
+1 Blood Artist
+1 Poison-Tip Archer
+1 Zulaport Cutthroat
+
+//recursion / reanimate
+1 Animate Dead
+1 Apprentice Necromancer
+1 Eternal Witness
+1 Karmic Guide
+1 Living Death
+1 Phyrexian Reclamation
+1 Reanimate
+1 Reveillark
+1 Saffi Eriksdotter
+1 Sheoldred, Whispering One
+1 Stitch Together
+1 Sun Titan
+1 Victimize
+
+//removal
+1 Anguished Unmaking
+1 Beast Within
+1 Cleansing Nova
+1 Mortify
+1 Nature's Claim
+1 Path to Exile
+1 Plaguecrafter
+1 Putrefy
+1 Ravenous Chupacabra
+1 Reclamation Sage
+1 Swords to Plowshares
+1 Thrashing Brontodon
+1 Toxic Deluge
+1 Wrath of God
+
+//ramp
+1 Arbor Elf
+1 Avacyn's Pilgrim
+1 Birds of Paradise
+1 Deathrite Shaman
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Fyndhorn Elves
+1 Llanowar Elves
+1 Nature's Lore
+1 Sakura-Tribe Elder
+1 Sol Ring
+
+//draw / tutor
+1 Buried Alive
+1 Deathreap Ritual
+1 Demonic Tutor
+1 Entomb
+1 Fauna Shaman
+1 Green Sun's Zenith
+1 Grim Haruspex
+1 Sidisi, Undead Vizier
+1 Sylvan Library
+1 Underrealm Lich
+1 Worldly Tutor
+
+//dredge/mill
+1 Golgari Grave-Troll
+1 Hermit Druid
+1 Life from the Loam #<> lord of extinction
+1 Satyr Wayfinder
+1 Splinterfright
+1 Stinkweed Imp
+1 Stitcher's Supplier
+
+//sac
+1 Ashnod's Altar
+1 Carrion Feeder
+1 Viscera Seer
+1 Yahenni, Undying Partisan
+
+//lands
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Bountiful Promenade
+1 Brushland
+1 Caves of Koilos
+1 Command Tower
+1 Dryad Arbor
+1 Flooded Strand
+7 Forest
+1 Godless Shrine
+1 Grim Backwoods
+1 Isolated Chapel
+1 Llanowar Wastes
+1 Overgrown Tomb
+1 Phyrexian Tower
+2 Plains
+1 Polluted Delta
+1 Sunpetal Grove
+5 Swamp
+1 Tainted Field
+1 Tainted Wood
+1 Temple Garden
+1 Windswept Heath
+1 Wooded Foothills
+1 Woodland Cemetery
+

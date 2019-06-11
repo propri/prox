@@ -1,0 +1,86 @@
+//Main
+1 Tatyova, Benthic Druid # !Commander
+1 Archetype of Imagination
+1 Coiling Oracle
+1 Constant Mists
+1 Eternal Witness
+1 Fog Bank
+1 Regrowth
+1 Retreat to Coralhelm
+1 Soratami Rainshaper
+1 Swiftfoot Boots
+1 Tideforce Elemental
+1 Ulamog's Crusher
+
+//counters
+1 Arcane Denial
+1 Counterspell
+1 Deprive
+1 Disdainful Stroke
+1 Negate
+1 Soratami Savant
+1 Thwart
+
+//removal
+1 Acidic Slime
+1 Aetherize
+1 Beast Within
+1 Broken Bond
+1 Capsize
+1 Naturalize
+1 Nature's Claim
+1 Pongify
+1 Rapid Hybridization
+1 Reality Shift
+1 Reclamation Sage
+1 Trygon Predator
+
+//ramp
+1 Circuitous Route
+1 Cultivate
+1 Elvish Mystic
+1 Explore
+1 Far Wanderings
+1 Farseek
+1 Grow from the Ashes
+1 Harrow
+1 Khalni Heart Expedition
+1 Kodama's Reach
+1 Llanowar Elves
+1 Llanowar Scout
+1 Nature's Lore
+1 Nissa's Pilgrimage
+1 Rampant Growth
+1 Sakura-Tribe Elder
+1 Sakura-Tribe Scout
+1 Search for Tomorrow
+1 Skyshroud Claim
+1 Skyshroud Ranger
+1 Sol Ring
+1 Stone-Seeder Hierophant
+1 Summer Bloom
+1 Thought Vessel
+1 Urban Evolution
+1 Walking Atlas
+
+//lands
+1 Bant Panorama
+1 Blighted Woodland
+1 Command Tower
+1 Esper Panorama
+1 Evolving Wilds
+16 Forest
+1 Ghost Town
+1 Grixis Panorama
+12 Island
+1 Jund Panorama
+1 Naya Panorama
+1 Reliquary Tower
+1 Simic Growth Chamber
+1 Terramorphic Expanse
+
+//payoffs
+1 Lorescale Coatl
+1 Sporemound
+1 Zendikar's Roil
+

@@ -1,0 +1,109 @@
+//Main
+1 Arcades, the Strategist # !Commander
+1 Beast Within
+1 Deglamer
+1 Nature's Claim
+1 Path to Exile
+1 Swords to Plowshares
+1 Teyo, the Shieldmage
+
+//def walls
+1 Angelic Wall
+1 Drift of Phantasms
+1 Fog Bank
+1 Gatecreeper Vine
+1 Gomazoa
+1 Guard Gomazoa
+1 Hover Barrier
+1 Junktroller
+1 Mnemonic Wall
+1 Shield Sphere
+1 Stalwart Shield-Bearers
+1 Traproot Kami
+1 Tree of Redemption
+1 Wall of Blossoms
+1 Wall of Denial
+1 Wall of Frost
+1 Wall of Junk
+1 Wall of Kelp
+1 Wall of Mulch
+1 Wall of Omens
+1 Wall of Shards
+
+//board wipes
+1 Cyclonic Rift
+1 Dusk // Dawn
+1 Fell the Mighty
+1 Retribution of the Meek
+1 Slaughter the Strong
+
+//ramp
+1 Axebane Guardian
+1 Carven Caryatid
+1 Cultivate
+1 Farseek
+1 Into the North
+1 Kodama's Reach
+1 Nature's Lore
+1 Overgrown Battlement
+1 Rampant Growth
+1 Sakura-Tribe Elder
+1 Sol Ring
+1 Sunscape Familiar
+1 Sylvan Caryatid
+1 Vine Trellis
+1 Wall of Roots
+
+//lands
+1 Adarkar Wastes
+1 Alchemist's Refuge
+1 Azorius Guildgate
+1 Bountiful Promenade
+1 Breeding Pool
+1 Canopy Vista
+1 Command Beacon
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Glacial Fortress
+1 Hallowed Fountain
+1 Hinterland Harbor
+1 Nimbus Maze
+1 Polluted Delta
+1 Prairie Stream
+1 Sea of Clouds
+1 Selesnya Guildgate
+1 Simic Guildgate
+6 Snow-Covered Forest
+2 Snow-Covered Island
+2 Snow-Covered Plains
+1 Sungrass Prairie
+1 Sunpetal Grove
+1 Temple Garden
+1 Unclaimed Territory
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya Coast
+
+//support
+1 Assault Formation
+1 High Alert
+1 Hold the Gates
+1 Huatli, the Sun's Heart
+1 Marble Titan
+1 Meekstone
+1 Slagwurm Armor
+1 Tetsuko Umezawa, Fugitive
+1 Tower Defense
+
+//tools
+1 Eternal Witness
+1 Ghostly Flicker
+
+//protection
+1 Eerie Interlude
+1 Ghostway
+1 Jeskai Barricade
+1 Lightning Greaves
+1 Swiftfoot Boots
+
