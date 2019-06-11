@@ -809,4 +809,128 @@
 1 Master of Etherium
 1 Silence
 1 Baneslayer Angel
+1 Planebound Accomplice
+1 Pulse of the Grid
+1 Rootwater Hunter
+1 Ayula's Influence
+1 Talisman of Creativity
+1 Thornwind Faeries
+1 Vivien's Grizzly
+1 Yawgmoth, Thran Physician
+1 Sword of Sinew and Steel
+1 Astral Drift
+1 Force of Virtue
+1 On Thin Ice
+1 Sisay, Weatherlight Captain
+1 Winds of Abandon
+1 Marit Lage's Slumber
+1 Mirrodin Besieged
+1 Mist-Syndicate Naga
+1 Cordial Vampire
+1 Dead of Winter
+1 Nether Spirit
+1 Pashalik Mons
+1 Ayula, Queen Among Bears
+1 Deep Forest Hermit
+1 Collected Conjuring
+1 Fallen Shinobi
+1 Reap the Past
+1 Scrapyard Recombiner
+1 Hall of Heliod's Generosity
+1 Face of Divinity
+1 Generous Gift
+1 King of the Pride
+1 Splicer's Skill
+1 Valiant Changeling
+1 Vesperlark
+1 Blizzard Strix
+1 Cunning Evasion
+1 Everdream
+1 Oneirophage
+1 Tribute Mage
+1 Twisted Reflection
+1 Watcher for Tomorrow
+1 Feaster of Fools
+1 Graveshifter
+1 Sadistic Obsession
+1 Sling-Gang Lieutenant
+1 Smiting Helix
+1 Throatseeker
+1 Undead Augur
+1 Goblin Oriflamme
+1 Throes of Chaos
+1 Glacial Revelation
+1 Nantuko Cultivator
+1 Scale Up
+1 Etchings of the Chosen
+1 Good-Fortune Unicorn
+1 Ingenious Infiltrator
+1 Munitions Expert
+1 Rotwidow Pack
+1 Ruination Rioter
+1 Soulherder
+1 Thundering Djinn
+1 Birthing Boughs
+1 Farmstead Gleaner
+1 Lesser Masticore
+1 Talisman of Conviction
+1 Talisman of Curiosity
+1 Talisman of Hierarchy
+1 Talisman of Resilience
+1 Frostwalk Bastion
+1 Answered Prayers
+1 Ephemerate
+1 Recruit the Worthy
+1 Reprobation
+1 Segovian Angel
+1 Settle Beyond Reality
+1 Shelter
+1 Soul-Strike Technique
+1 Stirring Address
+1 Wall of One Thousand Cuts
+1 Faerie Seer
+1 Iceberg Cancrix
+1 Man-o'-War
+1 Moonblade Shinobi
+1 Phantasmal Form
+1 Phantom Ninja
+1 Pondering Mage
+1 Rain of Revelation
+1 Scour All Possibilities
+1 Smoke Shroud
+1 Spell Snuff
+1 Stream of Thought
+1 String of Disappearances
+1 Winter's Rest
+1 Azra Smokeshaper
+1 Changeling Outcast
+1 Defile
+1 Mind Rake
+1 Ninja of the New Moon
+1 Putrid Goblin
+1 Rank Officer
+1 Ransack the Lab
+1 Return from Extinction
+1 Silumgar Scavenger
+1 Bogardan Dragonheart
+1 Geomancer's Gambit
+1 Goatnap
+1 Goblin Champion
+1 Goblin War Party
+1 Elvish Fury
+1 Mother Bear
+1 Rime Tender
+1 Savage Swipe
+1 Springbloom Druid
+1 Treefolk Umbra
+1 Weather the Storm
+1 Winding Way
+1 Nature's Chant
+1 Amorphous Axe
+1 Arcum's Astrolabe
+1 Fountain of Ichor
+1 Universal Automaton
+1 Cave of Temptation
+1 Oathsworn Vampire
+1 Hogaak, Arisen Necropolis
 
