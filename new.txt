@@ -933,4 +933,12 @@
 1 Cave of Temptation
 1 Oathsworn Vampire
 1 Hogaak, Arisen Necropolis
+1 Ashes to Ashes
+1 Argivian Restoration
+1 Miscalculation
+1 False Prophet
+1 Turn the Tables
+1 Witch-Maw Nephilim
+1 Mystic Gate
+1 Collective Blessing
 
