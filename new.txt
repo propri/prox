@@ -941,4 +941,24 @@
 1 Witch-Maw Nephilim
 1 Mystic Gate
 1 Collective Blessing
+1 Temporal Adept
+1 Fool's Demise
+1 Unbound Flourishing
+1 Deity of Scars
+1 Quillspike
+1 Aetherworks Marvel
+1 Prophetic Prism
+1 Gisela, the Broken Blade
+1 Brisela, Voice of Nightmares
+1 Primal Amulet
+1 Primal Wellspring
+1 Recall
+1 Merfolk Looter
+1 Hermetic Study
+1 Rayne, Academy Chancellor
+1 Corrosive Mentor
+1 Contagion Engine
+1 Stoic Rebuttal
+1 Sacred Ground
+1 Pyromancer's Goggles
 
