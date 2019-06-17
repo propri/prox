@@ -961,4 +961,11 @@
 1 Stoic Rebuttal
 1 Sacred Ground
 1 Pyromancer's Goggles
+1 Corpse Dance
+1 Blasting Station
+1 Loxodon Gatekeeper
+1 Frozen Aether
+1 Druid's Familiar
+1 Dakra Mystic
+1 Kessig Cagebreakers
 
