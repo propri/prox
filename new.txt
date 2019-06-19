@@ -968,4 +968,15 @@
 1 Druid's Familiar
 1 Dakra Mystic
 1 Kessig Cagebreakers
+1 Zuran Spellcaster
+1 Reveka, Wizard Savant
+1 Suq'Ata Firewalker
+1 Striped Bears
+1 Goblin Ringleader
+1 Power Conduit
+1 Goblin Recruiter
+1 Hokori, Dust Drinker
+1 Wort, Boggart Auntie
+1 Boggart Harbinger
+1 Frogtosser Banneret
 
