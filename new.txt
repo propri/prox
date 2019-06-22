@@ -987,4 +987,7 @@
 1 Savage Punch
 1 Dragon-Scarred Bear
 1 Regal Caracal
+1 Sword of Truth and Justice
+1 Aria of Flame
+1 Goblin Engineer
 
