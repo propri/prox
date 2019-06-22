@@ -979,4 +979,12 @@
 1 Wort, Boggart Auntie
 1 Boggart Harbinger
 1 Frogtosser Banneret
+1 Psionic Gift
+1 Ulvenwald Bear
+1 Runeclaw Bear
+1 Alpine Grizzly
+1 Awaken the Bear
+1 Savage Punch
+1 Dragon-Scarred Bear
+1 Regal Caracal
 
