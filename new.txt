@@ -990,4 +990,13 @@
 1 Sword of Truth and Justice
 1 Aria of Flame
 1 Goblin Engineer
+1 Warren Instigator
+1 Spectral Bears
+1 Kangee, Aerie Keeper
+1 Auramancer's Guise
+1 Enhanced Awareness
+1 Dusk Urchins
+1 Phyrexian Swarmlord
+1 Jet Medallion
+1 Scalelord Reckoner
 
