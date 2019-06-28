@@ -999,4 +999,6 @@
 1 Phyrexian Swarmlord
 1 Jet Medallion
 1 Scalelord Reckoner
+1 Aphetto Alchemist
+1 Throne of the High City
 
