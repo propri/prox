@@ -1001,4 +1001,12 @@
 1 Scalelord Reckoner
 1 Aphetto Alchemist
 1 Throne of the High City
+1 Phyrexian Tyranny
+1 Seizan, Perverter of Truth
+1 Font of Mythos
+1 Dreadbore
+1 Fevered Visions
+1 Kederekt Parasite
+1 Fate Unraveler
+1 Forced Fruition
 
