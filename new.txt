@@ -1009,4 +1009,46 @@
 1 Kederekt Parasite
 1 Fate Unraveler
 1 Forced Fruition
+1 Lumbering Falls
+1 Cavalier of Dawn
+1 Cavalier of Night
+1 Sorin, Imperious Bloodlord
+1 Kaalia, Zenith Seeker
+1 Kykar, Wind's Fury
+1 Omnath, Locus of the Roil
+1 Yarok, the Desecrated
+1 Bishop of Wings
+1 Hanged Executioner
+1 Leyline of Sanctity
+1 Loxodon Lifechanter
+1 Sephara, Sky's Blade
+1 Starfield Mystic
+1 Agent of Treachery
+1 Atemsis, All-Seeing
+1 Drawn from Dreams
+1 Flood of Tears
+1 Masterful Replication
+1 Embodiment of Agonies
+1 Knight of the Ebon Legion
+1 Legions End
+1 Rotting Regisaur
+1 Scheming Symmetry
+1 Drakuseth, Maw of Flames
+1 Leyline of Combustion
+1 Repeated Reverberation
+1 Thunderkin Awakener
+1 Elvish Reclaimer
+1 Gargos, Vicious Watcher
+1 Leyline of Abundance
+1 Nightpack Ambusher
+1 Shared Summons
+1 Voracious Hydra
+1 Wakeroot Elemental
+1 Icon of Ancestry
+1 Mystic Forge
+1 Steel Overseer
+1 Field of the Dead
+1 Lotus Field
+1 Fatespinner
+1 Beacon of Immortality
 
