@@ -1051,4 +1051,131 @@
 1 Lotus Field
 1 Fatespinner
 1 Beacon of Immortality
+1 Abduction
+1 Overlaid Terrain
+1 Dralnu's Crusade
+1 Cowardice
+1 Unsummon
+1 Mark of Eviction
+1 Call to the Netherworld
+1 Fodder Launch
+1 Boggart Birth Rite
+1 Crab Umbra
+1 Disentomb
+1 Dismiss into Dream
+1 Illusory Gains
+1 Gravepurge
+1 Dark Petition
+1 Moorland Inquisitor
+1 Warden of Evos Isle
+1 Skywhaler's Shot
+1 Recover
+1 Ember Hauler
+1 Expose to Daylight
+1 Prismite
+1 Llanowar Tribe
+1 Twinblade Paladin
+1 Waterkin Shaman
+1 Thirsting Bloodlord
+1 Gnarlback Rhino
+1 Cavalier of Gales
+1 Cavalier of Flame
+1 Cavalier of Thorns
+1 Kethis, the Hidden Hand
+1 Brought Back
+1 Tale's End
+1 Vilis, Broker of Blood
+1 Chandra, Acolyte of Flame
+1 Marauding Raptor
+1 Shifting Ceratops
+1 Bag of Holding
+1 Golos, Tireless Pilgrim
+1 Ancestral Blade
+1 Angel of Vitality
+1 Apostle of Purifying Light
+1 Devout Decree
+1 Eternal Isolation
+1 Gauntlets of Light
+1 Herald of the Sun
+1 Master Splicer
+1 Brineborn Cutthroat
+1 Cerulean Drake
+1 Hard Cover
+1 Portal of Sanctuary
+1 Renowned Weaponsmith
+1 Scholar of the Ages
+1 Spectral Sailor
+1 Yarok's Wavecrasher
+1 Blightbeetle
+1 Blood for Bones
+1 Bloodsoaked Altar
+1 Bloodthirsty Aerialist
+1 Gruesome Scourger
+1 Noxious Grasp
+1 Thought Distortion
+1 Vampire of the Dire Moon
+1 Vengeful Warchief
+1 Yarok's Fenlurker
+1 Chandra, Novice Pyromancer
+1 Fry
+1 Mask of Immolation
+1 Rapacious Dragon
+1 Scampering Scorcher
+1 Howling Giant
+1 Overgrowth Elemental
+1 Season of Growth
+1 Veil of Summer
+1 Wolfrider's Saddle
+1 Woodland Champion
+1 Corpse Knight
+1 Creeping Trailblazer
+1 Empyrean Eagle
+1 Ironroot Warlord
+1 Lightning Stormkin
+1 Moldervine Reclamation
+1 Ogre Siegebreaker
+1 Risen Reef
+1 Skyknight Vanguard
+1 Tomebound Lich
+1 Colossus Hammer
+1 Diamond Knight
+1 Diviner's Lockbox
+1 Manifold Key
+1 Pattern Matcher
+1 Salvager of Ruin
+1 Cryptic Caves
+1 Aerial Assault
+1 Dawning Angel
+1 Glaring Aegis
+1 Soulmender
+1 Squad Captain
+1 Boreal Elemental
+1 Cloudkin Seer
+1 Faerie Miscreant
+1 Frost Lynx
+1 Octoprophet
+1 Sage's Row Denizen
+1 Sleep Paralysis
+1 Winged Words
+1 Zephyr Charge
+1 Audacious Thief
+1 Blood Burglar
+1 Boneclad Necromancer
+1 Gorging Vulture
+1 Unholy Indenture
+1 Daggersail Aeronaut
+1 Destructive Digger
+1 Goblin Bird-Grabber
+1 Goblin Smuggler
+1 Infuriate
+1 Reckless Air Strike
+1 Ferocious Pup
+1 Growth Cycle
+1 Leafkin Druid
+1 Sedge Scorpion
+1 Silverback Shaman
+1 Thicket Crasher
+1 Wolfkin Bond
+1 Marauder's Axe
+1 Vial of Dragonfire
 
