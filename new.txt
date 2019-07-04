@@ -1178,4 +1178,5 @@
 1 Wolfkin Bond
 1 Marauder's Axe
 1 Vial of Dragonfire
+1 Bedevil
 
