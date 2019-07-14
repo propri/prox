@@ -1179,4 +1179,20 @@
 1 Marauder's Axe
 1 Vial of Dragonfire
 1 Bedevil
+1 Stifle
+1 Boggart Mob
+1 Skyline Despot
+1 Hall of the Bandit Lord
+1 Fire-Lit Thicket
+1 Bazaar Trader
+1 Deathless Angel
+1 Druids' Repository
+1 Muzzio, Visionary Architect
+1 Carnage Tyrant
+1 Storm the Vault
+1 Vault of Catlacan
+1 Morophon, the Boundless
+1 Razaketh, the Foulblooded
+1 Fetid Heath
+1 Wooded Bastion
 
