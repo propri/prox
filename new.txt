@@ -1195,4 +1195,10 @@
 1 Razaketh, the Foulblooded
 1 Fetid Heath
 1 Wooded Bastion
+1 Avalanche Riders
+1 Furnace of Rath
+1 Fable of Wolf and Owl
+1 Lingering Souls
+1 Monastery Swiftspear
+1 Kor Firewalker
 
