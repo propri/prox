@@ -1201,4 +1201,31 @@
 1 Lingering Souls
 1 Monastery Swiftspear
 1 Kor Firewalker
+1 Balduvian Bears
+1 Llawan, Cephalid Empress
+1 Grizzly Fate
+1 Convolute
+1 Saltskitter
+1 Deputy of Acquittals
+1 Lovisa Coldeyes
+1 Choking Tethers
+1 Endling
+1 Force of Despair
+1 Abominable Treefolk
+1 Rienne, Angel of Rebirth
+1 Rite of Belzenlok
+1 Niambi, Faithful Healer
+1 Dread Presence
+1 Tendrils of Agony
+1 Light of Sanction
+1 Bloodchief Ascension
+1 Trait Doctoring
+1 Torchling
+1 Neheb, the Eternal
+1 Arguel's Blood Fast
+1 Temple of Aclazotz
+1 Primal Amulet
+1 Primal Wellspring
+1 Loyal Retainers
+1 Rolling Earthquake
 
