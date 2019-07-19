@@ -1235,4 +1235,17 @@
 1 Prodigal Sorcerer
 1 Dragonlord Dromoka
 1 Impassioned Orator
+1 Unseen Walker
+1 Sage Owl
+1 Thalakos Seer
+1 Test of Endurance
+1 Higure, the Still Wind
+1 Sakashima the Impostor
+1 Hibernation's End
+1 Looter il-Kor
+1 Master Transmuter
+1 Serra Ascendant
+1 Sakashima's Student
+1 Jace's Phantasm
+1 Artificer's Assistant
 
