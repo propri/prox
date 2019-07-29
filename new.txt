@@ -1249,4 +1249,7 @@
 1 Jace's Phantasm
 1 Artificer's Assistant
 1 Unravel the Aether
+1 New Frontiers
+1 Archmage's Charm
+1 Hydroid Krasis
 
