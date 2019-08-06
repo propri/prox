@@ -1252,4 +1252,29 @@
 1 New Frontiers
 1 Archmage's Charm
 1 Hydroid Krasis
+1 Vex
+1 Ignorant Bliss
+1 Tormented Soul
+1 Wingcrafter
+1 Shoving Match
+1 Genesis Hydra
+1 Inkfathom Witch
+1 Dimir Infiltrator
+1 Chart a Course
+1 Venomous Changeling
+1 Zombie Infestation
+1 Demon of Death's Gate
+1 Assassin's Trophy
+1 Echo of Eons
+1 Walker of Secret Ways
+1 Inkfathom Infiltrator
+1 Rosheen Meanderer
+1 Mistblade Shinobi
+1 Okiba-Gang Shinobi
+1 Mothdust Changeling
+1 Supreme Phantom
+1 Grizzly Bears
+1 Lightning Blow
+1 Celestial Convergence
+1 Heartbeat of Spring
 
