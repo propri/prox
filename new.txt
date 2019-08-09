@@ -1277,4 +1277,7 @@
 1 Lightning Blow
 1 Celestial Convergence
 1 Heartbeat of Spring
+1 Eon Hub
+1 Biogenic Ooze
+1 Legion's End
 
