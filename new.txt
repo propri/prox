@@ -1281,3 +1281,5 @@
 1 Biogenic Ooze
 1 Legion's End
 1 Mox Tantalite
+1 Gitaxian Probe
+
