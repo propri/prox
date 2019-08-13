@@ -1282,4 +1282,8 @@
 1 Legion's End
 1 Mox Tantalite
 1 Gitaxian Probe
+1 Séance
+1 Seance
+1 Fate Forgotten
+1 Emergency Powers
 
