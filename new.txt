@@ -1287,4 +1287,8 @@
 1 Fate Forgotten
 1 Emergency Powers
 1 Trostani's Summoner
+1 Dread of Night
+1 Untaidake, the Cloud Keeper
+1 Sakiko, Mother of Summer
+1 Primal Rage
 
