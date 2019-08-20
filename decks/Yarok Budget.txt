@@ -1,0 +1,91 @@
+Main
+1 Yarok, the Desecrated # !Commander
+1 Baloth Woodcrasher
+1 End-Raze Forerunners
+1 Eternal Witness
+1 Phyrexian Delver
+
+lands
+1 Command Tower
+1 Dismal Backwater
+1 Evolving Wilds
+14 Forest
+9 Island
+1 Jungle Hollow
+1 Opulent Palace
+6 Swamp
+1 Terramorphic Expanse
+1 Thornwood Falls
+
+ramp
+1 Cultivate
+1 Elvish Rejuvenator
+1 Farhaven Elf
+1 Farseek
+1 Khalni Heart Expedition
+1 Kodama's Reach
+1 Ondu Giant
+1 Rampant Growth
+1 Springbloom Druid
+1 Talisman of Curiosity
+1 Talisman of Resilience
+1 Wood Elves
+1 Yavimaya Dryad
+1 Yavimaya Granger
+
+draw
+1 Cloudkin Seer
+1 Coiling Oracle
+1 Dusk Legion Zealot
+1 Elemental Bond
+1 Elvish Visionary
+1 Fblthp, the Lost
+1 Guardian Project
+1 Kiora, Behemoth Beckoner
+1 Mulldrifter
+1 Risen Reef
+1 Soul of the Harvest
+1 Tatyova, Benthic Druid
+
+removal
+1 Acidic Slime
+1 Doom Blade
+1 Evacuation
+1 Manglehorn
+1 Meteor Golem
+1 Nature's Claim
+1 Nekrataal
+1 Ravenous Chupacabra
+1 Reclamation Sage
+1 Terror
+1 Whiptongue Hydra
+
+value
+1 Aether Adept
+1 Archaeomancer
+1 Clone
+1 Cloud of Faeries
+1 Displace
+1 Essence Flux
+1 Evil Twin
+1 Fierce Empath
+1 Ghostly Flicker
+1 Gigantoplasm
+1 Identity Thief
+1 Man-o'-War
+1 Mirror Image
+1 Mnemonic Wall
+1 Panharmonicon
+1 Peregrine Drake
+1 Rampaging Baloths
+1 Shrieking Drake
+1 Spark Double
+1 Temur Sabertooth
+1 Vizier of Many Faces
+1 Zendikar's Roil
+
+Sideboard
+SB: 1 Agent of Treachery
+SB: 1 Dimir Guildgate
+SB: 1 Golgari Guildgate
+SB: 1 Simic Guildgate

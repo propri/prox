@@ -1,0 +1,92 @@
+Main
+1 Wort, Boggart Auntie # !Commander
+1 Coat of Arms
+1 Goblin Bombardment
+1 Lightning Greaves
+1 Quest for the Goblin Lord
+1 Shared Animosity
+1 Swiftfoot Boots
+
+reanimation
+1 Hell's Caretaker
+1 Phyrexian Reclamation
+1 Unearth
+1 Victimize
+1 Whisper, Blood Liturgist
+
+goblins!
+1 Beetleback Chief
+1 Boggart Shenanigans
+1 Dragon Fodder
+1 Goblin Chieftain
+1 Goblin Chirurgeon
+1 Goblin Instigator
+1 Goblin King
+1 Goblin Ringleader
+1 Goblin Sharpshooter
+1 Goblin Trashmaster
+1 Goblin War Party
+1 Goblin Warchief
+1 Hordeling Outburst
+1 Krenko's Command
+1 Krenko, Mob Boss
+1 Krenko, Tin Street Kingpin
+1 Legion Warboss
+1 Mad Auntie
+1 Mogg War Marshal
+1 Pashalik Mons
+1 Siege-Gang Commander
+1 Sling-Gang Lieutenant
+1 Squee, Goblin Nabob
+1 Squee, the Immortal
+
+remova
+1 Bedevil
+1 Chaos Warp
+1 Damnation
+1 Fatal Push
+1 Go for the Throat
+1 Goblin Grenade
+1 Lightning Bolt
+1 Munitions Expert
+1 Skirk Fire Marshal
+1 Terminate
+1 Vandalblast
+
+ramp
+1 Frogtosser Banneret
+1 Rakdos Signet
+1 Skirk Prospector
+1 Sol Ring
+1 Talisman of Indulgence
+
+draw tutor
+1 Altar's Reap
+1 Bankrupt in Blood
+1 Boggart Harbinger
+1 Costly Plunder
+1 Demonic Tutor
+1 Diabolic Intent
+1 Goblin Matron
+1 Goblin Recruiter
+1 Merciless Resolve
+1 Night's Whisper
+1 Skullclamp
+1 Skulltap
+
+lands
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Command Tower
+1 Dragonskull Summit
+1 Ghost Quarter
+1 Graven Cairns
+1 Luxury Suite
+13 Mountain
+1 Path of Ancestry
+1 Polluted Delta
+1 Smoldering Marsh
+10 Swamp
+1 Unclaimed Territory
+1 Wooded Foothills

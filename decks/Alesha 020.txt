@@ -1,0 +1,119 @@
+Main
+1 Alesha, Who Smiles at Death # !Commander
+1 Boros Charm
+1 Gisela, Blade of Goldnight
+1 Iroas, God of Victory
+1 Key to the City
+1 Lightning Greaves
+1 Mother of Runes
+1 Reconnaissance
+1 Remorseful Cleric
+1 Sun Titan
+1 Victimize
+1 Viscera Seer
+1 Whispersilk Cloak
+
+removal / wipe
+1 Anguished Unmaking
+1 Crush Contraband
+1 Despark
+1 Duergar Hedge-Mage
+1 Duplicant
+1 Mortify
+1 Path to Exile
+1 Swords to Plowshares
+1 Toxic Deluge
+1 Utter End
+1 Wrath of God
+
+ramp
+1 Black Market
+1 Boros Signet
+1 Burnished Hart
+1 Commander's Sphere
+1 Fellwar Stone
+1 Kor Cartographer
+1 Orzhov Signet
+1 Rakdos Signet
+1 Sol Ring
+1 Solemn Simulacrum
+
+draw
+1 Altar's Reap
+1 Buried Alive
+1 Costly Plunder
+1 Dusk Legion Zealot
+1 Faithless Looting
+1 Mentor of the Meek
+1 Rummaging Goblin
+1 Skullclamp
+1 Tormenting Voice
+
+alesha
+1 Angel of Invention
+1 Archetype of Finality
+1 Beetleback Chief
+1 Cadaver Imp
+1 Disciple of Bolas
+1 Drana, Liberator of Malakir
+1 Embodiment of Agonies
+1 Gravedigger
+1 Master of Cruelties
+1 Nekrataal
+1 Priest of the Blood Rite
+1 Ravenous Chupacabra
+1 Selfless Spirit
+1 Siege-Gang Commander
+1 Stinkweed Imp
+1 Thief of Blood
+1 Urbis Protector
+1 Vampire Nighthawk
+1 Yahenni, Undying Partisan
+1 Yawgmoth, Thran Physician
+1 Zulaport Cutthroat
+
+lands
+1 Battlefield Forge
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Caves of Koilos
+1 Clifftop Retreat
+1 Command Tower
+1 Dragonskull Summit
+1 Flamekin Village
+1 Flooded Strand
+1 Godless Shrine
+1 Graven Cairns
+1 Hall of the Bandit Lord
+1 High Market
+1 Isolated Chapel
+1 Maze of Ith
+2 Mountain
+1 Nomad Outpost
+2 Plains
+1 Polluted Delta
+1 Rogue's Passage
+1 Sacred Foundry
+1 Sulfurous Springs
+5 Swamp
+1 Tainted Field
+1 Tainted Peak
+1 Temple of Malice
+1 Temple of Triumph
+1 Windswept Heath
+1 Wooded Foothills
+
+Sideboard
+SB: 1 Ankle Shanker
+SB: 1 Cathartic Reunion
+SB: 1 Deathgaze Cockatrice #embodiment of agonies
+SB: 1 Dutiful Attendant
+SB: 1 General's Kabuto
+SB: 1 Gray Merchant of Asphodel
+SB: 1 Malakir Familiar
+SB: 1 Ponyback Brigade
+SB: 1 Shadowblood Ridge
+SB: 1 Swiftfoot Boots
+SB: 1 Temple of Silence
+SB: 1 Wild Guess

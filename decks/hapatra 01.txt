@@ -1,0 +1,102 @@
+Main
+1 Hapatra, Vizier of Poisons # !Commander
+1 Craterhoof Behemoth
+1 Dauthi Embrace
+1 Eldrazi Monument
+1 Evolution Sage
+1 Flourishing Defenses
+1 Journey to Eternity
+1 Triumph of the Hordes
+
+lands
+1 Bojuka Bog
+1 Command Tower
+1 Dryad Arbor
+11 Forest
+1 Grasping Dunes
+1 Grim Backwoods
+1 Ifnir Deadlands
+1 Llanowar Wastes
+1 Overgrown Tomb
+1 Phyrexian Tower
+1 Rogue's Passage
+12 Swamp
+1 Tainted Wood
+1 Twilight Mire
+1 Woodland Cemetery
+
+counters
+1 Ammit Eternal
+1 Baleful Ammit
+1 Banewhip Punisher
+1 Blowfly Infestation
+1 Carnifex Demon
+1 Cinderbones
+1 Contagion Clasp
+1 Contagion Engine
+1 Corrosive Mentor
+1 Decimator Beetle
+1 Deity of Scars
+1 Festering Mummy
+1 Grim Affliction
+1 Juvenile Gloomwidow
+1 Midnight Banshee
+1 Necroskitter
+1 Nest of Scarabs
+1 Noxious Hatchling
+1 Obelisk Spider
+1 Phyrexian Hydra
+1 Quillspike
+1 Rendclaw Trow
+1 Serrated Arrows
+
+ramp
+1 Birds of Paradise
+1 Channeler Initiate
+1 Deathrite Shaman
+1 Devoted Druid
+1 Growing Rites of Itlimoc
+1 Llanowar Elves
+1 Sol Ring
+
+draw tutor
+1 Altar's Reap
+1 Ambition's Cost
+1 Ancient Craving
+1 Blood Divination
+1 Chord of Calling
+1 Costly Plunder
+1 Demonic Tutor
+1 Diabolic Intent
+1 Green Sun's Zenith
+1 Harmonize
+1 Night's Whisper
+1 Overwhelming Instinct
+1 Read the Bones
+1 Shamanic Revelation
+1 Sign in Blood
+1 Succumb to Temptation
+1 Worldly Tutor
+
+removal
+1 Black Sun's Zenith
+1 Crumbling Ashes
+1 Damnation
+1 Deglamer
+1 Nature's Claim
+1 Splendid Agony
+1 Torture
+1 Tragic Slip
+1 Wickerbough Elder
+
+Sideboard
+SB: 1 Bankrupt in Blood
+SB: 1 Crop Rotation
+SB: 1 Fevered Convulsions
+SB: 1 Fume Spitter
+SB: 1 Hapatra's Mark
+SB: 1 Instill Infection
+SB: 1 Melira, Sylvok Outcast
+SB: 1 Overrun
+SB: 1 Overwhelming Stampede
+SB: 1 Syphon Mind

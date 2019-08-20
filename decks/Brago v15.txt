@@ -75,7 +75,7 @@ lands
 1 Nimbus Maze
 13 Plains
 1 Port Town
-1 [C16] Reliquary Tower
+1 Reliquary Tower
 1 Rogue's Passage #unblockable for brago
 
 counter
