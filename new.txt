@@ -1291,4 +1291,6 @@
 1 Untaidake, the Cloud Keeper
 1 Sakiko, Mother of Summer
 1 Primal Rage
+1 Liliana, Dreadhorde General
+1 Blast Zone
 
