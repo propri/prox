@@ -1293,4 +1293,9 @@
 1 Primal Rage
 1 Liliana, Dreadhorde General
 1 Blast Zone
+1 Siege Rhino
+1 Nightmare Unmaking
+1 Full Flowering
+1 Idol of Oblivion
+1 Bloodthirsty Blade
 
