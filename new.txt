@@ -1303,4 +1303,12 @@
 1 Absolute Grace
 1 Absolute Law
 1 Power Matrix
+1 Mana Echoes
+1 Three Wishes
+1 Pendrell Mists
+1 Charisma
+1 Spelljack
+1 Exalted Angel
+1 Ghastlord of Fugue
+1 Painful Quandary
 
