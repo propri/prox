@@ -1311,4 +1311,10 @@
 1 Exalted Angel
 1 Ghastlord of Fugue
 1 Painful Quandary
+1 Bone Miser
+1 Selesnya Eulogist
+1 Jace's Sanctum
+1 Fresh Meat
+1 Wayfaring Temple
+1 Voice of Many
 
