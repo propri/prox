@@ -1317,4 +1317,40 @@
 1 Fresh Meat
 1 Wayfaring Temple
 1 Voice of Many
+1 Giver of Runes
+1 Collector Ouphe
+1 Force of Vigor
+1 Ice-Fang Coatl
+1 Fiery Islet
+1 Prismatic Vista
+1 Silent Clearing
+1 Waterlogged Grove
+1 Grimoire of the Dead
+1 Heritage Druid
+1 Timely Reinforcements
+1 Anger of the Gods
+1 Thunderbreak Regent
+1 Training Grounds
+1 Darksteel Relic
+1 Beast Token
+1 Oversold Cemetery
+1 The First Sliver
+1 Nurturing Peatland
+1 Sunbaked Canyon
+1 Phantasmal Image
+1 Pariah's Shield
+1 Fork
+1 Berserk
+1 Vault of the Archangel
+1 Gush
+1 Archangel of Thune
+1 Mesmerizing Benthid
+1 Umezawa's Jitte
+1 Thalia, Guardian of Thraben
+1 Natural Order
+1 Karn, Scion of Urza
+1 Nicol Bolas, Dragon-God
+1 Serra the Benevolent
+1 Westvale Abbey
+1 Ormendahl, Profane Prince
 
