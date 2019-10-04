@@ -1353,4 +1353,14 @@
 1 Serra the Benevolent
 1 Westvale Abbey
 1 Ormendahl, Profane Prince
+1 Westvale Abbey
+1 Ormendahl, Profane Prince
+1 No Mercy
+1 Primeval Bounty
+1 Baron Sengir
+1 Tangle Wire
+1 Delaying Shield
+1 Krark's Thumb
+1 Soul Foundry
+1 Enclave Cryptologist
 
