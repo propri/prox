@@ -1461,4 +1461,5 @@
 1 Feasting Troll King
 1 Escape to the Wilds
 1 Stonecoil Serpent
+1 Master of Waves
 
