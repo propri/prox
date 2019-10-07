@@ -1462,4 +1462,12 @@
 1 Escape to the Wilds
 1 Stonecoil Serpent
 1 Master of Waves
+1 Black Vise
+1 Gemstone Mine
+1 Recurring Nightmare
+1 Blinkmoth Nexus
+1 Geralf's Messenger
+1 Profane Procession
+1 Tomb of the Dusk Rose
+1 Crashing Footfalls
 
