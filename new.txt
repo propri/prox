@@ -1470,4 +1470,8 @@
 1 Profane Procession
 1 Tomb of the Dusk Rose
 1 Crashing Footfalls
+1 Infernal Tribute
+1 Lotus Petal
+1 Grimgrin, Corpse-Born
+1 Unraveling Mummy
 
