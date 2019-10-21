@@ -1474,4 +1474,6 @@
 1 Lotus Petal
 1 Grimgrin, Corpse-Born
 1 Unraveling Mummy
+1 Goblin Chainwhirler
+1 Murderous Rider // Swift End
 
