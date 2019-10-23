@@ -147,8 +147,8 @@
 
 8 Mirage Mirror
 4 Elesh Norn, Grand Cenobite
-4 Search for Azcanta
-4 Azcanta, the Sunken Ruin
+8 Search for Azcanta
+8 Azcanta, the Sunken Ruin
 4 Legion's Landing
 4 Adanto, the First Fort
 4 Treasure Map
@@ -317,6 +317,131 @@
 8 Bone Miser
 16 Anguished Unmaking
 4 Training Grounds
+8 Walking Ballista
+4 Metalworker
+4 Academy Rector
+4 Scroll Rack
+8 Survival of the Fittest
+8 Force of Will
+8 Grim Monolith
+4 Sword of the Animist
+8 Sword of Light and Shadow
+8 Sword of Sinew and Steel
+8 Sword of Truth and Justice
+2 Forest Bear
+4 Loyal Retainers
+4 Sakashima's Student
+4 Queen Marchesa
+4 Aluren
+4 Chrome Mox
+16 Rise of the Dark Realms
+4 Arcbound Ravager
+8 No Mercy
+4 Recurring Nightmare
+8 Mox Amber
+16 Berserk
+8 Mizzix's Mastery
+8 Enlightened Tutor
+8 Mana Echoes
+8 Archangel of Thune
+4 Grindstone
+4 Sphere of Resistance
+8 Sakashima the Impostor
+8 Natural Order
+8 Jet Medallion
+8 Time Warp
+4 Dragonlord Dromoka
+4 Thalia, Guardian of Thraben
+4 Captain Sisay
+8 Hatred
+8 Razaketh, the Foulblooded
+8 Karn, the Great Creator
+16 Phantasmal Image
+4 Master Transmuter
+8 Patriarch's Bidding
+8 Gravecrawler
+4 Rampaging Brontodon
+4 Angelic Guardian
+2 Rienne, Angel of Rebirth
+4 Gisela, the Broken Blade
+4 Bruna, the Fading Light
+4 Brisela, Voice of Nightmares
+4 Angler Turtle
+2 Thirsting Bloodlord
+2 Twinblade Paladin
+8 Karn, Scion of Urza
+8 Contagion Engine
+8 Glimpse of Nature
+8 Resplendent Angel
+8 Braingeyser
+16 Tooth and Nail
+16 Giver of Runes
+2 Primeval Titan
+8 Kira, Great Glass-Spinner
+8 Nether Traitor
+4 Opalescence
+8 Yawgmoth, Thran Physician
+4 Umezawa's Jitte
+8 Sidisi, Undead Vizier
+8 Bloodchief Ascension
+4 Freyalise, Llanowar's Fury
+4 Saheeli Rai
+8 Corpse Dance
+8 Necromancy
+8 Sterling Grove
+8 Birthing Pod
+8 Archangel of Tithes
+8 Spike Weaver
+8 Dance of the Dead
+16 Serra Ascendant
+4 Hall of Gemstone
+8 Baneslayer Angel
+8 Lotus Petal
+4 Liliana, Death's Majesty
+4 Chandra, Acolyte of Flame
+4 Maelstrom Wanderer
+4 Dreadhorde Arcanist
+4 Pendrell Mists
+4 Bastion Protector
+4 Repercussion
+8 Carnage Tyrant
+8 Phyrexian Metamorph
+4 Emry, Lurker of the Loch
+4 Geist of Saint Traft
+8 Stranglehold
+8 Painful Quandary
+8 Splinter Twin
+8 Lyra Dawnbringer
+16 Coalition Relic
+8 Drana, Liberator of Malakir
+4 Ice-Fang Coatl
+8 Forced Fruition
+8 Geralf's Messenger
+8 Force of Vigor
+8 Krark-Clan Ironworks
+8 Echo of Eons
+8 Fracturing Gust
+8 Noxious Revival
+8 Pyromancer's Goggles
+4 Serra the Benevolent
+4 Grand Abolisher
+4 Collector Ouphe
+8 Primeval Bounty
+4 Nissa, Who Shakes the World
+2 Demon of Death's Gate
+8 Realm-Cloaked Giant // Cast Off
+8 Grimgrin, Corpse-Born
+4 Gideon of the Trials
+4 Varchild's War-Riders
+8 Insurrection
+8 Rolling Earthquake
+4 Heritage Druid
+4 Phyrexian Unlife
+4 Angel of Jubilation
+4 Angelic Overseer
+
+
+
 
 
 
