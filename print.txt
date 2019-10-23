@@ -316,6 +316,7 @@
 4 Geth, Lord of the Vault
 8 Bone Miser
 16 Anguished Unmaking
+4 Training Grounds
 
 
 
