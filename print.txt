@@ -439,6 +439,7 @@
 4 Phyrexian Unlife
 4 Angel of Jubilation
 4 Angelic Overseer
+8 Fatal Push
 
 
 
