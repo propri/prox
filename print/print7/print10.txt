@@ -1,0 +1,91 @@
+1 Worldly Tutor
+1 Corpsejack Menace
+1 Dictate of Erebos
+1 Ghalta, Primal Hunger
+1 Grave Pact
+1 In Garruk's Wake
+1 Verdant Force
+
+1 Tuvasa the Sunlit
+1 Enlightened Tutor
+1 Estrid, the Masked
+1 Open the Armory
+1 Open the Vaults
+1 Replenish
+1 Retether
+1 Sphere of Safety
+1 Argothian Enchantress
+1 Eidolon of Blossoms
+1 Enchantress's Presence
+1 Femeref Enchantress
+1 Mesa Enchantress
+1 Nezahal, Primal Tide
+1 Satyr Enchanter
+1 Verduran Enchantress
+1 Arbor Elf
+1 Birds of Paradise
+1 Blossom Dryad
+1 Crop Rotation
+1 Dawn's Reflection
+1 Exploration
+1 Fertile Ground
+1 Gift of Paradise
+1 Kiora's Follower
+1 Krosan Restorer
+1 Magus of the Candelabra
+1 Market Festival
+1 New Horizons
+1 Overgrowth
+1 Pir's Whim
+1 Rime Tender
+1 Sheltered Aerie
+1 Sylvan Scrying
+1 Ulvenwald Hydra
+1 Utopia Sprawl
+1 Verdant Haven
+1 Vizier of Tumbling Sands
+1 Voyaging Satyr
+1 Weirding Wood
+1 Wild Growth
+1 Breeding Pool
+1 Canopy Vista
+1 Command Tower
+1 Flooded Strand
+1 Hall of Heliod's Generosity
+1 Hallowed Fountain
+1 Nykthos, Shrine to Nyx
+1 Polluted Delta
+1 Prairie Stream
+1 Prismatic Vista
+1 Reliquary Tower
+1 Temple Garden
+1 Windswept Heath
+1 Wooded Foothills
+1 Darksteel Mutation
+1 Imprisoned in the Moon
+1 Oblivion Ring
+1 Song of the Dryads
+1 Winds of Rath
+1 Ancestral Mask
+1 Angelic Destiny
+1 Bear Umbra
+1 Boar Umbra
+1 Crab Umbra
+1 Drake Umbra
+1 Eel Umbra
+1 Eland Umbra
+1 Ethereal Armor
+1 Felidar Umbra
+1 Hyena Umbra
+1 Launch
+1 Mammoth Umbra
+1 Pemmin's Aura
+1 Rancor
+1 Snake Umbra
+1 Spider Umbra
+1 Treefolk Umbra
+1 Abundant Growth
+1 All That Glitters
+1 Argothian Elder
+1 Cloud of Faeries
+1 Elvish Guidance

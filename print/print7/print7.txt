@@ -1,0 +1,118 @@
+1 Polluted Delta
+1 Steam Vents
+1 Stomping Ground
+1 Windswept Heath
+1 Wooded Foothills
+1 Embodiment of Fury
+1 Embodiment of Insight
+1 Embodiment of Spring
+
+1 Nekusar, the Mindrazer
+1 Baleful Strix
+1 Lightning Greaves
+1 Nezahal, Primal Tide
+1 Swiftfoot Boots
+1 Waste Not
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Cascade Bluffs
+1 Command Tower
+1 Crumbling Necropolis
+1 Dragonskull Summit
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Flooded Strand
+1 Graven Cairns
+1 Grixis Panorama
+1 Luxury Suite
+1 Mikokoro, Center of the Sea
+1 Morphic Pool
+1 Polluted Delta
+1 Reflecting Pool
+1 Reliquary Tower
+1 Shivan Reef
+1 Smoldering Marsh
+1 Steam Vents
+1 Sulfur Falls
+1 Sulfurous Springs
+1 Sunken Hollow
+1 Sunken Ruins
+1 Underground River
+1 Watery Grave
+1 Wooded Foothills
+1 Dictate of Kruphix
+1 Fevered Visions
+1 Font of Mythos
+1 Forced Fruition
+1 Howling Golem
+1 Howling Mine
+1 Jace Beleren
+1 Kami of the Crescent Moon
+1 Khorvath's Fury
+1 Seizan, Perverter of Truth
+1 Spiteful Visions
+1 Temple Bell
+1 Vision Skeins
+1 Chasm Skulker
+1 Fate Unraveler
+1 Kederekt Parasite
+1 Notion Thief
+1 Ob Nixilis, the Hate-Twisted
+1 Oneirophage
+1 Phyrexian Tyranny
+1 Price of Knowledge
+1 Psychosis Crawler
+1 The Locust God
+1 Underworld Dreams
+1 Viseling
+1 Arcane Denial
+1 Bedevil
+1 Blasphemous Act
+1 Chaos Warp
+1 Crosis's Charm
+1 Damnation
+1 Decree of Pain
+1 Dreadbore
+1 Dream Fracture
+1 Evacuation
+1 Expansion // Explosion
+1 Go for the Throat
+1 Hero's Downfall
+1 Narset's Reversal
+1 Smelt
+1 Sudden Spoiling
+1 Terminate
+1 Toxic Deluge
+1 Vandalblast
+1 Chromatic Lantern
+1 Commander's Sphere
+1 Darksteel Ingot
+1 Dimir Signet
+1 Fellwar Stone
+1 Izzet Signet
+1 Nightscape Familiar
+1 Rakdos Signet
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 Thought Vessel
+1 Arjun, the Shifting Flame
+1 Ashiok, Dream Render
+1 Damnable Pact
+1 Fascination
+1 Infernal Offering
+1 Intellectual Offering
+1 Nicol Bolas, Planeswalker
+1 Nin, the Pain Artist
+1 Otherworld Atlas
+1 Prosperity
+1 Rhystic Study
+1 Skyscribing
+1 Temple of Deceit
+1 Temple of Epiphany
+1 Temple of Malice
+1 Consecrated Sphinx
+1 Jace, Wielder of Mysteries
+1 Laboratory Maniac

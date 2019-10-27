@@ -1,0 +1,141 @@
+16 Canopy Vista
+16 Cinder Glade
+16 Prairie Stream
+16 Smoldering Marsh
+16 Sunken Hollow
+16 Clifftop Retreat
+16 Dragonskull Summit
+16 Drowned Catacomb
+16 Glacial Fortress
+16 Hinterland Harbor
+16 Isolated Chapel
+16 Rootbound Crag
+16 Sulfur Falls
+16 Sunpetal Grove
+16 Woodland Cemetery
+16 Adarkar Wastes
+16 Battlefield Forge
+16 Brushland
+16 Caves of Koilos
+16 Karplusan Forest
+16 Llanowar Wastes
+16 Shivan Reef
+16 Sulfurous Springs
+16 Underground River
+16 Yavimaya Coast
+16 Blood Crypt
+16 Breeding Pool
+16 Godless Shrine
+16 Hallowed Fountain
+16 Overgrown Tomb
+16 Sacred Foundry
+16 Steam Vents
+16 Stomping Ground
+16 Temple Garden
+16 Watery Grave
+16 Bloodstained Mire
+16 Flooded Strand
+16 Polluted Delta
+16 Windswept Heath
+16 Wooded Foothills
+32 Prismatic Vista
+32 Fabled Passage
+16 Sunbaked Canyon
+16 Fiery Islet
+16 Nurturing Peatland
+16 Waterlogged Grove
+16 Silent Clearing
+4 Hall of Heliod's Generosity
+16 Cabal Coffers
+16 Wasteland
+16 Command Beacon
+16 Ancient Tomb
+4 Urza's Mine
+4 Urza's Power Plant
+4 Urza's Tower
+4 Rishadan Port
+16 Cascade Bluffs
+32 Fetid Heath
+32 Fire-Lit Thicket
+32 Flooded Grove
+16 Graven Cairns
+32 Mystic Gate
+32 Rugged Prairie
+16 Sunken Ruins
+32 Twilight Mire
+32 Wooded Bastion
+16 Mana Confluence
+16 Maze of Ith
+16 Morphic Pool
+16 Sea of Clouds
+16 Luxury Suite
+16 Bountiful Promenade
+16 Spire Garden
+4 Oboro, Palace in the Clouds
+4 Minamo, School at Water's Edge
+16 Gemstone Mine
+16 Urborg, Tomb of Yawgmoth
+16 Nykthos, Shrine to Nyx
+16 Phyrexian Tower
+16 Dryad Arbor
+16 Boseiju, Who Shelters All
+16 Hall of the Bandit Lord
+8 Ancient Ziggurat
+16 Dust Bowl
+16 Strip Mine
+16 City of Brass
+8 Alchemist's Refuge
+8 Path of Ancestry
+8 Homeward Path
+16 Lotus Field
+4 Blast Zone
+4 Blinkmoth Nexus
+8 Westvale Abbey
+8 Ormendahl, Profane Prince
+8 Field of the Dead
+16 Forbidden Orchard
+8 Temple of Abandon
+8 Temple of Deceit
+8 Temple of Enlightenment
+8 Temple of Epiphany
+8 Temple of Malady
+8 Temple of Malice
+8 Temple of Mystery
+8 Temple of Plenty
+8 Temple of Silence
+8 Temple of Triumph
+16 Field of Ruin
+4 Gavony Township
+4 Vault of the Archangel
+4 Glacial Chasm
+8 High Market
+4 Mikokoro, Center of the Sea
+8 Arcane Lighthouse
+16 Scavenger Grounds
+8 Fetid Pools
+8 Irrigated Farmland
+8 Scattered Groves
+8 Canyon Slough
+8 Sheltered Thicket
+8 Unclaimed Territory
+4 Wirewood Lodge
+8 Crypt of Agadeem
+4 Slayers' Stronghold
+8 Nimbus Maze
+8 Ash Barrens
+16 Bojuka Bog
+4 Thespian's Stage
+16 Reliquary Tower
+4 Karn's Bastion
+4 Kher Keep
+8 Arch of Orazca
+4 Cabal Stronghold
+16 Throne of the High City
+4 Ghost Town
+8 Myriad Landscape
+8 Tainted Field
+8 Tainted Isle
+8 Tainted Peak
+8 Tainted Wood
+7 Forge of Heroes
+

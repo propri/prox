@@ -1,0 +1,91 @@
+1 Putrefy
+1 Return to Nature
+1 Seal of Primordium
+1 Shriekmaw
+1 Terminate
+1 Tragic Slip
+1 Bloodbriar
+
+1 Animar, Soul of Elements
+1 Kruphix, God of Horizons
+1 Apocalypse Hydra
+1 Gargos, Vicious Watcher
+1 Genesis Hydra
+1 Hungering Hydra
+1 Hydra Broodmaster
+1 Hydroid Krasis
+1 Kalonian Hydra
+1 Managorger Hydra
+1 Polukranos, World Eater
+1 Primordial Hydra
+1 Protean Hydra
+1 Ulvenwald Hydra
+1 Voracious Hydra
+1 Whiptongue Hydra
+1 Doubling Season
+1 Evolution Sage
+1 Hardened Scales
+1 Simic Ascendancy
+1 Unbound Flourishing
+1 Arbor Elf
+1 Birds of Paradise
+1 Boundless Realms
+1 Cultivate
+1 Farseek
+1 Fyndhorn Elves
+1 Green Sun's Zenith
+1 Gruul Signet
+1 Izzet Signet
+1 Kodama's Reach
+1 Llanowar Elves
+1 Nature's Lore
+1 Pir's Whim
+1 Rampant Growth
+1 Rosheen Meanderer
+1 Simic Signet
+1 Skyshroud Claim
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Curiosity
+1 Talisman of Impulse
+1 Traverse the Outlands
+1 Zendikar Resurgent
+1 Arcane Denial
+1 Counterspell
+1 Heroic Intervention
+1 Rhythm of the Wild
+1 Colossal Majesty
+1 Elemental Bond
+1 Greater Good
+1 Guardian Project
+1 Rhystic Study
+1 Rishkar's Expertise
+1 Temur Ascendancy
+1 Bloodstained Mire
+1 Breeding Pool
+1 Cinder Glade
+1 Command Tower
+1 Dryad Arbor
+1 Flooded Strand
+1 Hinterland Harbor
+1 Nykthos, Shrine to Nyx
+1 Polluted Delta
+1 Reliquary Tower
+1 Rootbound Crag
+1 Spire Garden
+1 Steam Vents
+1 Stomping Ground
+1 Sulfur Falls
+1 Windswept Heath
+1 Wooded Foothills
+1 Beast Within
+1 Blasphemous Act
+1 Chain Reaction
+1 Deglamer
+1 Nature's Claim
+1 Pongify
+1 Rapid Hybridization
+1 Return to Nature
+1 Hydra Omnivore
+1 Llanowar Tribe
+1 Multani, Yavimaya's Avatar

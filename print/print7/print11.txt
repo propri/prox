@@ -1,0 +1,82 @@
+1 Fatestitcher
+1 Hope Tender
+1 Indrik Umbra
+1 Ley Druid
+1 Ley Weaver
+1 Lore Weaver
+1 Octopus Umbra
+1 Stone-Seeder Hierophant
+
+1 Korvold, Fae-Cursed King
+1 Dragon Broodmother
+1 Dragonmaster Outcast
+1 Endrek Sahr, Master Breeder
+1 Hardened Scales
+1 Heroic Intervention
+1 Journey to Eternity
+1 Mycoloth
+1 Nether Traitor
+1 Ramunap Excavator
+1 Revel in Riches
+1 Tendershoot Dryad
+1 Turntimber Sower
+1 Utvara Hellkite
+1 Victimize
+1 Ashnod's Altar
+1 Awakening Zone
+1 Birds of Paradise
+1 Brass's Bounty
+1 Curse of Opulence
+1 Deathrite Shaman
+1 Dockside Extortionist
+1 Exploration
+1 Farseek
+1 From Beyond
+1 Harrow
+1 Khalni Heart Expedition
+1 Llanowar Elves
+1 Nature's Lore
+1 Pawn of Ulamog
+1 Pitiless Plunderer
+1 Rampant Growth
+1 Reassembling Skeleton
+1 Sakura-Tribe Elder
+1 Sol Ring
+1 Springbloom Druid
+1 Costly Plunder
+1 Grim Haruspex
+1 Liliana, Dreadhorde General
+1 Moldervine Reclamation
+1 Rishkar's Expertise
+1 Smothering Abomination
+1 Tireless Tracker
+1 Ulvenwald Mysteries
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Command Tower
+1 Evolving Wilds
+1 Fabled Passage
+1 Grixis Panorama
+1 Jund Panorama
+1 Myriad Landscape
+1 Naya Panorama
+1 Overgrown Tomb
+1 Polluted Delta
+1 Prismatic Vista
+1 Reliquary Tower
+1 Stomping Ground
+1 Terramorphic Expanse
+1 Windswept Heath
+1 Wooded Foothills
+1 Mazirek, Kraul Death Priest
+1 Assassin's Trophy
+1 Beast Within
+1 Blasphemous Act
+1 Bone Splinters
+1 Caustic Caterpillar
+1 Damnation
+1 Fatal Push
+1 Go for the Throat
+1 Nature's Claim
+1 Nihil Spellbomb

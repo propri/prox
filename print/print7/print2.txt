@@ -1,0 +1,293 @@
+1 Forge of Heroes
+
+8 Mirage Mirror
+4 Elesh Norn, Grand Cenobite
+8 Search for Azcanta
+8 Azcanta, the Sunken Ruin
+4 Legion's Landing
+4 Adanto, the First Fort
+4 Treasure Map
+4 Treasure Cove
+4 Thaumatic Compass
+4 Spires of Orazca
+16 Murderous Rider
+4 Emry, Lurker of the Loch
+4 Realm-Cloaked Giant
+8 Embercleave
+8 Torbran, Thane of Red Fell
+4 Fires of Invention
+8 Stonecoil Serpent
+4 The Cauldron of Eternity
+8 Ayara, First of Locthwain
+4 Hushbringer
+4 Deafening Silence
+4 Sorcerous Spyglass
+8 Clackbridge Troll
+8 Syr Konrad, the Grim
+8 Return of the Wildspeaker
+8 Keeper of Fables
+4 Sorin, Imperious Bloodlord
+16 Leyline of the Void
+4 Yarok, the Desecrated
+4 Omnath, Locus of the Roil
+4 Omnath, Locus of Rage
+4 Cavalier of Night
+4 Leyline of Sanctity
+8 Leyline of Anticipation
+8 Veil of Summer
+4 Mystic Forge
+4 Cavalier of Gales
+4 Kykar, Wind's Fury
+4 Kethis, the Hidden Hand
+4 Cavalier of Flame
+8 Elvish Reclaimer
+8 Vilis, Broker of Blood
+4 Cavalier of Dawn
+16 Scheming Symmetry
+4 Kaalia, Zenith Seeker
+4 Steel Overseer
+8 Grafdigger's Cage
+4 Golos, Tireless Pilgrim
+4 Voracious Hydra
+4 Icon of Ancestry
+4 Sephara, Sky's Blade
+8 Leyline of Abundance
+4 Drawn from Dreams
+16 Brought Back
+8 Risen Reef
+8 Drakuseth, Maw of Flames
+8 Embodiment of Agonies
+4 Flood of Tears
+8 Spectral Sailor
+4 Gargos, Vicious Watcher
+8 Shared Summons
+4 Brineborn Cutthroat
+4 Manifold Key
+4 Blood for Bones
+8 Corpse Knight
+8 Teferi, Time Raveler
+16 Liliana, Dreadhorde General
+8 Nicol Bolas, Dragon-God
+16 Finale of Devastation
+16 God-Eternal Kefnet
+8 Finale of Promise
+8 Nissa, Who Shakes the World
+16 God-Eternal Oketra
+16 Ugin, the Ineffable
+8 Ilharg, the Raze-Boar
+8 Tezzeret, Master of the Bridge
+16 God-Eternal Rhonas
+8 Narset, Parter of Veils
+16 God-Eternal Bontu
+4 Niv-Mizzet Reborn
+8 Vivien, Champion of the Wilds
+8 Sorin, Vengeful Bloodlord
+16 Finale of Glory
+16 Finale of Eternity
+8 The Elderspell
+16 Jace, Wielder of Mysteries
+4 Roalesk, Apex Hybrid
+8 Finale of Revelation
+4 Sarkhan the Masterless
+8 Dreadhorde Invasion
+8 Tamiyo, Collector of Tales
+16 Ral, Storm Conduit
+4 Feather, the Redeemed
+16 Ashiok, Dream Render
+8 Bolas's Citadel
+8 Narset's Reversal
+8 Spark Double
+8 Krenko, Tin Street Kingpin
+8 Command the Dreadhorde
+8 Time Wipe
+8 Casualties of War
+8 Massacre Girl
+8 Fblthp, the Lost
+8 Evolution Sage
+4 Neheb, Dreadhorde Champion
+4 Tolsimir, Friend to Wolves
+16 Despark
+4 Awakening of Vitu-Ghazi
+8 Cruel Celebrant
+4 Deathsprout
+4 Parhelion II
+8 Hydroid Krasis
+16 Smothering Tithe
+8 Deputy of Detention
+4 Biogenic Ooze
+8 Bedevil
+4 Angel of Grace
+4 Electrodominance
+4 Cindervines
+16 Guardian Project
+8 Wilderness Reclamation
+8 Teysa Karlov
+4 Rhythm of the Wild
+4 Biomancer's Familiar
+8 End-Raze Forerunners
+4 Mirror March
+16 Assassin's Trophy
+4 Vraska, Golgari Queen
+8 Divine Visitation
+8 Mana Vault
+8 Mikaeus, the Unhallowed
+8 Ulamog, the Infinite Gyre
+8 Life from the Loam
+8 Temporal Manipulation
+16 Phyrexian Altar
+16 Reanimate
+16 Entomb
+8 All is Dust
+8 Sigarda, Host of Herons
+4 Gaddock Teeg
+16 Glen Elendra Archmage
+4 Lord of Extinction
+8 Fauna Shaman
+8 Food Chain
+16 Containment Priest
+8 Gamble
+16 Demonic Tutor
+8 Eldrazi Conscription
+8 Woodfall Primus
+8 Pattern of Rebirth
+4 Vengeful Rebirth
+4 Concordant Crossroads
+4 Emerald Medallion
+4 Call to the Grave
+4 Gigantomancer
+4 Baral, Chief of Compliance
+36 Arcane Signet
+16 Coalition Relic
+8 Coldsteel Heart
+16 Cyclonic Rift
+8 Fork
+16 Lightning Bolt
+16 Endless Atlas
+8 Solemn Simulacrum
+16 Dockside Extortionist
+8 Ohran Frostfang
+8 Apex Altisaur
+4 Geth, Lord of the Vault
+8 Bone Miser
+16 Anguished Unmaking
+4 Training Grounds
+8 Walking Ballista
+4 Metalworker
+4 Academy Rector
+4 Scroll Rack
+8 Survival of the Fittest
+8 Force of Will
+8 Grim Monolith
+4 Sword of the Animist
+8 Sword of Light and Shadow
+8 Sword of Sinew and Steel
+8 Sword of Truth and Justice
+2 Forest Bear
+4 Loyal Retainers
+4 Sakashima's Student
+4 Queen Marchesa
+4 Aluren
+4 Chrome Mox
+16 Rise of the Dark Realms
+4 Arcbound Ravager
+8 No Mercy
+4 Recurring Nightmare
+8 Mox Amber
+16 Berserk
+8 Mizzix's Mastery
+8 Enlightened Tutor
+8 Mana Echoes
+8 Archangel of Thune
+4 Grindstone
+4 Sphere of Resistance
+8 Sakashima the Impostor
+8 Natural Order
+8 Jet Medallion
+8 Time Warp
+4 Dragonlord Dromoka
+4 Thalia, Guardian of Thraben
+4 Captain Sisay
+8 Hatred
+8 Razaketh, the Foulblooded
+8 Karn, the Great Creator
+16 Phantasmal Image
+4 Master Transmuter
+8 Patriarch's Bidding
+8 Gravecrawler
+4 Rampaging Brontodon
+4 Angelic Guardian
+2 Rienne, Angel of Rebirth
+4 Gisela, the Broken Blade
+4 Bruna, the Fading Light
+4 Brisela, Voice of Nightmares
+4 Angler Turtle
+2 Thirsting Bloodlord
+2 Twinblade Paladin
+8 Karn, Scion of Urza
+8 Contagion Engine
+8 Glimpse of Nature
+8 Resplendent Angel
+8 Braingeyser
+16 Tooth and Nail
+16 Giver of Runes
+2 Primeval Titan
+8 Kira, Great Glass-Spinner
+8 Nether Traitor
+4 Opalescence
+8 Yawgmoth, Thran Physician
+4 Umezawa's Jitte
+8 Sidisi, Undead Vizier
+8 Bloodchief Ascension
+4 Freyalise, Llanowar's Fury
+4 Saheeli Rai
+8 Corpse Dance
+8 Necromancy
+8 Sterling Grove
+8 Birthing Pod
+8 Archangel of Tithes
+8 Spike Weaver
+8 Dance of the Dead
+16 Serra Ascendant
+4 Hall of Gemstone
+8 Baneslayer Angel
+8 Lotus Petal
+4 Liliana, Death's Majesty
+4 Chandra, Acolyte of Flame
+4 Maelstrom Wanderer
+4 Dreadhorde Arcanist
+4 Pendrell Mists
+4 Bastion Protector
+4 Repercussion
+8 Carnage Tyrant
+8 Phyrexian Metamorph
+4 Geist of Saint Traft
+8 Stranglehold
+8 Painful Quandary
+8 Splinter Twin
+8 Lyra Dawnbringer
+8 Drana, Liberator of Malakir
+4 Ice-Fang Coatl
+8 Forced Fruition
+8 Geralf's Messenger
+8 Force of Vigor
+8 Krark-Clan Ironworks
+8 Echo of Eons
+8 Fracturing Gust
+8 Noxious Revival
+8 Pyromancer's Goggles
+4 Serra the Benevolent
+4 Grand Abolisher
+4 Collector Ouphe
+8 Primeval Bounty
+2 Demon of Death's Gate
+8 Realm-Cloaked Giant // Cast Off
+8 Grimgrin, Corpse-Born
+4 Gideon of the Trials
+4 Varchild's War-Riders
+8 Insurrection
+8 Rolling Earthquake
+4 Heritage Druid
+4 Phyrexian Unlife
+4 Angel of Jubilation
+4 Angelic Overseer
+5 Fatal Push
