@@ -4,15 +4,12 @@
 4 Awakening Zone
 4 Battle Screech
 4 Bind
-4 Concordant Crossroads
 4 Conqueror's Pledge
 4 Decimator of the Provinces
 4 Decorated Champion
 4 Demonic Pact
 4 Deserted Temple
 4 Elvish Promenade
-4 Emerald Medallion
-4 Freyalise, Llanowar's Fury
 4 Meglonoth
 4 Purify
 4 Quirion Ranger
@@ -1482,4 +1479,8 @@
 1 Azcanta, the Sunken Ruin
 1 Force of Rage
 1 Undead Alchemist
+1 Bloodline Keeper 
+1 Lord of Lineage
+1 Lightning Skelemental
+1 Puresteel Paladin
 
