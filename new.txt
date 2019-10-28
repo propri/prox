@@ -1480,4 +1480,6 @@
 1 Field of Ruin
 1 Search for Azcanta
 1 Azcanta, the Sunken Ruin
+1 Force of Rage
+1 Undead Alchemist
 
