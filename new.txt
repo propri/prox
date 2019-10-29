@@ -1483,4 +1483,6 @@
 1 Lord of Lineage
 1 Lightning Skelemental
 1 Puresteel Paladin
+1 The Magic Mirror
+1 The Great Henge
 
