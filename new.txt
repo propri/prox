@@ -1485,4 +1485,6 @@
 1 Puresteel Paladin
 1 The Magic Mirror
 1 The Great Henge
+1 Elvish Soultiller
+1 Archfiend of Spite
 
