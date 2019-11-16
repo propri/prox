@@ -1487,4 +1487,25 @@
 1 The Great Henge
 1 Elvish Soultiller
 1 Archfiend of Spite
+1 Defensive Formation
+1 Tolarian Winds
+1 Surestrike Trident
+1 Samurai of the Pale Curtain
+1 Shimmer Myr
+1 Rowen
+1 Aura Flux
+1 False Demise
+1 Aura Fracture
+1 Mindleech Mass
+1 War Barge
+1 Ichor Explosion
+1 Xathrid Demon
+1 Stormrider Rig
+1 Heroes' Bane
+1 Tomb Robber
+1 Tectonic Reformation
+1 Hate Mirage
+1 Wishclaw Talisman
+1 Sand Silos
+1 High Tide
 
