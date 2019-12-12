@@ -1509,4 +1509,6 @@
 1 Sand Silos
 1 High Tide
 1 Kalitas, Traitor of Ghet
+1 Kenrith, the Returned King
+1 Blacklance Paragon
 
