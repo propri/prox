@@ -1513,4 +1513,8 @@
 1 Blacklance Paragon
 1 Irencrag Feat
 1 Foulmire Knight // Profane Insight
+1 Grave Defiler
+1 Careful Study
+1 Ravenous Trap
+1 Kaya's Guile
 
