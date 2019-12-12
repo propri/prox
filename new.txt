@@ -1511,4 +1511,6 @@
 1 Kalitas, Traitor of Ghet
 1 Kenrith, the Returned King
 1 Blacklance Paragon
+1 Irencrag Feat
+1 Foulmire Knight // Profane Insight
 
