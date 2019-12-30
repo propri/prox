@@ -4,6 +4,10 @@
 
 # check for cards in given file not already printed
 
+# use stdin or file argument
+[ $# -ge 1 -a -f "$1" ] && input="$1" || input="/dev/stdin"
+normalized=$(< $input)
+
 # search command
 SEARCH="ack -i --ignore-dir=tools"
 
@@ -23,6 +27,6 @@ while IFS='' read -r line || [[ -n "$line" ]]; do
     else
         echo "$line"
     fi
-done < "$1"
+done <<< "$normalized"
 
 
