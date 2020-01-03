@@ -1522,4 +1522,9 @@
 1 Dragon Broodmother
 1 Folio of Fancies
 1 Lochmere Serpent
+1 Dual Nature
+1 Dawn of the Dead
+1 Hum of the Radix
+1 Grafted Wargear
+1 Burn Away
 
