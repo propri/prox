@@ -1527,49 +1527,50 @@
 1 Hum of the Radix
 1 Grafted Wargear
 1 Burn Away
+1 Chulane, Teller of Tales
+1 Incubation Druid
+1 District Guide
+1 Silhana Wayfinder
+1 Gyre Engineer
+1 Sharktocrab
+1 Faerie Formation
+1 Steelbane Hydra
+1 Thorn Mammoth
+1 Rosethorn Acolyte
+1 Incubation // Incongruity
+1 Tome of Legends
+1 Alela, Artful Provocateur
+1 Shimmer Dragon
+1 Workshop Elders
+1 Animating Faerie // Bring to Life
+1 Shinechaser
+1 Banish into Fable
+1 Guild Globe
+1 Mace of the Valiant
+1 Golden Egg
+1 Shambling Suit
+1 Lawmage's Binding
+1 All That Glitters
+1 Frogify
+1 Syr Gwyn, Hero of Ashvale
+1 Silverwing Squadron
+1 Embereth Skyblazer
+1 Venerable Knight
+1 Belle of the Brawl
+1 Order of Midnight
+1 Smitten Swordmaster
+1 Embereth Shieldbreaker
+1 Wintermoor Commander
+1 Fireborn Knight
+1 Integrity // Intervention
+1 Knights' Charge
+1 Korvold, Fae-Cursed King
+1 Priest of Forgotten Gods
+1 Judith, the Scourge Diva
+1 Chittering Witch
+1 Gluttonous Troll
+1 Savvy Hunter
+1 Taste of Death
+1 Witch's Oven
+1 Memory Jar
 
-Chulane, Teller of Tales 
-Incubation Druid
-District Guide
-Silhana Wayfinder
-Gyre Engineer
-Sharktocrab
-Faerie Formation
-Steelbane Hydra
-Thorn Mammoth
-Rosethorn Acolyte
-Incubation // Incongruity
-Tome of Legends
-Alela, Artful Provocateur
-Shimmer Dragon
-Workshop Elders
-Animating Faerie // Bring to Life
-Shinechaser
-Banish into Fable
-Guild Globe
-Mace of the Valiant
-Golden Egg
-Shambling Suit
-Lawmage's Binding
-All That Glitters
-Frogify
-Syr Gwyn, Hero of Ashvale
-Silverwing Squadron
-Embereth Skyblazer
-Venerable Knight
-Belle of the Brawl
-Order of Midnight
-Smitten Swordmaster
-Embereth Shieldbreaker
-Wintermoor Commander
-Fireborn Knight
-Integrity // Intervention
-Knights' Charge
-Korvold, Fae-Cursed King
-Priest of Forgotten Gods
-Judith, the Scourge Diva
-Chittering Witch
-Gluttonous Troll
-Savvy Hunter
-Taste of Death
-Witch's Oven
