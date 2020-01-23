@@ -1573,4 +1573,21 @@
 1 Taste of Death
 1 Witch's Oven
 1 Memory Jar
+1 Martyrdom
+1 Mind Harness
+1 Concerted Effort
+1 Sporeback Troll
+1 Mizzium Skin
+1 Dimir Cluestone
+1 Mirror Mockery
+1 Blink of an Eye
+1 Tranquil Cove
+1 Dizzy Spell
+1 Deflecting Palm
+1 Razaketh's Rite
+1 Murmuring Mystic
+1 Dance of Many
+1 Guardian Idol
+1 Shred Memory
+1 Dimir Locket
 
