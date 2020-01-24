@@ -1590,4 +1590,112 @@
 1 Guardian Idol
 1 Shred Memory
 1 Dimir Locket
+1 Withstand Death
+1 Saving Grace
+1 Wardscale Crocodile
+1 Loyal Pegasus
+1 Faerie Guidemother // Gift of the Fae
+1 Erebos, Bleak-Hearted
+1 Archon of Sun's Grace
+1 Eidolon of Obstruction
+1 Elspeth Conquers Death
+1 Heliod's Intervention
+1 Idyllic Tutor
+1 Shatter the Sky
+1 Taranika, Akroan Veteran
+1 Thassa's Intervention
+1 Aphemia, the Cacophony
+1 Eat to Extinction
+1 Erebos's Intervention
+1 Gravebreaker Lamia
+1 Nightmare Shepherd
+1 Treacherous Blessing
+1 Tymaret Calls the Dead
+1 The Akroan War
+1 Storm's Wrath
+1 Arasta of the Endless Web
+1 Mantle of the Wolf
+1 Nylea's Intervention
+1 Atris, Oracle of Half-Truths
+1 Gallia of the Endless Dance
+1 Haktos the Unscarred
+1 Kunoros, Hound of Athreos
+1 Shadowspear
+1 Alseid of Life's Bounty
+1 Archon of Falling Stars
+1 Commanding Presence
+1 Dawn Evangel
+1 Daxos, Blessed by the Sun
+1 Heliod's Punishment
+1 Lagonna-Band Storyteller
+1 Alirios, Enraptured
+1 Callaphe, Beloved of the Sea
+1 Medomai's Prophecy
+1 Sage of Mysteries
+1 Stinging Lionfish
+1 Whirlwind Denial
+1 Cling to Dust
+1 Drag to the Underworld
+1 Elspeth's Nightmare
+1 Hateful Eidolon
+1 Inevitable End
+1 Minion's Return
+1 Pharika's Spawn
+1 Tymaret, Chosen from Death
+1 Anax, Hardened in the Forge
+1 Furious Rise
+1 The Binding of the Titans
+1 Chainweb Aracnir
+1 Hydra's Growth
+1 Mystic Repeal
+1 Nessian Hornbeetle
+1 Nessian Wanderer
+1 Renata, Called to the Hunt
+1 Wolfwillow Haven
+1 Acolyte of Affliction
+1 Rise to Glory
+1 Siona, Captain of the Pyleas
+1 Staggering Insight
+1 Soul-Guide Lantern
+1 Captivating Unicorn
+1 Flicker of Fate
+1 Omen of the Sun
+1 Transcendent Envoy
+1 Triumphant Surge
+1 Ichthyomorphosis
+1 Naiad of Hidden Coves
+1 Omen of the Sea
+1 Starlit Mantle
+1 Stern Dismissal
+1 Thirst for Meaning
+1 Final Death
+1 Funeral Rites
+1 Mire's Grasp
+1 Pharika's Libation
+1 Soulreaper of Mogis
+1 Hyrax Tower Scout
+1 Ilysian Caryatid
+1 Inspire Awe
+1 Moss Viper
+1 Nylea's Forerunner
+1 Omen of the Hunt
+1 Setessan Training
+1 Skola Grovedancer
+1 Altar of the Pantheon
+1 Wings of Hubris
+1 Demonic Consultation
+1 Femeref Enchantress
+1 Turnabout
+1 Tower of the Magistrate
+1 Twilight's Call
+1 Endless Whispers
+1 Peer Through Depths
+1 Cauldron Haze
+1 Restless Apparition
+1 Slagstorm
+1 Torpor Orb
+1 Vengeful Pharaoh
+1 Olivia Voldaren
+1 Soulfire Grand Master
+1 Day's Undoing
 
