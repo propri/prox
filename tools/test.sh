@@ -6,7 +6,7 @@
 
 # use stdin or file argument
 [ $# -ge 1 -a -f "$1" ] && input="$1" || input="/dev/stdin"
-normalized=$(< $input)
+normalized=$(< "$input")
 
 # search command
 SEARCH="ack -i --ignore-dir=tools"
