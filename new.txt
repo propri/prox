@@ -1698,4 +1698,8 @@
 1 Olivia Voldaren
 1 Soulfire Grand Master
 1 Day's Undoing
+1 Vedalken Heretic
+1 Burrenton Forge-Tender
+1 Kiora Bests the Sea God
+1 Setessan Champion
 
