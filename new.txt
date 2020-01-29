@@ -1703,4 +1703,26 @@
 1 Kiora Bests the Sea God
 1 Setessan Champion
 1 Angelic Destiny
+1 Lost Leonin
+1 Embodiment of Spring
+1 Bloodthrone Vampire
+1 Charmed Sleep
+1 Foreboding Fruit
+1 Gingerbread Cabin
+1 Thassa, Deep-Dwelling
+1 Thassa's Oracle
+1 Thryx, the Sudden Storm
+1 Purphoros's Intervention
+1 Dryad of the Ilysian Grove
+1 Bronzehide Lion
+1 Dalakos, Crafter of Wonders
+1 Nyx Lotus
+1 Reverent Hoplite
+1 Destiny Spinner
+1 Eutropia the Twice-Favored
+1 Vines of Vastwood
+1 Gift of Paradise
+1 Nylea, Keen-Eyed
+1 Allure of the Unknown
+1 Athreos, Shroud-Veiled
 
