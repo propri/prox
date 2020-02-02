@@ -1725,4 +1725,12 @@
 1 Nylea, Keen-Eyed
 1 Allure of the Unknown
 1 Athreos, Shroud-Veiled
+1 Silverstrike
+1 Disfigure
+1 Garruk, Cursed Huntsman
+1 Kroxa, Titan of Death's Hunger
+1 Polukranos, Unchained
+1 Underworld Breach
+1 Portent of Betrayal
+1 Nylea's Huntmaster
 
