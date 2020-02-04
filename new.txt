@@ -1733,4 +1733,18 @@
 1 Underworld Breach
 1 Portent of Betrayal
 1 Nylea's Huntmaster
+1 Narnam Renegade
+1 Rustwing Falcon
+1 Marisi, Breaker of the Coil
+1 Warriors' Lesson
+1 Soltari Foot Soldier
+1 Biorhythm
+1 Treetop Scout
+1 Lapse of Certainty
+1 Trace of Abundance
+1 Ageless Entity
+1 Aven Skirmisher
+1 Crystal Chimes
+1 Celestial Ancient
+1 Ahn-Crop Champion
 

@@ -1,0 +1,87 @@
+Main
+1 Sharuum the Hegemon # !Commander
+1 Aether Gale
+1 Aetherize
+1 Artificer's Epiphany
+1 Azorius Guildgate
+1 Azorius Locket
+1 Body Double
+1 Cackling Counterpart
+1 Celestial Purge
+1 Countersquall
+1 Dance of Many
+1 Dark Ritual
+1 Devour in Shadow
+1 Diabolic Tutor
+1 Dig Through Time
+1 Dimir Cluestone
+1 Dimir Guildgate
+1 Dimir Infiltrator
+1 Dimir Locket
+1 Disciple of the Vault
+1 Dismal Backwater
+1 Dispel
+1 Dissipate
+1 Dissolve
+1 Dizzy Spell
+1 Duress
+1 Fact or Fiction
+1 Final Parting
+1 Fractured Powerstone
+1 Guardian Idol
+1 Into the Roil
+11 Island
+1 Kasmina's Transmutation
+1 Languish
+1 Mana Geode
+1 Mana Leak
+1 Mind Harness
+1 Mindblade Render
+1 Mirror Mockery
+1 Mortify
+1 Murderous Cut
+1 Murmuring Mystic
+1 Negate
+1 Notion Rain
+1 Notion Thief
+1 Orzhov Charm
+1 Orzhov Guildgate
+1 Orzhov Locket
+1 Orzhov Signet
+8 Plains
+1 Planar Outburst
+1 Price of Fame
+1 Prismatic Lens
+1 Razaketh's Rite
+1 Read the Bones
+1 Reprobation
+1 Shred Memory
+1 Sign in Blood
+1 Skeletal Scrying
+1 Sphere of the Suns
+1 Supreme Will
+10 Swamp
+1 Syphon Mind
+1 Tainted Field
+1 Talisman of Hierarchy
+1 Tomebound Lich
+1 Tranquil Cove
+1 Treasure Cruise
+1 Underworld Connections
+1 Unwind
+1 Vessel of Endless Rest
+1 Victim of Night
+1 Whispering Madness
+
+1 Zulaport Cutthroat
+
+Sideboard
+SB: 1 Blink of an Eye
+SB: 1 Dovin's Veto
+SB: 1 Glimmer of Genius
+SB: 1 Mirror Image
+SB: 1 Murder
+SB: 1 Painful Truths
+SB: 1 Quasiduplicate
+SB: 1 Twisted Reflection
+SB: 1 Tyrant's Scorn

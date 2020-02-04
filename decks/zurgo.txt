@@ -1,0 +1,76 @@
+Main
+1 Zurgo Helmsmasher # !Commander
+1 Adanto Vanguard
+1 Akoum Refuge
+1 Ancient Craving
+1 Arcbond
+1 Assault Suit
+1 Azra Oddsmaker
+1 Baleful Force
+1 Banishing Light
+1 Boros Cluestone
+1 Boros Guildgate
+1 Boros Locket
+1 Breath of Darigaaz
+1 Burnout
+1 By Force
+1 Cathartic Reunion
+1 Chain Reaction
+1 Devour in Shadow
+1 Diabolic Tutor
+1 Dimir Machinations
+1 Duress
+1 Dusk // Dawn
+1 Evolving Wilds
+1 Faithless Looting
+1 Final Parting
+1 Fractured Powerstone
+1 Goblin Dark-Dwellers
+1 Guardian Idol
+1 Guilty Conscience
+1 Magmatic Insight
+1 Mana Geode
+1 Martyrdom
+1 Mind Shatter
+1 Mindblade Render
+1 Mizzium Mortars
+1 Mortify
+10 Mountain
+1 Murder
+1 Necrologia
+1 Nomad Outpost
+1 Orzhov Charm
+1 Orzhov Cluestone
+1 Orzhov Guildgate
+1 Orzhov Locket
+1 Pariah
+8 Plains
+1 Planar Outburst
+1 Price of Fame
+1 Prismatic Lens
+1 Pyroclasm
+1 Rakdos Cluestone
+1 Rakdos Guildgate
+1 Rakdos Locket
+1 Ransack the Lab
+1 Ravenous Chupacabra
+1 Razaketh's Rite
+1 Read the Bones
+1 Red Elemental Blast
+1 Reprobation
+1 Restoration Specialist
+1 Rile
+1 Saving Grace
+1 Scoured Barrens
+1 Sign in Blood
+1 Skeletal Scrying
+1 Slagstorm
+1 Sphere of the Suns
+10 Swamp
+1 Syphon Mind
+1 Tragic Arrogance
+1 Underworld Connections
+1 Unlicensed Disintegration
+1 Vessel of Endless Rest
+1 Victim of Night
+1 Wind-Scarred Crag
