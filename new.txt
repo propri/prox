@@ -1748,4 +1748,6 @@
 1 Celestial Ancient
 1 Ahn-Crop Champion
 1 Urabrask the Hidden
+1 Stigma Lasher
+1 Demon of Catastrophes
 
