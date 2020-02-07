@@ -1,0 +1,99 @@
+Main
+1 Wort, the Raidmother # !Commander
+1 Arachnogenesis
+1 Benefactor's Draught #?
+1 Heroic Intervention
+1 Lightning Greaves
+1 Omnath, Locus of Rage #evtl raus? rg tokens!
+1 Purphoros, God of the Forge
+1 Regrowth
+1 Tireless Tracker
+1 Xenagos, the Reveler
+
+spells
+1 Apex of Power #? cards exiled, no mana on copy
+1 Bonus Round
+1 Comet Storm
+1 Electrodominance
+1 Mizzix's Mastery
+1 Primal Amulet
+1 Pyromancer's Goggles
+1 Sunbird's Invocation
+1 The Great Aurora
+
+removal
+1 Artifact Mutation
+1 Beast Within
+1 Ezuri's Predation
+1 Hull Breach
+1 Nature's Claim
+1 Volcanic Offering
+1 Volcanic Vision
+
+token
+1 Avenger of Zendikar
+1 Beastmaster Ascension
+1 Doubling Season
+1 Dragon Fodder
+1 Empty the Warrens
+1 Goblin Rally
+1 Hordeling Outburst
+1 Krenko's Command
+1 Krenko, Mob Boss
+1 Parallel Lives
+1 Second Harvest
+1 Siege-Gang Commander
+1 Sylvan Offering
+1 Young Pyromancer
+
+ramp
+1 Boundless Realms
+1 Brass's Bounty
+1 Cultivate
+1 Explosive Vegetation
+1 Farseek
+1 Grow from the Ashes
+1 Harvest Season
+1 Kodama's Reach
+1 Mana Geyser
+1 Nature's Lore
+1 Oracle of Mul Daya
+1 Pir's Whim
+1 Rampant Growth
+1 Sakura-Tribe Elder
+1 Skyshroud Claim
+1 Sol Ring
+1 Wood Elves
+
+draw
+1 Collective Unconscious
+1 Commune with Lava
+1 Harmonize
+1 Praetor's Counsel
+1 Shamanic Revelation
+1 Skullclamp
+1 Sylvan Library
+
+lands
+1 Blighted Woodland
+1 Boseiju, Who Shelters All
+1 Cinder Glade
+1 Command Tower
+10 Forest
+1 Kessig Wolf Run
+1 Khalni Garden
+1 Kher Keep
+10 Mountain
+1 Myriad Landscape
+1 Reliquary Tower
+1 Rootbound Crag
+1 Sheltered Thicket
+1 Spire Garden
+1 Stomping Ground
+1 Temple of Abandon
+1 Windswept Heath
+1 Wooded Foothills
+
+Sideboard
+SB: 1 Decimate
+SB: 1 Game Trail
