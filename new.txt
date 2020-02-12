@@ -1750,4 +1750,5 @@
 1 Urabrask the Hidden
 1 Stigma Lasher
 1 Demon of Catastrophes
+1 Kozilek, Butcher of Truth
 
