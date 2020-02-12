@@ -1751,4 +1751,11 @@
 1 Stigma Lasher
 1 Demon of Catastrophes
 1 Kozilek, Butcher of Truth
+1 Taigam, Ojutai Master
+1 Scroll of Fate
+1 Peel from Reality
+1 Captain of the Watch
+1 Intangible Virtue
+1 Wing Splicer
+1 History of Benalia
 
