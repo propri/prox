@@ -1758,4 +1758,12 @@
 1 Intangible Virtue
 1 Wing Splicer
 1 History of Benalia
+1 Throat Slitter
+1 Reroute
+1 Amoeboid Changeling
+1 Faerie Macabre
+1 Verdant Haven
+1 Kill Shot
+1 Sheltered Aerie
+1 Weirding Wood
 
