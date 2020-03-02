@@ -1766,4 +1766,8 @@
 1 Kill Shot
 1 Sheltered Aerie
 1 Weirding Wood
+1 Koskun Falls
+1 Xathrid Necromancer
+1 Vesuvan Doppelganger
+1 Patron Wizard
 
