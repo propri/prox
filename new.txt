@@ -1770,4 +1770,7 @@
 1 Xathrid Necromancer
 1 Vesuvan Doppelganger
 1 Patron Wizard
+1 Time Sieve
+1 Sword of the Meek
+1 Sculpting Steel
 
