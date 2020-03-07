@@ -1773,4 +1773,5 @@
 1 Time Sieve
 1 Sword of the Meek
 1 Sculpting Steel
+1 Castle Locthwain
 
