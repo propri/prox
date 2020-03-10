@@ -1774,4 +1774,51 @@
 1 Sword of the Meek
 1 Sculpting Steel
 1 Castle Locthwain
+1 Broken Fall
+1 Recurring Insight
+1 Topplegeist
+1 Angel of the Dire Hour
+1 Chancellor of the Annex
+1 Weathered Wayfarer
+1 Bear Cub
+1 Abundant Growth
+1 Woe Strider
+1 Calix, Destiny's Hand
+1 Purphoros, Bronze-Blooded
+1 Ironscale Hydra
+1 Psychic Vortex
+1 Manipulate Fate
+1 Cabal Ritual
+1 Price of Progress
+1 Renegade Rallier
+1 Scryb Sprites
+1 Ley Druid
+1 Hand to Hand
+1 False Defeat
+1 Holistic Wisdom
+1 Seton, Krosan Protector
+1 Kitsune Mystic
+1 Night Dealings
+1 Molting Skin
+1 Psychic Possession
+1 Keening Apparition
+1 Fated Retribution
+1 Dispatch
+1 Kitesail Scout
+1 Monk Idealist
+1 Illusion of Choice
+1 Hope Tender
+1 Azor's Gateway
+1 Sanctum of the Sun
+1 Ley Weaver
+1 Repudiate // Replicate
+1 Snow-Covered Island
+1 The Circle of Loyalty
+1 Sentinel's Eyes
+1 Dark Heart of the Wood
+1 Cytoshape
+1 Candles of Leng
+1 Auratog
+1 Armored Ascension
+1 Blightwidow
 
