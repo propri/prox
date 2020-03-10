@@ -1821,4 +1821,6 @@
 1 Auratog
 1 Armored Ascension
 1 Blightwidow
+1 Nyxbloom Ancient
+1 Gilded Goose
 
