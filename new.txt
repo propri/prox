@@ -227,7 +227,7 @@
 1 Ethereal Absolution
 1 Kopala, Warden of Waves
 1 Deeproot Elite
-1 Silvergil Adept
+1 Silvergill Adept
 1 Thada Adel, Acquisitor
 1 Guardian Project
 1 Anointer Priest
@@ -319,7 +319,6 @@
 1 Faith of the Devoted
 1 Winds of Change
 1 Cryptoplasm
-1 Elemental Token
 1 Gift of Estates
 1 Jarad's Orders
 1 Mindmoil
@@ -472,6 +471,7 @@
 1 Glorious Anthem
 1 Karn, the Great Creator
 1 Ilharg, the Raze Boar
+1 Ilharg, the Raze-Boar
 1 Feather, the Redeemed
 1 Despark
 1 New Horizons
@@ -582,7 +582,7 @@
 1 Mangara of Corondor
 1 Prime Speaker Vannifar
 1 Stone Haven Outfitter
-1 Mout // Feed
+1 Mouth // Feed
 1 Captain's Claws
 1 Kira, Great Glass-Spinner
 1 Norin the Wary
@@ -591,7 +591,8 @@
 1 Firespout
 1 Tidebinder Mage
 1 Dromoka's Command
-1 Duskwatch Recruiter / Krallenhorde Howler
+1 Duskwatch Recruiter
+1 Krallenhorde Howler
 1 Pieces of the Puzzle
 1 Saheeli Rai
 1 Threads of Disloyalty
@@ -1028,6 +1029,7 @@
 1 Embodiment of Agonies
 1 Knight of the Ebon Legion
 1 Legions End
+1 Legion's End
 1 Rotting Regisaur
 1 Scheming Symmetry
 1 Drakuseth, Maw of Flames
@@ -1329,7 +1331,6 @@
 1 Thunderbreak Regent
 1 Training Grounds
 1 Darksteel Relic
-1 Beast Token
 1 Oversold Cemetery
 1 The First Sliver
 1 Nurturing Peatland
@@ -1845,4 +1846,13 @@
 1 Savai Triome
 1 Heartless Act
 1 Migration Path
+
+1 Frozen Æther
+1 Codex Shredder
+1 Jandor's Saddlebags
+1 Final Fortune
+1 Crooked Scales
+1 Sabertooth Nishoba
+1 Brass Herald
+1 Mantis Rider
 
