@@ -1823,4 +1823,26 @@
 1 Blightwidow
 1 Nyxbloom Ancient
 1 Gilded Goose
+1 Serra's Sanctum
+1 Gravestorm
+1 Misthollow Griffin
+1 Spire Tracer
+1 Kinnan, Bonder Prodigy
+1 Jegantha, the Wellspring
+1 Umori, the Collector
+1 Ketria Triome
+1 Raugrin Triome
+1 Zagoth Triome
+1 Temporal Spring
+1 Chain of Smog
+1 Drannith Magistrate
+1 Eerie Ultimatum
+1 Emergent Ultimatum
+1 Genesis Ultimatum
+1 Inspired Ultimatum
+1 Ruinous Ultimatum
+1 Indatha Triome
+1 Savai Triome
+1 Heartless Act
+1 Migration Path
 
