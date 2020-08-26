@@ -1861,4 +1861,114 @@
 1 Offspring's Revenge
 1 Sosuke, Son of Seshiro
 1 Sword of Body and Mind
+1 Boon Reflection
+1 Council's Judgment
+1 Grim Tutor
+1 Liliana, Waker of the Dead
+1 Angelic Ascension
+1 Aven Gagglemaster
+1 Bad Deal
+1 Basri's Solidarity
+1 Burlfist Oak
+1 Conclave Mentor
+1 Conspicuous Snoop
+1 Eliminate
+1 Enthralling Hold
+1 Experimental Overload
+1 Feline Sovereign
+1 Finishing Blow
+1 Fungal Rebirth
+1 Gadrak, the Crown-Scourge
+1 Garruk's Harbinger
+1 Garruk's Uprising
+1 Ghostly Pilferer
+1 Goblin Wizardry
+1 Goremand
+1 Grasp of Darkness
+1 Griffin Aerie
+1 Havoc Jester
+1 Hunter's Edge
+1 Idol of Endurance
+1 Indulging Patrician
+1 Invigorating Surge
+1 Jeskai Elder
+1 Legion's Judgment
+1 Library Larcenist
+1 Light of Promise
+1 Liliana's Devotee
+1 Liliana's Standard Bearer
+1 Llanowar Visionary
+1 Lofty Denial
+1 Malefic Scythe
+1 Obsessive Stitcher
+1 Pestilent Haze
+1 Pridemalkin
+1 Quirion Dryad
+1 Rambunctious Mutt
+1 Read the Tides
+1 Rise Again
+1 Sanctum of Calm Waters
+1 Sanctum of Fruitful Harvest
+1 Sanctum of Shattered Heights
+1 Sanctum of Stone Fangs
+1 Sanctum of Tranquil Light
+1 Sanguine Indulgence
+1 Secure the Scene
+1 Shipwreck Dowser
+1 Silversmote Ghoul
+1 Soul Sear
+1 Swift Response
+1 Teferi's Tutelage
+1 Tolarian Kraken
+1 Tome Anima
+1 Track Down
+1 Traitorous Greed
+1 Trufflesnout
+1 Twinblade Assassins
+1 Unleash Fury
+1 Valorous Steed
+1 Village Rites
+1 Waker of Waves
+1 Watcher of the Spheres
+1 Wildwood Scourge
+1 Witch's Cauldron
+1 Barrin, Tolarian Archmage
+1 Basri's Lieutenant
+1 Brash Taunter
+1 Discontinuity
+1 Double Vision
+1 Hooded Blightfang
+1 Jolrael, Mwonvuli Recluse
+1 Kaervek, the Spiteful
+1 Massacre Wurm
+1 Niambi, Esteemed Speaker
+1 Nine Lives
+1 Pack Leader
+1 Primal Might
+1 Pursued Whale
+1 Radha, Heart of Keld
+1 See the Truth
+1 Speaker of the Heavens
+1 Sporeweb Weaver
+1 Subira, Tulzidi Caravanner
+1 Sublime Epiphany
+1 Teferi's Ageless Insight
+1 Thieves' Guild Enforcer
+1 Transmogrify
+1 Vito, Thorn of the Dusk Rose
+1 Volcanic Salvo
+1 Fiery Emancipation
+1 Mangara, the Diplomat
+1 Elder Gargaroth
+1 Peer into the Abyss
+1 Song of Creation
+1 Devout Lightcaster
+1 Descent into Madness
+1 Wild Defiance
+1 Epic Experiment
+1 Renegade Krasis
+1 Behold the Beyond
+1 Knowledge Pool
+1 Gyruda, Doom of Depths
+1 Obosh, the Preypiercer
 
