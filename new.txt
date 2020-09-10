@@ -1971,4 +1971,33 @@
 1 Knowledge Pool
 1 Gyruda, Doom of Depths
 1 Obosh, the Preypiercer
+1 Academy Ruins
+1 Bloodspore Thrinax
+1 Clone Shell
+1 Cogwork Assembler
+1 Drown in Sorrow
+1 Esperzoa
+1 Gelatinous Genesis
+1 Glassdust Hulk
+1 Glimmervoid
+1 Jhoira's Familiar
+1 Kazuul's Toll Collector
+1 Kozilek's Predator
+1 Leonin Abunas
+1 Maelstrom Pulse
+1 Mesmeric Orb
+1 Myrsmith
+1 Pentad Prism
+1 Rage Reflection
+1 Rhys the Redeemed
+1 Riku of Two Reflections
+1 Stonehewer Giant
+1 Sundering Titan
+1 Trash for Treasure
+1 Vampire Hexmage
+1 Vish Kal, Blood Arbiter
+1 Voice of Resurgence
+1 Well of Ideas
+1 Wound Reflection
+1 Yavimaya's Embrace
 
