@@ -2000,4 +2000,178 @@
 1 Well of Ideas
 1 Wound Reflection
 1 Yavimaya's Embrace
+1 Mind Over Matter
+1 Noble Hierarch
+1 Oubliette
+1 Sands of Time
+1 Silent Arbiter
+1 Sneak Attack
+1 Surreal Memoir
+1 Abandoned Sarcophagus
+1 Adriana, Captain of the Guard
+1 Agitator Ant
+1 Akim, the Soaring Wind
+1 Animist's Awakening
+1 Archipelagore
+1 Auspicious Starrix
+1 Avenging Huntbonder
+1 Azorius Chancery
+1 Bastion of Remembrance
+1 Blood Curdle
+1 Bonder's Ornament
+1 Boneyard Lurker
+1 Boneyard Mycodrax
+1 Boon of the Wish-Giver
+1 Boros Garrison
+1 Brallin, Skyshark Rider
+1 Cairn Wanderer
+1 Call the Coppercoats
+1 Capricopian
+1 Cartographer's Hawk
+1 Cast Out
+1 Cavalry Pegasus
+1 Cavern Whisperer
+1 Cazur, Ruthless Stalker
+1 Chandra, Flamecaller
+1 Channeled Force
+1 Chittering Harvester
+1 Clash of Titans
+1 Cryptic Trilobite
+1 Crystalline Resonance
+1 Curator of Mysteries
+1 Curious Herd
+1 Daring Fiendbonder
+1 Deadly Rollick
+1 Dearly Departed
+1 Decoy Gambit
+1 Deflecting Swat
+1 Devout Chaplain
+1 Dimir Aqueduct
+1 Dire Tactics
+1 Dismantling Wave
+1 Dreamtail Heron
+1 Dredge the Mire
+1 Eon Frolicker
+1 Ethereal Forager
+1 Evolution Charm
+1 Evolving Wilds
+1 Fierce Guardianship
+1 Fireflux Squad
+1 Flawless Maneuver
+1 Fluctuator
+1 Frontier Warmonger
+1 Gavi, Nest Warden
+1 General's Enforcer
+1 Glademuse
+1 Glowstone Recluse
+1 Golgari Rot Farm
+1 Haldan, Avid Arcanist
+1 Herald of the Forgotten
+1 Hunting Pack
+1 Insatiable Hemophage
+1 Izzet Boilerworks
+1 Jirina Kudro
+1 Jungle Hollow
+1 Kalamax, the Stormsire
+1 Kathril, Aspect Warper
+1 Kelsien, the Plague
+1 Lavabrink Floodgates
+1 Lightning Rift
+1 Lunar Mystic
+1 Majestic Myriarch
+1 Manascape Refractor
+1 Martial Impetus
+1 Migratory Greathorn
+1 Mindleecher
+1 Molten Echoes
+1 Nahiri, the Harbinger
+1 Nascent Metamorph
+1 Nesting Grounds
+1 Netherborn Altar
+1 Neutralize
+1 Niblis of Frost
+1 Nikara, Lair Scavenger
+1 Nyx Weaver
+1 Obscuring Haze
+1 Ominous Seas
+1 Orzhov Basilica
+1 Otrimi, the Ever-Playful
+1 Pako, Arcane Retriever
+1 Parasitic Impetus
+1 Pouncing Shoreshark
+1 Predatory Impetus
+1 Primal Empathy
+1 Psychic Impetus
+1 Rakdos Carnarium
+1 Raugrin Crystal 
+1 Ravenous Gigantotherium
+1 Reconnaissance Mission
+1 Riders of Gavony
+1 Rooting Moloch
+1 Sanctuary Blade
+1 Sanctuary Lockdown
+1 Savai Thundermane
+1 Sawtusk Demolisher
+1 Selective Adaptation
+1 Shabraz, the Skyshark
+1 Shiny Impetus
+1 Silvar, Devourer of the Free
+1 Simic Growth Chamber
+1 Skycloud Expanse
+1 Slippery Bogbonder
+1 Solemn Recruit
+1 Souvenir Snatcher
+1 Species Specialist
+1 Spellpyre Phoenix
+1 Strength of the Tajuru
+1 Surly Badgersaur
+1 Tayam, Luminous Enigma
+1 Temur Charm
+1 Thalia's Lieutenant
+1 Tidal Barracuda
+1 Titan Hunter
+1 Titan of Eternal Fire
+1 Titanoth Rex
+1 Together Forever
+1 Trumpeting Gnarr
+1 Trynn, Champion of Freedom
+1 Twinning Staff
+1 Ukkima, Stalking Shadow
+1 Unbreakable Bond
+1 Valiant Rescuer
+1 Vastwood Hydra
+1 Verge Rangers
+1 Vigilante Justice
+1 Vitality Hunter
+1 Void Beckoner
+1 Vorapede
+1 Whiplash Trap
+1 Wydwen, the Biting Gale
+1 Xyris, the Writhing Storm
+1 Yannik, Scavenging Sentinel
+1 Zaxara, the Exemplary
+1 Zenith Flare
+1 Anowon, the Ruin Thief
+1 Enigma Thief
+1 Geode Rager
+1 Jwar Isle Refuge
+1 Latchkey Faerie
+1 Marsh Flitter
+1 Merfolk Windrobber
+1 Military Intelligence
+1 Murasa Rootgrazer
+1 Needle Spires
+1 Nighthowler
+1 Obuun, Mul Daya Ancestor
+1 Oona's Blackguard
+1 Oona, Queen of the Fae
+1 Retreat to Emeria
+1 Roiling Regrowth
+1 Scaretiller
+1 Soaring Thought-Thief
+1 Stinkdrinker Bandit
+1 Sure-Footed Infiltrator
+1 Sygg, River Cutthroat
+1 Trove Warden
+1 Whispersteel Dagger
 
